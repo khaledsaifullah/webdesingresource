@@ -1,0 +1,114 @@
+<div class="calculator-box">
+    <div class="calculator-header">
+        <span id="datashow-one"></span>
+        <span id="data-sign"></span>
+        <span id="datashow-two"></span>
+        <span id="datashow-equal"></span>
+        <span id="dataresult"></span>
+    </div>
+
+    <div class="calculator-content">
+    <table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+            <td><div id="number-seven">7</div></td>
+            <td><div id="number-eight">8</div></td>
+            <td><div id="number-nine">9</div></td>
+            <td><div id="multiplication-sign">*</div></td>
+        </tr>
+        <tr>
+            <td><div id="number-four">4</div></td>
+            <td><div id="number-five">5</div></td>
+            <td><div id="number-six">6</div></td>
+            <td><div id="minus-sign">-</div></td>
+        </tr>
+        <tr>
+            <td>
+                <button value="1" name="numbervalue">1</button>
+            </td>
+            <td>
+                <button value="2" name="numbervalue">2</button>
+            </td>
+            <td>
+                <button value="3" name="numbervalue">3</button>
+            </td>
+            <td><div id="plus-sign">+</div></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>0</td>
+            <td>&nbsp;</td>
+            <td><div id="equal-sign">=</div></td>
+        </tr>
+    </table>
+    </div>
+</div>
+<script type="text/javascript">
+
+
+
+    document.getElementById('plus-sign').addEventListener('click',function () {
+        document.getElementById('data-sign').innerHTML = document.getElementById('plus-sign').innerHTML;
+    })
+    document.getElementById('minus-sign').addEventListener('click',function () {
+        document.getElementById('data-sign').innerHTML = document.getElementById('minus-sign').innerHTML;
+    })
+    document.getElementById('multiplication-sign').addEventListener('click',function () {
+        document.getElementById('data-sign').innerHTML = document.getElementById('multiplication-sign').innerHTML;
+    })
+
+
+    document.getElementById('equal-sign').addEventListener('click',function () {
+        document.getElementById('datashow-equal').innerHTML = document.getElementById('equal-sign').innerHTML;
+        var dataone = document.getElementById('datashow-one').innerHTML;
+        var datatwo = document.getElementById('datashow-two').innerHTML;
+
+        var currentoperator = document.getElementById('data-sign').innerHTML;
+        if(currentoperator == "+"){
+            var result = parseInt(dataone) + parseInt(datatwo);
+            document.getElementById('dataresult').innerHTML = result;
+        }
+        else if (currentoperator == "-"){
+            var result = parseInt(dataone) - parseInt(datatwo);
+            document.getElementById('dataresult').innerHTML = result;
+        }
+        else if (currentoperator == "*"){
+            var result = parseInt(dataone) * parseInt(datatwo);
+            document.getElementById('dataresult').innerHTML = result;
+        }
+
+
+    })
+
+
+</script>
+
+
+<style type="text/css">
+    .calculator-box {
+        padding: 80px;
+        width: 300px;
+    }
+    .calculator-header {
+        background: #ccc;
+        height: 60px;
+        font-size: 20px;
+        font-weight: bold;
+        font-family: arial;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .calculator-content table {
+        width: 300px;
+        text-align: center;
+        border: none;
+    }
+    .calculator-content table td {
+        vertical-align: middle;
+        padding: 15px;
+        font-size: 20px;
+        font-weight: bold;
+        font-family: arial;
+        border: 1px solid #ccc;
+    }
+</style>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('.mobilemenu').click(function () {
+				$('.mobilemenu').hide('slow');
+				$('.slidebar-menu').animate({left: '300px'});
+			})
+
+
+			$('.mobilemenucloase').click(function () {
+				$('.slidebar-menu').animate({left: '0'},5);
+				$('.mobilemenu').show('slow');
+			})
+
+
+
+		});
+	</script>
+	<style type="text/css">
+		*{
+			margin: 0;
+			padding: 0;
+		}
+		.header-content{
+			position: relative;
+			min-height: 100px;
+			background-color:#d6d6db;
+		}
+		.mobilemenu{
+			position: absolute;
+			left:300px;
+			top:20px;
+		}
+		.slidebar-menu {
+			width: 150px;
+			position: absolute;
+			left: 0;
+			top:0px;
+			background-color: #eee;
+			padding: 30px;
+			height: 100vh;
+			transform: translateX(-300px);
+
+			transition-property: all;
+			transition-timing-function: linear;
+			transition-delay: 250ms;
+			transition-duration: 1s;
+
+		}
+		.header-content:hover  .slidebar-menu{
+			/*transform: translateX(0);*/
+		}
+		.mobilemenucloase {
+			position: absolute;
+			right: 20px;
+			top: 0;
+		}
+	</style>
+</head>
+<body>
+<header class="header-content">
+	<a href="javascript:void(0)" class="mobilemenu"><i class="fa fa-align-justify" style="font-size:36px;"></i></a>
+	<div class="slidebar-menu">
+		<a href="javascript:void(0)" class="mobilemenucloase"><i class="fa fa-scissors" style="font-size:36px;"></i></a>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Contact</a></li>
+		</ul>
+	</div>
+</header>
+
+
+
+
+
+</body>
+</html>

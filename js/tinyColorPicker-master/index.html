@@ -1,0 +1,43 @@
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<link rel="shortcut icon" type="image/x-icon" href="development/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="development/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="development/compatibility.css">
+	<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+	<script type="text/javascript" src="colors.js"></script>
+	<script type="text/javascript" src="jqColorPicker.js"></script>
+<div class="input-toggles">
+	<!--<input class="color no-alpha" value="#B6BD79" id="mycolorvalue"   />-->
+	<input class="color no-alpha" value="" id="mycolorvalue" />
+	<!--<input class="color no-alpha" value="hsl(32, 95%, 23%)" />-->
+</div>
+<script type="text/javascript" src="index.js"></script>
+
+
+<div id="container">
+	<h1>H1 header</h1>
+</div>
+
+
+<script type="text/javascript">
+	document.getElementById("mycolorvalue").addEventListener("keyup", function(){
+		var x = document.getElementById("container").querySelectorAll("h1,h2,h3,h4,h5,h6,p");
+		var getColorData = document.getElementById('mycolorvalue').value;
+		var i;
+		for (i = 0; i < x.length; i++) {
+			x[i].style.backgroundColor = getColorData;
+		}
+
+
+	});
+</script>
+
+	<a href="javascript:void(0)" id="khaled" style="margin-left: 200px;">Click</a>
+	<script>
+		document.getElementById('khaled').addEventListener('click',function () {
+			var test = document.getElementById('mycolorvalue').style.backgroundColor;
+			document.getElementById('resultheare').innerHTML = test;
+		})
+	</script>
+	<div id="resultheare"  style="margin-left: 200px;">Loding...</div>

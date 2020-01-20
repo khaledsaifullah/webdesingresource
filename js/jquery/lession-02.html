@@ -1,0 +1,50 @@
+<script>
+	//class  create and properties decaler
+	function person(name,age,haircolor) {
+		this.name = name;
+		this.age = age;
+		this.haircolor = haircolor;
+		this.retairment = retairment;
+		this.retairmentdays = retairmentdays;
+		this.totlaincome = totlaincome;
+	}
+	//method Year Count
+	function retairment() {
+		var dueyears = 70 - this.age;
+		return dueyears;
+	}
+
+	//method Day Count
+	function  retairmentdays() {
+		var dueyears = (70 - this.age)*12;
+		return dueyears;
+	}
+
+	//method Icome
+	function totlaincome() {
+		var totlaincome = (70 - this.age)*12*25000;
+		return totlaincome;
+	}
+
+
+	//object create
+	var objkhaled = new person("Khaled",33,"Black");
+
+	var objkhalek = new person("Khalek",33,"Black");
+
+</script>
+
+
+
+<script type="text/javascript">
+	document.write('Name:'+objkhaled.name+'<br>'+'Age:'+objkhaled.age+'<br>'+'Haircolor:'+objkhaled.haircolor+'<br>');
+	document.write('Retairment Period : ',+objkhaled.retairment()+'years '+'('+objkhaled.retairmentdays()+'month'+')'+'<br>');
+	document.write('Totla Life Income:'+objkhaled.totlaincome()+' taka(BDT)');
+	document.write('<br>----------<br>');
+
+	document.write('Name:'+objkhalek.name+'<br>'+'Age:'+objkhalek.age+'<br>'+'Haircolor:'+objkhalek.haircolor+'<br>');
+	document.write('Retairment Period : ',+objkhalek.retairment()+'years '+'('+objkhalek.retairmentdays()+'month'+')'+'<br>');
+	document.write('Totla Life Income:'+objkhalek.totlaincome()+' taka(BDT)');
+	document.write('<br>----------<br>');
+
+</script>
