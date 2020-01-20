@@ -1,0 +1,27 @@
+<a href="#" data-id="mosfikPic" id="mosfik">Mosfik</a><br />
+<a href="#" data-id="delowarPic" id="delowar">Delowar</a><br />
+<a href="#" data-id="khaledPic" id="khaled">Khaled</a>
+<div><img width="130px" height="130px" src="http://www.bitmascot.com/wp-content/uploads/2016/07/29.jpg"  class="hide"  id="mosfikPic"  /><img width="130px" height="130px"  src="http://www.bitmascot.com/wp-content/uploads/2016/07/51-1-128x130.jpg"  class="hide"  id="delowarPic"  /><img width="130px" height="130px"  src="http://www.bitmascot.com/wp-content/uploads/2016/07/12-131x130.jpg"  class="hide"  id="khaledPic"  /></div>
+<style>.hide{ display:none;}</style>
+<script>
+window.document.getElementById('mosfik').addEventListener("click",myfunction);
+window.document.getElementById('delowar').addEventListener("click",myfunction);
+window.document.getElementById('khaled').addEventListener("click",myfunction);
+
+function myfunction(){
+	var PicId = this.attributes['data-id'].value;
+	//alert(document.getElementById(PicId).className);
+	window.onload = function(){
+		alert("111111");
+	}
+		
+	if(document.getElementById(PicId).className ==='hide'){
+		document.getElementById(PicId).className =' ';	
+	}
+	else{
+		document.getElementById(PicId).className ='hide';		
+	}
+}
+</script>
+
+

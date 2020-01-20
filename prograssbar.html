@@ -1,0 +1,17 @@
+<div style="width:100%; height:20px; background:#ccc">
+	<div style="height:20px;" id="box"></div>
+</div>
+<script>
+var w = 0;
+function bigger(){
+        if (w < 1000) 
+        {
+            w = w+5;
+            document.getElementById('box').style.width = w + 'px';
+			document.getElementById('box').style.background ='rgba(0, 94, 157, 0.8)';
+        } else {
+           clearInterval(int);
+       }
+    }
+var int = setInterval(bigger, 100);
+</script> 

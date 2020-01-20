@@ -1,0 +1,20 @@
+Enter First Value : <input  type="text" value=""  id="first_value" /><br />
+Enter Secod Value : <input  type="text" value=""  id="second_value" /><br />
+<input type="submit" value="submit" id="submitrpt"  />
+
+
+<p>Total output: <span id="loading">...</span></p>
+<script>
+window.document.getElementById('submitrpt').addEventListener('click',function(){
+	function test(){
+		this.a = document.getElementById('first_value').value;
+		this.b = document.getElementById('second_value').value;
+
+		this.c = parseInt(this.a) + parseInt(this.b);
+	}
+	var output = new test();
+	//alert(output.c);
+	document.getElementById('loading').innerHTML = output.c;
+
+})
+</script>

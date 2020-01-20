@@ -1,0 +1,32 @@
+Enter Color:<br>
+<input value=""  id="mycolorvalue"  >
+
+<div id="container">
+	<h1>H1 header</h1>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec eget imperdiet felis. Nullam lobortis libero ut velit hendrerit imperdiet. Donec pellentesque congue convallis. Mauris quam velit, ultrices a pharetra et, pretium eu augue. Fusce urna turpis, molestie viverra lacinia vel, scelerisque sit amet ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+	<h2>H2 header</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec eget imperdiet felis. Nullam lobortis libero ut velit hendrerit imperdiet. Donec pellentesque congue convallis. Mauris quam velit, ultrices a pharetra et, pretium eu augue. Fusce urna turpis, molestie viverra lacinia vel, scelerisque sit amet ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+	<h3>H3 header</h3>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec eget imperdiet felis. Nullam lobortis libero ut velit hendrerit imperdiet. Donec pellentesque congue convallis. Mauris quam velit, ultrices a pharetra et, pretium eu augue. Fusce urna turpis, molestie viverra lacinia vel, scelerisque sit amet ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+	<h4>H4 header</h4>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec eget imperdiet felis. Nullam lobortis libero ut velit hendrerit imperdiet. Donec pellentesque congue convallis. Mauris quam velit, ultrices a pharetra et, pretium eu augue. Fusce urna turpis, molestie viverra lacinia vel, scelerisque sit amet ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+	<h5>H5 header</h5>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec eget imperdiet felis. Nullam lobortis libero ut velit hendrerit imperdiet. Donec pellentesque congue convallis. Mauris quam velit, ultrices a pharetra et, pretium eu augue. Fusce urna turpis, molestie viverra lacinia vel, scelerisque sit amet ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+	<h6>H6 header</h6>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec eget imperdiet felis. Nullam lobortis libero ut velit hendrerit imperdiet. Donec pellentesque congue convallis. Mauris quam velit, ultrices a pharetra et, pretium eu augue. Fusce urna turpis, molestie viverra lacinia vel, scelerisque sit amet ante.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+</div>
+<a href="#" id="clickme">Clickme</a>
+
+<script type="text/javascript">
+	document.getElementById("mycolorvalue").addEventListener("keyup", function(){
+		var x = document.getElementById("container").querySelectorAll("h1,h2,h3,h4,h5,h6,p");
+		var getColorData = document.getElementById('mycolorvalue').value;
+		var i;
+		for (i = 0; i < x.length; i++) {
+			x[i].style.backgroundColor = getColorData;
+		}
+
+
+		
+	});
+</script>
