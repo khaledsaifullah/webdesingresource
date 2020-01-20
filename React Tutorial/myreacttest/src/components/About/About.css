@@ -1,0 +1,12 @@
+.home-content {
+  background-color: #eee;
+  min-height: 510px;
+  padding: 100px 0;
+}
+
+
+.accordion-content {
+  margin: 40px auto;
+  width: 740px;
+  text-align: left;
+}
