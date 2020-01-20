@@ -1,0 +1,130 @@
+<style>
+#currentdata,#previousdata{
+	text-align:right;
+	width:200px;
+	height:30px;
+	font-size:18px;
+	border:1px solid;
+	display:inline-block;
+	vertical-align:top;	
+}
+</style>
+
+<form id="calculator" name="calculator">
+<table align="left" border="0" cellpadding="0" cellspacing="0">
+<tr><td valign="top" align="right">Previous Data</td><td width="10">&nbsp;</td><td valign="top" align="left"><span  id="previousdata">&nbsp;</span></td></tr>
+<tr><td colspan="3" height="10"></td></tr>
+<tr><td valign="top" align="right">Current Data</td><td width="10">&nbsp;</td><td valign="top" align="left"><span  id="currentdata">&nbsp;</span></td></tr>
+<tr><td colspan="3" height="10"></td></tr>
+<tr><td colspan="3"><strong>Total</strong>: <span  id="total">&nbsp;</span> </td></tr>
+</table>
+
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+
+<input type="button" value="7" name="btn7" />
+<input type="button" value="8" name="btn8" />
+<input type="button" value="9" name="btn9" />
+<input type="button" value="*" id="btnmultiplication"  data-id="btnmultiplication"  class="operator" /><br />
+
+
+
+<input type="button" value="4" name="btn4" />
+<input type="button" value="5" name="btn5" />
+<input type="button" value="6" name="btn6" />
+<input type="button" value="-" id="btnsubstraction"  data-id="btnsubstraction"  class="operator"   /><br />
+
+
+
+<input type="button" value="1" name="btn1" />
+<input type="button" value="2" name="btn2" />
+<input type="button" value="3" name="btn3" />
+<input type="button" value="+" id="btnaddition" data-id="btnaddition"  class="operator"  />
+
+
+<input type="button" value="=" id="btnequal"  />
+
+
+</form>
+<script type="text/javascript">
+window.document.calculator.btn1.addEventListener("click",function(){
+	document.getElementById('currentdata').innerHTML = document.calculator.btn1.value;
+});
+window.document.calculator.btn2.addEventListener("click",function(){
+	document.getElementById('currentdata').innerHTML = document.calculator.btn2.value;
+});
+window.document.calculator.btn3.addEventListener("click",function(){
+	document.getElementById('currentdata').innerHTML = document.calculator.btn3.value;
+});
+window.document.calculator.btn4.addEventListener("click",function(){
+	document.getElementById('currentdata').innerHTML = document.calculator.btn4.value;
+});
+window.document.calculator.btn5.addEventListener("click",function(){
+	document.getElementById('currentdata').innerHTML = document.calculator.btn5.value;
+});
+window.document.calculator.btn6.addEventListener("click",function(){
+	document.getElementById('currentdata').innerHTML = document.calculator.btn6.value;
+});
+window.document.calculator.btn7.addEventListener("click",function(){
+	document.getElementById('currentdata').innerHTML = document.calculator.btn7.value;
+});
+window.document.calculator.btn8.addEventListener("click",function(){
+	document.getElementById('currentdata').innerHTML = document.calculator.btn8.value;
+});
+window.document.calculator.btn9.addEventListener("click",function(){
+	document.getElementById('currentdata').innerHTML = document.calculator.btn9.value;
+});
+
+
+
+/*start:calculation*/
+window.document.getElementById('btnaddition').addEventListener("click",function(){
+	document.getElementById('previousdata').innerHTML = document.getElementById('currentdata').innerHTML;
+});
+
+
+window.document.getElementById('btnequal').addEventListener("click",function(){
+	var previousdata = document.getElementById('previousdata').innerHTML;
+	var currentdata = document.getElementById('currentdata').innerHTML;
+	var operator = document.getElementsByClassName('operator');
+	var currentoperator;
+    //console.log(operator);
+	//document.getElementById('total').innerHTML = parseInt(previousdata) + parseInt(currentdata);
+});
+
+window.document.getElementById('btnmultiplication').addEventListener("click",myfunction);
+window.document.getElementById('btnsubstraction').addEventListener("click",myfunction);
+window.document.getElementById('btnaddition').addEventListener("click",myfunction);
+function myfunction(){
+	currentoperator = this.attributes['data-id'].value;
+	currentoperatorValue = document.getElementById(currentoperator).value;
+	if(currentoperatorValue = "*"){
+		document.getElementById('total').innerHTML = parseInt(previousdata) * parseInt(currentdata);
+	}
+	else if (currentoperatorValue = "-"){
+		document.getElementById('total').innerHTML = parseInt(previousdata) - parseInt(currentdata);
+	}
+	else if (currentoperatorValue = "+"){
+		document.getElementById('total').innerHTML = parseInt(previousdata) - parseInt(currentdata);
+	}
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

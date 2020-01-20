@@ -1,0 +1,133 @@
+<h1>CSS Group Discuss</h1>
+<ol>
+    <li>CSS calc() Function and admin dahsborad,float:left;float:right</li>
+    <li>CSS3 Box Sizing(Ex.box-sizing: border-box;)</li>
+    <li>vw and vh (Ex. viewport width and viewport height )</li>
+    <li>CSS3 display:flex and margin:auto, to make element center point<br>
+        flex-grow, flex-shrink, and the flex-basis<br>
+        flex Default Value: 0 1 auto; <br>
+        display:0 0 300px;(width set kora),<br>flex wrap
+    </li>
+    <li>
+        an alpha channel (RGBA) - which specifies the opacity for a color.<br>
+        An RGBA color value is specified with: rgba(red, green, blue, alpha).<br>
+        Ex.  color:rgba(0,0,0,0.5)
+    </li>
+    <li>
+        css plus selector(Ex. +) <br>
+        CSS adjacent selector(Ex. ~)
+    </li>
+    <li>
+        The negation pseudo-class :not   <br>
+        p:not(.intro) { font-weight: normal; }
+    </li>
+    <li>
+        Multiple Backgrounds<br>
+        Ex.
+        .box {
+        background: url(image/path.jpg) 0 0 no-repeat,<br>
+        url(image2/path.jpg) 100% 0 no-repeat;
+        }<br><br>
+        .box {
+            /* fallback */<br>
+            background: url(image/path.jpg) no-repeat;<br>
+            /* modern browsers */<br>
+            background: url(image/path.jpg) 0 0 no-repeat,<br>
+            url(image2/path.jpg) 100% 0 no-repeat;
+        }
+    </li>
+    <li>
+        Flexible Box Model
+    </li>
+    <li>
+        CSS  At Rule<br>
+        CSS  Groupping<br>
+    </li>
+</ol>
+
+
+<h2>CSS3  Function List</h2>
+URL : <a href="https://www.quackit.com/css/functions/" target="_blank">CSS3  Function</a>
+<ol>
+    <li>CSS calc() Function</li>
+    <li>CSS not() Function</li>
+    <li>CSS match() Function</li>
+    <li>CSS has() Function</li>
+</ol>
+
+<br>
+
+<style>
+    *{
+        margin:0;
+        padding:0;
+    }
+    div + div {
+        margin-top: 10px;
+    }
+    div {
+        background: #777;
+        color:#fff;
+        text-align:center;
+    }
+
+    /* Empty attribute selector */
+    div[data-id=""] {
+        background: red;
+    }
+    /* Not empty attribute selector */
+    div:not([data-id=""]) {
+        background: green;
+    }
+
+    div[data-id="khaled"]{
+        background: #000;
+    }
+
+</style>
+<div data-id="">222</div>
+<div data-id="shafiqul">222</div>
+<div data-id="sourav">222</div>
+<div data-id="delower">222</div>
+<div data-id="khaled">111</div>
+
+
+<br>
+<style>
+    .heading { position: relative; }
+    .heading:hover { color: transparent; }
+    .heading:hover:after {
+        content: attr(data-hover-response);
+        color: black;
+        position: absolute;
+        left: 0;
+    }
+</style>
+<h1 class="heading" data-hover-response="I Said Don't Touch Me!"> Don't Touch Me  </h1>
+<br><br>
+<style>
+    a.clickme[href="#"]{
+        color: red;
+    }
+</style>
+<a class="clickme" href="#" title="test me">Click Me</a>
+<br><br><br><br>
+<h3>28. Visibility or Display?</h3>
+<p>On the surface both the CSS visibility and display properties seem to do the same thing, hide or show an element on the page. Beneath the surface they work differently.</p>
+<p>{visibility: hidden} - The element holds the space, but isn't seen<br>
+{display: none} - The element does not hold space. Other elements collapse to fill the space</p>
+<br><br>
+<h2>46. CSS Tooltips</h2>
+<br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+Enter Color:<br>
+<input value=""  id="getColor"  >
+
+<div id="container">
+	<p>asdfasdf</p>
+	<p>asdfasdf</p>
+	<p>asdfasdf</p>
+</div>
+
+
+<script type="text/javascript">
+	document.getElementById("getColor").addEventListener("keyup", function(){
+		var x = document.getElementById("container").querySelectorAll("p");
+		var getColorData = document.getElementById('getColor').value;
+		var i;
+		for (i = 0; i < x.length; i++) {
+			x[i].style.backgroundColor = getColorData;
+		}
+	});
+</script>

@@ -1,0 +1,135 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script type="text/x-ecmascript">
+$(document).ready(function () {
+ $('.image-wrapper-product').on("click", function (e) {
+        e.preventDefault();
+        if ($(".image-wrapper-product-visible").length > 0) {
+            $(".image-wrapper-product-visible").hide();
+        }
+        $(this).siblings('.image-wrapper-product-popup').addClass("image-wrapper-product-visible");
+        $(this).siblings('.image-wrapper-product-popup').fadeIn();
+    });
+    $('.image-close-popup').on("click", function (e) {
+        e.preventDefault();
+        $('.image-wrapper-product-popup').removeClass("image-wrapper-product-visible");
+        $('.image-wrapper-product-popup').fadeOut('slow');
+    });
+});
+</script>
+<style>
+.waste-skip-bin-product li {
+    width: 355px;
+    height: 300px;
+    background-color: #fff;
+    border-radius: 4px;
+    position: relative;
+    box-shadow: 0 3px 15px 0 rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-image: none;
+    padding: 40px;
+    margin: 20px 35px 20px 0;
+    display: inline-block;
+    vertical-align: top;
+	border:1px solid #ccc;
+}
+
+.waste-product-content li:nth-of-type(3n+3) {
+    margin-right: 0;
+}
+
+.waste-product-details p {
+    margin: 0;
+    padding: 0 15px;
+    line-height: 25px;
+    color: rgba(0, 0, 0, 1.0);
+    font-size: 15px;
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.waste-product-details p strong {
+    font-weight: 600;
+}
+
+.waste-product-content + .waste-product-content {
+    padding-top: 80px;
+}
+
+.image-wrapper-product:before {
+    content: '';
+    display: inline-block;
+    height: 50%;
+}
+
+.image-wrapper-product {
+    cursor: pointer;
+    height: 150px;
+    margin-bottom: 15px;
+}
+
+.image-wrapper-product img {
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.waste-skip-bin-product .image-wrapper-product {
+    height: 110px;
+}
+.image-wrapper-product-popup {
+    position: absolute;
+    width: 230px;
+    height: 200px;
+    border: 2px solid #22b14c;
+    background-color: #fff;
+    top: -30px;
+    right: -60px;
+    z-index: 9;
+    display: none;
+    text-align: center;
+}
+
+.image-close-popup {
+    position: absolute;
+    right: -1px;
+    top: -1px;
+    font-size: 22px;
+    background-color: #fff;
+    border: 1px solid #22b14c;
+    width: 30px;
+    height: 30px;
+    line-height: 22px;
+    z-index: 1;
+}
+.image-wrapper-popup-block:before {
+    content: '';
+    display: inline-block;
+    height: 50%;
+}
+
+.image-wrapper-popup-block {
+    height: 196px;
+}
+
+.image-wrapper-popup-block img {
+    height: auto;
+    max-width: 200px;
+    vertical-align: middle;
+}
+
+</style>
+<ul class="waste-skip-bin-product">
+<li>
+       <div class="image-wrapper-product"><img src="#" alt="No Product Availale"></div>
+       <div class="waste-product-details">
+           <p><strong>2m3</strong> Skip ( L 1.9m x W 1.6m x D 0.85m )</p>
+       </div>
+       <div class="image-wrapper-product-popup">
+           <a href="javascript:void(0)" class="image-close-popup">x</a>
+           <div class="image-wrapper-popup-block"><img src="#" alt="No Product Availale"></div>
+       </div>
+   </li>
+</ul>
+
