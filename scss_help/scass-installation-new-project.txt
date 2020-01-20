@@ -1,0 +1,75 @@
+Compass runs on any computer that has ruby installed. 
+====================================
+step1:
+run git bash
+ruby -v
+
+
+step 2
+gem install rubygems-update
+update_rubygems
+gem update --system
+
+gem install compass sass
+gem install breakpoint
+
+step 3.
+akhon apnar project folder a dhuken git bash thke
+cd ../..
+cd cd/wamp/www/wordpress/wp-content/themes/custom
+
+compass init
+
+compass compile
+compass watch
+========================================================
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Scss  installa hole pora pora kaj korar jonno  
+
+Go  to Start and Search ruby and click command promt
+
+==============
+khaled@BM-PC-51 /c/wamp/www/wordpress/wp-content/themes/custom/css (master)
+$  compass clean
+$  compass compile
+$  compass watch
+=============
+
+==============
+khaled@BM-PC-51 /c/wamp/www/cherryledcrm/app/webroot/css (master)
+$  compass clean
+$  compass compile
+$  compass watch
+=============
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+Example:
+@include size(10px,12px);
+@include spr-sprite(li_arrow);
+@include  absolute ($top: auto, $right: auto, $bottom: auto, $left: auto);
+@include absolute (0,auto,auto,0);
+
+
+
+@mixin absolute($top: null, $right: null, $bottom: null, $left: null) {
+    top: $top;
+    right: $right;
+    bottom: $bottom;
+    left: $left;
+    position: absolute;
+}
+ 
+@include breakpoint($tablet){
+	width:calc(100%);
+}
+@include breakpoint($mobile){
+	width:calc(100%);
+}
+
+ 
+ 
+

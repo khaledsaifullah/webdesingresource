@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/images/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/images/spr-s1e597fdff3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/images/spr/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/images/spr/google-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/images/spr/menu-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/images/spr/pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/images/spr/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/images/spr/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/01456fb8e9d79e34e3220bce4e0646f8a8b85d89/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/01456fb8e9d79e34e3220bce4e0646f8a8b85d89/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/01456fb8e9d79e34e3220bce4e0646f8a8b85d89/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/02f1fa74011b8ba2c4875df5eebb7f43fce95a66/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/083c202d9fe38f3e952d83ea33c117ffb15d3dd9/font-awesome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/083c202d9fe38f3e952d83ea33c117ffb15d3dd9/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/0aabaa7a9bd18fd61e646bff653de910b0910eee/bootstrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/0aabaa7a9bd18fd61e646bff653de910b0910eee/ie.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/0aabaa7a9bd18fd61e646bff653de910b0910eee/print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/0aabaa7a9bd18fd61e646bff653de910b0910eee/screen.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/0aabaa7a9bd18fd61e646bff653de910b0910eee/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/0ab80c7f207a4db31bfd4ae568b48820819f7b11/_resolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/0ecc08a2caf46fbadd6f13fd59f4901b74b6debe/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/18657bbc7ae90acca3f508fe6c132e9de951db23/_sprites.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/1c2ea061496d8ff9e2f5a1cca6bf0435eb31b965/_resolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/1d713c0ab1bf9a448cb6c7b59d19dd4ad3db382a/_double.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/1d713c0ab1bf9a448cb6c7b59d19dd4ad3db382a/_query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/1d713c0ab1bf9a448cb6c7b59d19dd4ad3db382a/_resolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/1d713c0ab1bf9a448cb6c7b59d19dd4ad3db382a/_single.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/1d713c0ab1bf9a448cb6c7b59d19dd4ad3db382a/_triple.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/267a0a7c81cd35a665cacb612fe3598c69e4795f/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_float.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_min.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_tag-cloud.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/34720f55b9d0fc34e378e65d86f9a8eb5dc95db1/_color.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/34720f55b9d0fc34e378e65d86f9a8eb5dc95db1/_general.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/34720f55b9d0fc34e378e65d86f9a8eb5dc95db1/_sprites.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/34720f55b9d0fc34e378e65d86f9a8eb5dc95db1/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_mixin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_tab.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/37fbbf3968ed224d2a3a76d67f2e03be133b017b/_sprites.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/38e1f11219408186070ec6694da99cca5f5dc7a1/_breakpoint.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_animated.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_bordered-pulled.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_core.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_fixed-width.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_larger.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_path.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_rotated-flipped.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_stacked.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/3d924e4b3612c2bdbff8ea45fbf3fad91d43a51d/%042.pngc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_background-variant.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_center-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_gradients.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_grid-framework.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_hide-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_nav-divider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_nav-vertical-align.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_progress-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_reset-filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_resize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_responsive-visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_tab-focus.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_table-row.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_text-emphasis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_text-overflow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_vendor-prefixes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/415d9793d58a7545d65c46fc5258821fb3b3304d/_breakpoint.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5595d9b0666d1c801f9f869d85ed768ee9e8048e/%042.pngc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_mixin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_tab.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5743a9f24a10847f624ab4bad4839dd60101aef2/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5e872e48a61414dbf329637deeb4ca82dbac93cb/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5e872e48a61414dbf329637deeb4ca82dbac93cb/_sprite-img.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/62173a86526a61f9f378b9c4271ee040498ccd7e/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/62173a86526a61f9f378b9c4271ee040498ccd7e/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/62173a86526a61f9f378b9c4271ee040498ccd7e/_module.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_badges.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_button-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_carousel.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_close.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_code.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_component-animations.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_dropdowns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_glyphicons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_input-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_jumbotron.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_media.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_modals.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_navs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_normalize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_pager.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_popovers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_progress-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_responsive-embed.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_responsive-utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_thumbnails.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_tooltip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_type.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_wells.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/69ed967277b2768370b24c4d4b60a9c5656d96ca/_compass.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/6a39d557561fce3062c28258a96cd332b6c27afc/_alternating-rows-and-columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/6a39d557561fce3062c28258a96cd332b6c27afc/_borders.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/6a39d557561fce3062c28258a96cd332b6c27afc/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/6bb7b627c1666ec0ab57283160420b8696016704/_context.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/6bb7b627c1666ec0ab57283160420b8696016704/_helpers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/6bb7b627c1666ec0ab57283160420b8696016704/_no-query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/6bb7b627c1666ec0ab57283160420b8696016704/_parsers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/6bb7b627c1666ec0ab57283160420b8696016704/_respond-to.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby193/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby193/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/general/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby193/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_links.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/lists/_bullets.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/lists/_horizontal-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/text/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/_sprites.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_float.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/components/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/components/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/components/_tab.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/components/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/partials/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/partials/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/f%058/projects/theme/sass/components/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/f%058/projects/theme/sass/components/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/7873d2bdfc5807464d17278b3e8f0a8140769719/_brightness.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/7873d2bdfc5807464d17278b3e8f0a8140769719/_contrast.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/7a61f2e63f93373dc8570014a09eb714a32c071e/_ellipsis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/7a61f2e63f93373dc8570014a09eb714a32c071e/_force-wrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/7a61f2e63f93373dc8570014a09eb714a32c071e/_nowrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/7a61f2e63f93373dc8570014a09eb714a32c071e/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/80c40e9f17808546b9bffc016d36fb2663073e49/_footer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/80c40e9f17808546b9bffc016d36fb2663073e49/_header.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/80c40e9f17808546b9bffc016d36fb2663073e49/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_deprecated-support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/83d8d81bd5ab35bf2da6b7cb58f73a16fb8aefe7/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/83d8d81bd5ab35bf2da6b7cb58f73a16fb8aefe7/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/83d8d81bd5ab35bf2da6b7cb58f73a16fb8aefe7/_module.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_background-variant.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_center-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_gradients.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_grid-framework.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_hide-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_nav-divider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_nav-vertical-align.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_progress-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_reset-filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_resize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_responsive-visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_tab-focus.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_table-row.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_text-emphasis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_text-overflow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_vendor-prefixes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_badges.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_button-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_carousel.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_close.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_code.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_component-animations.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_dropdowns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_glyphicons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_input-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_jumbotron.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_media.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_modals.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_navs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_normalize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_pager.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_popovers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_progress-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_responsive-embed.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_responsive-utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_thumbnails.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_tooltip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_type.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_wells.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8c0c2661e19cb8617daac4fbfe1ca8002054d6bb/_grid-background.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8d868174feca2fd9a0459eb91b3fef66366fb3d7/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8d868174feca2fd9a0459eb91b3fef66366fb3d7/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8d868174feca2fd9a0459eb91b3fef66366fb3d7/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/8d868174feca2fd9a0459eb91b3fef66366fb3d7/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/928f18d4c6d9d1d4013c6868099d5af59bab86d3/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/962c9a818292fb7ab8fff301c8250376c36aeafe/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_animated.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_bordered-pulled.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_core.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_fixed-width.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_larger.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_path.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_rotated-flipped.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_stacked.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/font-awesome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/9d51b31eb0e0f0bdd38ad2fea332c29393435e48/%042.pngc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/a0291d555b86708205d3a112ff71346d4634263a/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/a0291d555b86708205d3a112ff71346d4634263a/_sprite-img.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/a33fb160b1f17826e19ff241fe49592ac78c3127/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/a59b0a1bc546796b3593f92ccb06d8a859b2e29f/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/a59b0a1bc546796b3593f92ccb06d8a859b2e29f/_mixin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/a59b0a1bc546796b3593f92ccb06d8a859b2e29f/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b110a54efea7c06203c8b0f8c5b99ee050204b17/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_mixin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_tab.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b596366a2e993fe2cfda3362998a59e46e7a406d/_default-pair.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b596366a2e993fe2cfda3362998a59e46e7a406d/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b596366a2e993fe2cfda3362998a59e46e7a406d/_double-string.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b6fc4e8a0de784bba28d4071fcb4a8a47930bd7a/_footer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b6fc4e8a0de784bba28d4071fcb4a8a47930bd7a/_header.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b6fc4e8a0de784bba28d4071fcb4a8a47930bd7a/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b74e0c3f33d92fb8e8c79c58c26a28e9c03740e7/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/b74e0c3f33d92fb8e8c79c58c26a28e9c03740e7/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_animated.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_bordered-pulled.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_core.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_fixed-width.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_larger.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_path.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_rotated-flipped.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_stacked.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/font-awesome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c246cf5e36ea8cfa8a3d11f94259089cdf507531/_hover-link.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c246cf5e36ea8cfa8a3d11f94259089cdf507531/_link-colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c246cf5e36ea8cfa8a3d11f94259089cdf507531/_unstyled-link.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c334def0c50adc7d5da89fda17cc4de75c1a9f49/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c334def0c50adc7d5da89fda17cc4de75c1a9f49/_sprite-img.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c5d8cbc31148c7a4fb8f99d8063e878117a2b0ca/_double.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c5d8cbc31148c7a4fb8f99d8063e878117a2b0ca/_query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c5d8cbc31148c7a4fb8f99d8063e878117a2b0ca/_resolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c5d8cbc31148c7a4fb8f99d8063e878117a2b0ca/_single.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c5d8cbc31148c7a4fb8f99d8063e878117a2b0ca/_triple.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c9d9c945fd301d13ae39354e7f8cea2363c0bb81/bootstrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/c9d9c945fd301d13ae39354e7f8cea2363c0bb81/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/cbc931e7916309a8bf5c71b7d00c8c656b4a1188/font-awesome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/cbc931e7916309a8bf5c71b7d00c8c656b4a1188/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ceed0894d80e4d192f8116fe45fe9068e8f35c71/_links.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ceed0894d80e4d192f8116fe45fe9068e8f35c71/_lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ceed0894d80e4d192f8116fe45fe9068e8f35c71/_text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ceed0894d80e4d192f8116fe45fe9068e8f35c71/_units.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ceed0894d80e4d192f8116fe45fe9068e8f35c71/_vertical_rhythm.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/d2b6a2b485d0180f597c5cbbd01ad23302984130/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/d2b6a2b485d0180f597c5cbbd01ad23302984130/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/d8128827573a0ccb24b4f930ec49bfefc7c36b23/_footer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/d8128827573a0ccb24b4f930ec49bfefc7c36b23/_header.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/d8128827573a0ccb24b4f930ec49bfefc7c36b23/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/dd444af89cc006f969a731fdf322495f05aa89d1/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/dd444af89cc006f969a731fdf322495f05aa89d1/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/dd444af89cc006f969a731fdf322495f05aa89d1/_module.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/e455c7f8f04687f41c542d173b9f6a994ba9af58/%042.pngc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/e573ecf662e8774d6ff61c29bdb915082f26243b/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/e573ecf662e8774d6ff61c29bdb915082f26243b/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/e6b21fb9198d816706e0a08ce143dda965dc918a/_bullets.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/e6b21fb9198d816706e0a08ce143dda965dc918a/_horizontal-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/e6b21fb9198d816706e0a08ce143dda965dc918a/_inline-block-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/e6b21fb9198d816706e0a08ce143dda965dc918a/_inline-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ea45cc2dd7bff791a32b9076618c1fe24b361259/_context.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ea45cc2dd7bff791a32b9076618c1fe24b361259/_helpers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ea45cc2dd7bff791a32b9076618c1fe24b361259/_no-query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ea45cc2dd7bff791a32b9076618c1fe24b361259/_parsers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ea45cc2dd7bff791a32b9076618c1fe24b361259/_respond-to.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ec1d263f6cce934eec73a88f5084aeadbbcf4313/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ec1d263f6cce934eec73a88f5084aeadbbcf4313/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ec1d263f6cce934eec73a88f5084aeadbbcf4313/_module.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ecd8d3dd097b0cf0e935a2beb2a51b8a680d76aa/_default-pair.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ecd8d3dd097b0cf0e935a2beb2a51b8a680d76aa/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/ecd8d3dd097b0cf0e935a2beb2a51b8a680d76aa/_double-string.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_animated.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_bordered-pulled.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_core.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_fixed-width.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_larger.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_path.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_rotated-flipped.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_stacked.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/font-awesome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/fef2f2fe4d47fed6c83dc707312d15cad85ab319/_footer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/fef2f2fe4d47fed6c83dc707312d15cad85ab319/_header.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/.sass-cache/fef2f2fe4d47fed6c83dc707312d15cad85ab319/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/images/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/images/spr-s1e597fdff3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/images/spr/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/images/spr/google-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/images/spr/menu-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/images/spr/pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/images/spr/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/images/spr/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/01456fb8e9d79e34e3220bce4e0646f8a8b85d89/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/01456fb8e9d79e34e3220bce4e0646f8a8b85d89/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/01456fb8e9d79e34e3220bce4e0646f8a8b85d89/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/02f1fa74011b8ba2c4875df5eebb7f43fce95a66/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/083c202d9fe38f3e952d83ea33c117ffb15d3dd9/font-awesome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/083c202d9fe38f3e952d83ea33c117ffb15d3dd9/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/0aabaa7a9bd18fd61e646bff653de910b0910eee/bootstrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/0aabaa7a9bd18fd61e646bff653de910b0910eee/ie.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/0aabaa7a9bd18fd61e646bff653de910b0910eee/print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/0aabaa7a9bd18fd61e646bff653de910b0910eee/screen.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/0aabaa7a9bd18fd61e646bff653de910b0910eee/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/0ab80c7f207a4db31bfd4ae568b48820819f7b11/_resolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/0ecc08a2caf46fbadd6f13fd59f4901b74b6debe/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/18657bbc7ae90acca3f508fe6c132e9de951db23/_sprites.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/1c2ea061496d8ff9e2f5a1cca6bf0435eb31b965/_resolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/1d713c0ab1bf9a448cb6c7b59d19dd4ad3db382a/_double.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/1d713c0ab1bf9a448cb6c7b59d19dd4ad3db382a/_query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/1d713c0ab1bf9a448cb6c7b59d19dd4ad3db382a/_resolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/1d713c0ab1bf9a448cb6c7b59d19dd4ad3db382a/_single.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/1d713c0ab1bf9a448cb6c7b59d19dd4ad3db382a/_triple.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/267a0a7c81cd35a665cacb612fe3598c69e4795f/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_float.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_min.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/2d23aa7a37a6569c5e77370dd89245b84143c3a7/_tag-cloud.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/34720f55b9d0fc34e378e65d86f9a8eb5dc95db1/_color.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/34720f55b9d0fc34e378e65d86f9a8eb5dc95db1/_general.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/34720f55b9d0fc34e378e65d86f9a8eb5dc95db1/_sprites.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/34720f55b9d0fc34e378e65d86f9a8eb5dc95db1/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_mixin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_tab.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/36884a8bc59da25bd3f6c133d2c07d0d1d5ead8c/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/37fbbf3968ed224d2a3a76d67f2e03be133b017b/_sprites.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/38e1f11219408186070ec6694da99cca5f5dc7a1/_breakpoint.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_animated.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_bordered-pulled.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_core.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_fixed-width.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_larger.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_path.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_rotated-flipped.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_stacked.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/397f09724a652a7f60ce79fae8103edb3cae6d16/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/3d924e4b3612c2bdbff8ea45fbf3fad91d43a51d/%042.pngc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_background-variant.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_center-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_gradients.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_grid-framework.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_hide-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_nav-divider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_nav-vertical-align.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_progress-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_reset-filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_resize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_responsive-visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_tab-focus.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_table-row.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_text-emphasis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_text-overflow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/4115c8af3c664d682ae5ed1d0f56ea8b211bad7e/_vendor-prefixes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/415d9793d58a7545d65c46fc5258821fb3b3304d/_breakpoint.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5595d9b0666d1c801f9f869d85ed768ee9e8048e/%042.pngc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_mixin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_tab.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/56e713b26d86bcf11f1127d74ebbaff59b9306b6/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5743a9f24a10847f624ab4bad4839dd60101aef2/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5e872e48a61414dbf329637deeb4ca82dbac93cb/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5e872e48a61414dbf329637deeb4ca82dbac93cb/_sprite-img.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/5f3b92660cca7a3e89ab800951e3ebda057c5d69/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/62173a86526a61f9f378b9c4271ee040498ccd7e/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/62173a86526a61f9f378b9c4271ee040498ccd7e/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/62173a86526a61f9f378b9c4271ee040498ccd7e/_module.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/634957a91cd535ae22988739afd4ab649774aaee/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_badges.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_button-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_carousel.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_close.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_code.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_component-animations.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_dropdowns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_glyphicons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_input-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_jumbotron.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_media.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_modals.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_navs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_normalize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_pager.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_popovers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_progress-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_responsive-embed.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_responsive-utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_thumbnails.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_tooltip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_type.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/63d72b9ff922db0a2d8e1fc7bcd260b589f200d5/_wells.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/69ed967277b2768370b24c4d4b60a9c5656d96ca/_compass.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/6a39d557561fce3062c28258a96cd332b6c27afc/_alternating-rows-and-columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/6a39d557561fce3062c28258a96cd332b6c27afc/_borders.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/6a39d557561fce3062c28258a96cd332b6c27afc/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/6bb7b627c1666ec0ab57283160420b8696016704/_context.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/6bb7b627c1666ec0ab57283160420b8696016704/_helpers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/6bb7b627c1666ec0ab57283160420b8696016704/_no-query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/6bb7b627c1666ec0ab57283160420b8696016704/_parsers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/6bb7b627c1666ec0ab57283160420b8696016704/_respond-to.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby193/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby193/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/general/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby193/lib/ruby/gems/1.9.1/gems/compass-core-1.0.1/stylesheets/compass/utilities/sprites/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/css3/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_links.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/_text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/lists/_bullets.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/lists/_horizontal-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/typography/text/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/_sprites.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_float.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/C%058/Ruby22-x64/lib/ruby/gems/2.2.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/components/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/components/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/components/_tab.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/components/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/partials/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/d%058/mosfiq/pack/sass/partials/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/f%058/projects/theme/sass/components/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/75fcaf1b4852ceb732871195e41567cc2a7d8997/f%058/projects/theme/sass/components/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/7873d2bdfc5807464d17278b3e8f0a8140769719/_brightness.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/7873d2bdfc5807464d17278b3e8f0a8140769719/_contrast.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/7a61f2e63f93373dc8570014a09eb714a32c071e/_ellipsis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/7a61f2e63f93373dc8570014a09eb714a32c071e/_force-wrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/7a61f2e63f93373dc8570014a09eb714a32c071e/_nowrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/7a61f2e63f93373dc8570014a09eb714a32c071e/_replacement.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/80c40e9f17808546b9bffc016d36fb2663073e49/_footer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/80c40e9f17808546b9bffc016d36fb2663073e49/_header.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/80c40e9f17808546b9bffc016d36fb2663073e49/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_deprecated-support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/812f8370d2bb4094bf0c252f4302563caeca02b0/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/83d8d81bd5ab35bf2da6b7cb58f73a16fb8aefe7/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/83d8d81bd5ab35bf2da6b7cb58f73a16fb8aefe7/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/83d8d81bd5ab35bf2da6b7cb58f73a16fb8aefe7/_module.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_background-variant.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_center-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_gradients.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_grid-framework.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_hide-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_nav-divider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_nav-vertical-align.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_progress-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_reset-filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_resize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_responsive-visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_tab-focus.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_table-row.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_text-emphasis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_text-overflow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8730986b4aba1701f5457f18899150b6cfccf117/_vendor-prefixes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_badges.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_button-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_carousel.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_close.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_code.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_component-animations.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_dropdowns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_glyphicons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_input-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_jumbotron.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_media.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_modals.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_navs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_normalize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_pager.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_popovers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_progress-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_responsive-embed.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_responsive-utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_thumbnails.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_tooltip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_type.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/878ddff76dc80883650ab685a07d861c3cf80ea1/_wells.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8c0c2661e19cb8617daac4fbfe1ca8002054d6bb/_grid-background.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8d868174feca2fd9a0459eb91b3fef66366fb3d7/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8d868174feca2fd9a0459eb91b3fef66366fb3d7/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8d868174feca2fd9a0459eb91b3fef66366fb3d7/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/8d868174feca2fd9a0459eb91b3fef66366fb3d7/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/928f18d4c6d9d1d4013c6868099d5af59bab86d3/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/962c9a818292fb7ab8fff301c8250376c36aeafe/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_animated.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_bordered-pulled.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_core.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_fixed-width.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_larger.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_path.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_rotated-flipped.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_stacked.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9cc597bb11adfe39467814daa8ab7d3156568cba/font-awesome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/9d51b31eb0e0f0bdd38ad2fea332c29393435e48/%042.pngc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/a0291d555b86708205d3a112ff71346d4634263a/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/a0291d555b86708205d3a112ff71346d4634263a/_sprite-img.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/a33fb160b1f17826e19ff241fe49592ac78c3127/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/a59b0a1bc546796b3593f92ccb06d8a859b2e29f/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/a59b0a1bc546796b3593f92ccb06d8a859b2e29f/_mixin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/a59b0a1bc546796b3593f92ccb06d8a859b2e29f/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b110a54efea7c06203c8b0f8c5b99ee050204b17/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_mixin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_tab.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b2284924e8537ffde0249581165a604676c9c57c/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b596366a2e993fe2cfda3362998a59e46e7a406d/_default-pair.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b596366a2e993fe2cfda3362998a59e46e7a406d/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b596366a2e993fe2cfda3362998a59e46e7a406d/_double-string.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b6fc4e8a0de784bba28d4071fcb4a8a47930bd7a/_footer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b6fc4e8a0de784bba28d4071fcb4a8a47930bd7a/_header.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b6fc4e8a0de784bba28d4071fcb4a8a47930bd7a/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b74e0c3f33d92fb8e8c79c58c26a28e9c03740e7/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/b74e0c3f33d92fb8e8c79c58c26a28e9c03740e7/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_animated.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_bordered-pulled.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_core.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_fixed-width.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_larger.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_path.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_rotated-flipped.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_stacked.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/bea6cc02fd71f91f75b7c9760da6f734aa22da54/font-awesome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c246cf5e36ea8cfa8a3d11f94259089cdf507531/_hover-link.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c246cf5e36ea8cfa8a3d11f94259089cdf507531/_link-colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c246cf5e36ea8cfa8a3d11f94259089cdf507531/_unstyled-link.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c334def0c50adc7d5da89fda17cc4de75c1a9f49/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c334def0c50adc7d5da89fda17cc4de75c1a9f49/_sprite-img.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c5d8cbc31148c7a4fb8f99d8063e878117a2b0ca/_double.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c5d8cbc31148c7a4fb8f99d8063e878117a2b0ca/_query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c5d8cbc31148c7a4fb8f99d8063e878117a2b0ca/_resolution.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c5d8cbc31148c7a4fb8f99d8063e878117a2b0ca/_single.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c5d8cbc31148c7a4fb8f99d8063e878117a2b0ca/_triple.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c9d9c945fd301d13ae39354e7f8cea2363c0bb81/bootstrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/c9d9c945fd301d13ae39354e7f8cea2363c0bb81/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/cbc931e7916309a8bf5c71b7d00c8c656b4a1188/font-awesome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/cbc931e7916309a8bf5c71b7d00c8c656b4a1188/style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ceed0894d80e4d192f8116fe45fe9068e8f35c71/_links.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ceed0894d80e4d192f8116fe45fe9068e8f35c71/_lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ceed0894d80e4d192f8116fe45fe9068e8f35c71/_text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ceed0894d80e4d192f8116fe45fe9068e8f35c71/_units.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ceed0894d80e4d192f8116fe45fe9068e8f35c71/_vertical_rhythm.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/d2b6a2b485d0180f597c5cbbd01ad23302984130/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/d2b6a2b485d0180f597c5cbbd01ad23302984130/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/d8128827573a0ccb24b4f930ec49bfefc7c36b23/_footer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/d8128827573a0ccb24b4f930ec49bfefc7c36b23/_header.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/d8128827573a0ccb24b4f930ec49bfefc7c36b23/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/dd444af89cc006f969a731fdf322495f05aa89d1/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/dd444af89cc006f969a731fdf322495f05aa89d1/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/dd444af89cc006f969a731fdf322495f05aa89d1/_module.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/e455c7f8f04687f41c542d173b9f6a994ba9af58/%042.pngc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/e573ecf662e8774d6ff61c29bdb915082f26243b/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/e573ecf662e8774d6ff61c29bdb915082f26243b/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/e6b21fb9198d816706e0a08ce143dda965dc918a/_bullets.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/e6b21fb9198d816706e0a08ce143dda965dc918a/_horizontal-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/e6b21fb9198d816706e0a08ce143dda965dc918a/_inline-block-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/e6b21fb9198d816706e0a08ce143dda965dc918a/_inline-list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ea45cc2dd7bff791a32b9076618c1fe24b361259/_context.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ea45cc2dd7bff791a32b9076618c1fe24b361259/_helpers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ea45cc2dd7bff791a32b9076618c1fe24b361259/_no-query.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ea45cc2dd7bff791a32b9076618c1fe24b361259/_parsers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ea45cc2dd7bff791a32b9076618c1fe24b361259/_respond-to.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ec1d263f6cce934eec73a88f5084aeadbbcf4313/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ec1d263f6cce934eec73a88f5084aeadbbcf4313/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ec1d263f6cce934eec73a88f5084aeadbbcf4313/_module.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ecd8d3dd097b0cf0e935a2beb2a51b8a680d76aa/_default-pair.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ecd8d3dd097b0cf0e935a2beb2a51b8a680d76aa/_default.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/ecd8d3dd097b0cf0e935a2beb2a51b8a680d76aa/_double-string.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_animated.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_bordered-pulled.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_core.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_fixed-width.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_larger.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_list.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_path.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_rotated-flipped.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_stacked.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/f004ae40eef8d3e40e3166d6440e6a4ebcd4d15f/font-awesome.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/fef2f2fe4d47fed6c83dc707312d15cad85ab319/_footer.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/fef2f2fe4d47fed6c83dc707312d15cad85ab319/_header.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/.sass-cache/fef2f2fe4d47fed6c83dc707312d15cad85ab319/_sidebar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/images/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/images/spr-s1e597fdff3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/images/spr/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/images/spr/google-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/images/spr/menu-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/images/spr/pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/images/spr/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/images/spr/youtube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/startupsacsswork.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/styleguide_html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/js/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/components/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/components/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/components/_mixin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/components/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/components/_tab.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/components/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/components/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/layout/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/layout/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/layout/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/partials/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/partials/_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/partials/_module.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/copypaste/sass/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/js/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/components/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/components/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/components/_mixin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/components/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/components/_tab.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/components/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/components/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/layout/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/layout/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/layout/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/partials/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/partials/_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/partials/_module.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/custompackage/sass/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/js/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/components/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/components/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/components/_mixin.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/components/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/components/_tab.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/components/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/components/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/layout/_footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/layout/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/layout/_sidebar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/partials/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/partials/_layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/partials/_module.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/pack/pack/sass/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss_help/scass-installation-new-project.txt" />
+    </list>
+    <ignored path="webdesingresource.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="webdesingresource" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdesingresource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdesingresource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdesingresource" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="" />
+      <created>1579498656205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579498656205</updated>
+      <workItem from="1579498657677" duration="1547000" />
+    </task>
+    <task id="LOCAL-00001" summary="ui">
+      <created>1579499026202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579499026202</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ui">
+      <created>1579499110313</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579499110313</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ui">
+      <created>1579499598891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579499598891</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ui">
+      <created>1579499642801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579499642801</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ui">
+      <created>1579499659766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579499659766</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ui">
+      <created>1579499778996</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579499778996</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1547000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3336887" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="ui" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

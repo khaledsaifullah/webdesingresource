@@ -1,0 +1,30 @@
+/**
+ * --------------------------------------------------------------------------------------------------------
+ * Variables Style
+ * --------------------------------------------------------------------------------------------------------
+ */
+
+/**
+ * Color Variables
+ * The variables set here serve only as example of how you can use SASS variables
+ * to centralize and control frequently used styles more easily. Here you will
+ * find variables for colors, fonts and the global gutter width.
+ */
+
+    $white:                 #ffffff;
+    $black:                 #000000;
+
+    $facebook:              #305891;
+    $twitter:               #2ca8d2;
+    $linkedin:              #0077b5;
+    $tumblr:                #374853;
+
+    // Fonts
+    $open_sansregular:                  'Open Sans', sans-serif;
+    $raleway:                           'Raleway', sans-serif;
+
+    // Breakpoint
+    $mobile: 320px 767px;
+    $tablet: 768px 991px;
+    $desktop: 992px 1169px;
+    $large-desktop: 1170px 10000px;

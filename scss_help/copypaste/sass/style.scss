@@ -1,0 +1,29 @@
+/**
+ * --------------------------------------------------------------------------------------------------------
+ * shared with all .scss files.
+ * --------------------------------------------------------------------------------------------------------
+ */
+
+  @import "breakpoint";
+  @import "compass";
+  @import "compass/css3";                        // Use one CSS3 mixin instead of multiple vendor prefixes.
+  @import "compass/support";                     // Add Compass' IE and vendor prefix support variables.
+  @import "compass/utilities/general/clearfix";  // Better than Drupal's clearfix.
+  @import "compass/utilities/sprites";           // See http://compass-style.org/help/tutorials/spriting/
+  @import "spr/*.png";
+
+  @import "components/variables";
+  @import "components/mixin";
+  @import "components/typography";
+  @import "components/buttons";
+  @import "components/forms";
+  @import "components/slider";
+  @import "components/tab";
+
+  @import "partials/base";
+  @import "partials/layout";
+  @import "partials/module";
+
+  @import "layout/header";
+  @import "layout/footer";
+  @import "layout/sidebar";

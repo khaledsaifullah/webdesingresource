@@ -1,0 +1,21 @@
+/**
+ * --------------------------------------------------------------------------------------------------------
+ * Base Styles
+ * --------------------------------------------------------------------------------------------------------
+ */
+
+/**
+ * Default body styles.
+ */
+
+body {
+  min-height: 100%;
+  padding: 0;
+  font: 14px/24px $open_sansregular;
+  background: $tumblr;
+  color: $white;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility\9; /* Only IE, can mess with Android */
+}
+

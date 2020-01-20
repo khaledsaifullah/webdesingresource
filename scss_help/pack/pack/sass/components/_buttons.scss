@@ -1,0 +1,40 @@
+/*
+ * Button Styles here...
+ */
+
+.button,
+[class*="button-"]{
+  position: relative;
+  overflow: hidden;
+  display: block;
+  margin: 0 1em 1em 0;
+  padding: 0 4em;
+  height: 3.5em;
+  font: 300 1em/3.5em $open_sansregular;
+  text:{
+    decoration: none;
+    @include box-shadow(0, 1px, 3px, rgba(0, 0, 0, 0.35));
+  }
+  letter-spacing: .08em;
+  color: $white;
+  background: #0090C0;
+  border: solid 1px $white;
+  @include border-radius(2px);
+  @include transition(.35s ease all);
+
+  &:hover{
+    background: #007DA7;
+    @include box-shadow(0, 0, 3px, rgba(0, 0, 0, 0.5), inset);
+  }
+}
+
+.button-hover{
+  &:hover{
+    line-height: 9em;
+  }
+  &:before{
+    content: attr(data-text);
+    color: #DEEFF5;
+    @include absolute(-2.75em);
+  }
+}

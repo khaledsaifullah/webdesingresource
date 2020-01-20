@@ -1,0 +1,219 @@
+/**
+ * --------------------------------------------------------------------------------------------------------
+ * Mixin Styles
+ * --------------------------------------------------------------------------------------------------------
+ */
+
+/*
+ * Sizing shortcuts
+ */
+  @mixin size($width, $height) {
+    width: $width;
+    height: $height;
+  }
+
+/*
+ * Clearfix
+ */
+  @mixin clearfix() {
+    &:before,
+    &:after {
+      content: "";
+      display: table;
+    }
+    &:after {
+      clear: both;
+    }
+  }
+
+/*
+ * Center-align a block level element
+ */
+  @mixin center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+/*
+ * List type
+ */
+  @mixin list-style{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+/*
+ * Button
+ */
+  @mixin button($color: #0c9ff8, $text: 14px, $text-color:#fff, $padding: 4px 18px, $margin:5px 0 5px 0) {
+    $hue1: $color;
+    $hue2: darken($hue1, 6%);
+    $hue3: lighten(saturate($hue1, 10%), 25%);
+    @include helvetica_regular;
+    background: $hue1;
+    @include box-shadow($hue1 0 -20px 30px -2px inset, $hue2 0 2px 4px -2px inset);
+    @include border-radius(5px);
+    @include transition(all .4s ease-out 0s);
+    @include line-height(16);
+    line-height: 1.5em;
+    border: 1px solid $hue1;
+    font-size: $text;
+    padding: $padding;
+    margin: $margin;
+    color:  $text-color;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    text-shadow: none;
+    &:hover,&:active {
+      background:  $hue2;
+      @include box-shadow($hue2 0 -20px 35px -7px inset, $hue3 0 2px 6px 0px inset);
+      cursor: pointer;
+    }
+  }
+
+/*
+ * Transformations
+ */
+  @mixin rotate($degrees) {
+    -webkit-transform: rotate($degrees);
+       -moz-transform: rotate($degrees);
+        -ms-transform: rotate($degrees);
+         -o-transform: rotate($degrees);
+            transform: rotate($degrees);
+  }
+
+
+/*
+ * Social
+ */
+.social-share{
+  @include clearfix;
+  position: relative;
+  margin-bottom: 20px;
+  ul{
+    @include clearfix;
+    @include list-style;
+		li{
+		  float: left;
+			a{
+			  @include hide-text;
+			  @include size(27px,27px);
+			  display: block;
+				&.twitter{
+				  // @include spr-sprite(twitter);
+				  &:hover{
+				    // @include spr-sprite(twitter-hover);
+				  }
+				}
+				&.facebook{
+				  // @include spr-sprite(facebook);
+				  &:hover{
+				    // @include spr-sprite(facebook-hover);
+				  }
+				}
+			}
+		}
+  }
+}
+
+// Absolute Position
+@mixin absolute ($top: auto, $right: auto, $bottom: auto, $left: auto) {
+  top: $top;
+  right: $right;
+  bottom: $bottom;
+  left: $left;
+  position: absolute;
+}
+
+// Triangle
+@mixin arrow($width: 26px, $height: 26px, $direction: up, $color: $page) {
+	@include size(0,0);
+  // Right
+  @if $direction == right {
+    border-top: $height/2 solid transparent;
+    border-bottom: $height/2 solid transparent;
+    border-left: $width solid $color;
+  }
+  // Left
+  @if $direction == left {
+    border-top: $height/2 solid transparent;
+    border-bottom: $height/2 solid transparent;
+    border-right: $width solid $color;
+  }
+  // Up
+  @if $direction == up {
+    border-left: $width/2 solid transparent;
+    border-right: $width/2 solid transparent;
+    border-bottom: $height/2 solid $color;
+  }
+  // Down
+  @if $direction == down {
+    border-left: $width/2 solid transparent;
+    border-right: $width/2 solid transparent;
+    border-top: $height/2 solid $color;
+  }
+}
+// Usage
+//  &:after {
+//    @include arrow(54px, 54px, up, $page);
+//    @include absolute(0, auto, auto, 0);
+//    content: "";
+//    margin:0;
+// }
+
+@mixin triangle-topleft {
+  @include size(0,0);
+  border-top: 30px solid $blue;
+  border-right: 30px solid transparent;
+}
+
+//Center-align a block level element
+@mixin center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Vertical Align
+@mixin vertical-align-middle {
+  @include absolute(50%);
+  @include transform(translateY(-50%));
+}
+@mixin vertical-align-none {
+  @include transform(translateY(0));
+}
+@mixin vertical-align-center {
+  @include absolute(auto, auto, auto, 50%);
+  @include transform(translateX(-50%));
+}
+@mixin vertical-middle{
+  @include absolute(50%, auto, auto, 50%);
+  @include transform(translate(-50%,-50%));
+}
+
+// Table
+// --------
+@mixin th-width($col, $width) {
+  #{$col} {
+    width: $width;
+  }
+}
+@mixin table-columns($widths...) {
+  width: 100%;
+
+  th, td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  $n: 1;
+  $var: "th:nth-child(" + $n + ")";
+  @each $width in $widths {
+    @include th-width($var, $width);
+    $n: $n + 1;
+    $var: "th:nth-child(" + $n + ")";
+  }
+}
