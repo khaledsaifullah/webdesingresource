@@ -38,8 +38,8 @@
       <file leaf-file-name="beutifullwebsite.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/design/beutifullwebsite.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="82" selection-start-line="1" selection-start-column="82" selection-end-line="1" selection-end-column="82" />
+            <state relative-caret-position="68">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -192,7 +192,7 @@
       <workItem from="1579575823046" duration="184000" />
       <workItem from="1579577588914" duration="77000" />
       <workItem from="1579579072154" duration="793000" />
-      <workItem from="1579594914521" duration="2062000" />
+      <workItem from="1579594914521" duration="2475000" />
     </task>
     <task id="LOCAL-00001" summary="ui">
       <created>1579499026202</created>
@@ -299,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579599108405</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ui">
+      <created>1579599140690</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1579599140690</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5455000" />
+    <option name="totallyTimeSpent" value="5868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -373,8 +380,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/design/beutifullwebsite.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="82" selection-start-line="1" selection-start-column="82" selection-end-line="1" selection-end-column="82" />
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           <folding />
         </state>
       </provider>
