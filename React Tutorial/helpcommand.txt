@@ -10,7 +10,10 @@ npm install react-router
 
 
 npm install --save react-router-dom
+---------------------------------------------------------------------------
 Ref:https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom
-
-
 Ref: https://www.npmjs.com/package/react-router
+----------------------------------------------------
+
+
+npm start
