@@ -28,8 +28,8 @@
       <file leaf-file-name="helpcommand.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/React Tutorial/helpcommand.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -172,7 +172,7 @@
       <workItem from="1579498657677" duration="2339000" />
       <workItem from="1579575823046" duration="184000" />
       <workItem from="1579577588914" duration="77000" />
-      <workItem from="1579579072154" duration="41000" />
+      <workItem from="1579579072154" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="ui">
       <created>1579499026202</created>
@@ -237,11 +237,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579579083823</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ui">
+      <created>1579579117018</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579579117018</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2641000" />
+    <option name="totallyTimeSpent" value="2697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -290,8 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/React Tutorial/helpcommand.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
