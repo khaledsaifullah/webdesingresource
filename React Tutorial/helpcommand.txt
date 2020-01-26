@@ -15,5 +15,16 @@ Ref:https://github.com/ReactTraining/react-router/tree/master/packages/react-rou
 Ref: https://www.npmjs.com/package/react-router
 ----------------------------------------------------
 
-
 npm start
+
+
+
+------------House Cost--------------------
+tin+angle+mistry = 50
+Break = 30
+Ciment + rod = 15
+Mistry = 10
+window+Door = 15
+==============================
+1Lack 20K
+
