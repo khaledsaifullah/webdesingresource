@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/TraingCourse/Introduction.doc" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/sekelaton.doc" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/TraingCourse/Introduction.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webdesingresource.iws" />
@@ -187,7 +186,7 @@
       <workItem from="1580954473915" duration="588000" />
       <workItem from="1581215482123" duration="1102000" />
       <workItem from="1581314071368" duration="629000" />
-      <workItem from="1581314804038" duration="2013000" />
+      <workItem from="1581314804038" duration="2324000" />
     </task>
     <task id="LOCAL-00001" summary="ui">
       <created>1579499026202</created>
@@ -427,11 +426,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581322604568</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="ui">
+      <created>1581322955572</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1581322955572</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24538000" />
+    <option name="totallyTimeSpent" value="24849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
