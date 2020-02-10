@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/XD/Sample One.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/Template/XD/Sample_01.xd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/famous.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webdesingresource.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,30 +24,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="helpcommand.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
+      <file leaf-file-name="help-Guide line.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/React Tutorial/help-Guide line.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CourseSchedule.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/TraingCourse/CourseSchedule.txt">
+      <file leaf-file-name="helpcommand.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/React Tutorial/helpcommand.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Home.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/TraingCourse/Home.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -78,8 +60,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/design/beutifullwebsite.html" />
-        <option value="$PROJECT_DIR$/React Tutorial/helpcommand.txt" />
         <option value="$PROJECT_DIR$/design/TraingCourse/CourseSchedule.txt" />
+        <option value="$PROJECT_DIR$/React Tutorial/helpcommand.txt" />
       </list>
     </option>
   </component>
@@ -90,7 +72,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -135,6 +117,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webdesingresource" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdesingresource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdesingresource" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React Tutorial" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -215,7 +211,7 @@
       <workItem from="1580892879918" duration="646000" />
       <workItem from="1580954473915" duration="588000" />
       <workItem from="1581215482123" duration="1102000" />
-      <workItem from="1581314071368" duration="36000" />
+      <workItem from="1581314071368" duration="584000" />
     </task>
     <task id="LOCAL-00001" summary="ui">
       <created>1579499026202</created>
@@ -424,10 +420,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21932000" />
+    <option name="totallyTimeSpent" value="22480000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25906184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -436,7 +432,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
@@ -688,13 +684,6 @@
     <entry file="file://$PROJECT_DIR$/design/blurpicture-1.jpg" />
     <entry file="file://$PROJECT_DIR$/design/1.jpg" />
     <entry file="file://$PROJECT_DIR$/design/beutifullwebsite.html" />
-    <entry file="file://$PROJECT_DIR$/React Tutorial/helpcommand.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design/UI Kit/businessplaza-shop/sass/style.scss" />
     <entry file="file://$PROJECT_DIR$/design/UI Kit/businessplaza-shop/config.rb" />
     <entry file="file://$PROJECT_DIR$/design/TraingCourse/Sample_01.jpg">
@@ -719,6 +708,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React Tutorial/help-Guide line.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React Tutorial/helpcommand.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
           <folding />
         </state>
       </provider>
