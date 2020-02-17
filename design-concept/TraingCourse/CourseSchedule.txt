@@ -1,0 +1,105 @@
+Graphics Desing
+------------------------------------
+Module – 01: Introduction to Adobe Photoshop
+What is adobe photoshop?
+Why we use adobe photoshop in design?
+Why learn photoshop?
+
+
+Module – 02: Adobe Photoshop Basics
+Working with images
+User interface
+Cropping images
+Image sizes and resolution
+Color modes
+Working with layers
+Photoshop drawing
+
+
+Module – 03: Adobe Photoshop Advance
+Working with grid
+Transformations
+Selection & complex selection project
+Advance selection techniques
+Masking, Pixel Masks, Vector Masks
+Working with objects (Smart, Vector, Linked objects)
+Working with text
+
+
+Module – 04: Adobe Photoshop Advance
+Saving the design
+Wireframe design
+UI Design
+Mockup design
+Portfolio design
+PSD Template design
+ICON Design
+
+Module – 05: Project Work with Illustrator and Photoshop
+Visiting Card,
+Logo Design
+Facebook, Google Plus, Twitter, Pinterest Banner Design
+T-Shirt Design
+
+
+Module – 11: Working with Freelancing/Outsourcing marketplace
+Upwork
+Freelancer
+Fiverr
+Teespring
+TeePublic
+Payoneer
+
+
+
+Module – 01: Introduction of Adobe Illustrator
+Why we will learn Illustrator?
+Where we will use Adobe Illustrator?
+Artboards
+Navigations
+Working with vectors
+User Interface
+Settings of Illustrator
+
+
+Module – 02: Adobe Illustrator Basics
+User Interface
+Working with Brushes, Text, Text on a path
+Appearance panel
+Gradients
+Grouping, Shape building, Layers, Rotate and scale
+Edit path and pen tool
+
+
+
+Module – 03: Advance Illustrator
+Working with objects
+Working with images
+Advance Techniques of illustrato
+
+
+
+Professional Webdesign
+------------
+Learn HTML
+Learn CSS
+Learn Bootstrap
+Laern Colors&Ions
+Learn Sass
+Learn PSD to HTML
+--------------------------
+
+
+URL: https://www.webinstitute.com.bd/web-design-course-dhaka-bangladesh.php
+
+
+
+
+
+
+
+
+
+
+
+
