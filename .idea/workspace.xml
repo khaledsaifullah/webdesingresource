@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/New folder/New folder/New folder/creative-design/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/New folder/New folder/New folder/creative-design/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/New folder/New folder/New folder/creative-design/beutifullwebsite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/New folder/New folder/New folder/creative-design/blurpicture-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/XD/Sample One.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/Template/XD/Sample_01.xd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/CourseSchedule.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/CourseSchedule.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Full Course/images/step_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Full Course/images/step_02.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Full Course/step_01.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Full Course/step_02.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Full Course/step_03.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Full Course/step_04.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Full Course/step_05.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Home.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Home.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Introduction.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Introduction.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/Sample_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/TraingCourse/TraingCourse.doc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design/famous.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-concept/New folder (2)/koicomputers.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webdesingresource.iws" />
@@ -54,7 +24,18 @@
     <favorites_list name="webdesingresource" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="famous.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design-concept/famous.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,6 +54,7 @@
         <option value="$PROJECT_DIR$/design/TraingCourse/CourseSchedule.txt" />
         <option value="$PROJECT_DIR$/React Tutorial/helpcommand.txt" />
         <option value="$PROJECT_DIR$/design/famous.html" />
+        <option value="$PROJECT_DIR$/design-concept/famous.html" />
       </list>
     </option>
   </component>
@@ -131,6 +113,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webdesingresource" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdesingresource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webdesingresource" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design-concept" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,7 +213,7 @@
       <workItem from="1581314071368" duration="629000" />
       <workItem from="1581314804038" duration="2950000" />
       <workItem from="1581398827063" duration="604000" />
-      <workItem from="1581918279318" duration="130000" />
+      <workItem from="1581918279318" duration="1151000" />
     </task>
     <task id="LOCAL-00001" summary="ui">
       <created>1579499026202</created>
@@ -478,11 +474,25 @@
       <option name="project" value="LOCAL" />
       <updated>1581918385589</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="ui">
+      <created>1581918419077</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1581918419077</updated>
+    </task>
+    <task id="LOCAL-00039" summary="ui">
+      <created>1581919684866</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1581919684866</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26209000" />
+    <option name="totallyTimeSpent" value="27230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -521,14 +531,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/design/famous.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -790,6 +792,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-concept/famous.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
           <folding />
         </state>
       </provider>
