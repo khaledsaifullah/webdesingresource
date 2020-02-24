@@ -1,0 +1,79 @@
+.right-sidebar {
+  @include box-shadow(-3px 0 5px rgba(0, 0, 0, 0.05));
+  @include fixed(0, -100%);
+  @include size(450px, 100%);
+  @include display-flex;
+  @include flex-direction(column);
+  @include opacity(0);
+  background-color: $white;
+  border-left: 2px solid #b0b0b0;
+  z-index: 99;
+
+  .sidebar-head {
+    @include flex(none);
+    padding: 40px 40px 45px;
+  }
+
+  .sidebar-close {
+    @include absolute(20px, 20px);
+    color: #9c9c9c;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 1;
+
+    &:before {
+      @include icon('\f162');
+    }
+
+    &:hover {
+      color: $red;
+    }
+  }
+
+  .sidebar-body {
+    @include flex(auto);
+    min-height: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    overflow: auto;
+  }
+
+  .sidebar-footer {
+    @include flex(none);
+    background-color: #fafafa;
+    border-top: 1px solid #d2e2e8;
+    padding: 25px;
+
+    .btn {
+
+      + .btn {
+        margin-left: 5px;
+      }
+    }
+
+    .search-reset-btn:hover,
+    .search-cancel-btn:hover {
+      color: #000000;
+    }
+    .search-reset-btn {
+      margin-left: 5px;
+    }
+
+  }
+}
+
+.customers_partner_customer_list,
+.jobs_partner_job_list,
+.reports_partner_index {
+  .right-sidebar {
+    .sidebar-body {
+      form {
+        @include display-flex;
+        @include flex-direction(column);
+        height: 100%;
+        overflow: hidden;
+      }
+    }
+  }
+}

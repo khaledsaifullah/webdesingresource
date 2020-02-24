@@ -1,0 +1,284 @@
+
+.body {
+  @include display-flex;
+  height: -moz-calc(100vh - 90px);
+  height: -webkit-calc(100vh - 90px);
+  height: calc(100vh - 90px);
+}
+
+.content-section {
+  @include display-flex;
+  @include flex-direction(column);
+  @include flex(auto);
+  max-width: 100%;
+}
+
+.content-body {
+  @include flex(auto);
+  background-color: #f5f5f5;
+  padding: 40px;
+  height: 100%;
+  overflow: auto;
+
+  > .breadcrumb-panel {
+    margin-top: -20px;
+  }
+}
+
+.content-box {
+  + .content-box {
+    margin-top: 30px;
+  }
+}
+
+.centred-content {
+  @include display-flex;
+  @include flex-direction(column);
+  @include border-radius(3px);
+  padding: 40px;
+  background-color: $white;
+  border: 1px solid #d2e2e8;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 780px;
+  max-height: 100%;
+}
+
+.margin-disable {
+  margin: 0;
+}
+
+.hubSpot-btn {
+  @include display-flex;
+  @include justify-content(center);
+  padding: 80px 0;
+
+  a {
+    padding: 18px 50px;
+
+    & ~ a {
+      margin-left: 15px;
+    }
+  }
+}
+
+.text-ellipsis {
+  display: inline-block;
+  max-width: 150px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  vertical-align: middle;
+}
+
+.input-set-box {
+  @include border-radius(6px);
+  background-color: $white;
+  padding: 30px;
+
+  .set-title {
+    font-size: 20px;
+    text-transform: none;
+    position: relative;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+
+    &:before {
+      @include absolute($bottom: 0);
+      @include size(50px, 2px);
+      content: '';
+      background-color: $border-color;
+    }
+  }
+
+  .form-group {
+
+    label {
+      font-weight: 700;
+    }
+  }
+
+}
+
+.table td.file_name {
+  color: $primary-color;
+  font-weight: bold;
+}
+
+.settings-nav-section .profile-info {
+  right: -18px;
+}
+
+.info-extra {
+
+  .name-location {
+
+    p {
+      margin-bottom: 0;
+    }
+
+  }
+}
+
+.associated-lead {
+  margin-bottom: 60px;
+
+  .bordered-title {
+    margin-bottom: 25px;
+  }
+  .info-extra {
+    margin-bottom: 25px;
+    h5 {
+      margin-bottom: 0;
+    }
+  }
+
+}
+
+.stage-check-row.disable label {
+  color: #dbdbdb;
+}
+
+.stage-check-row + .stage-check-row {
+  margin-top: 10px;
+}
+
+#activity-filter-options .form-group input[type="button"]:focus {
+  color: $white;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.report-download-link-wrapper {
+  @include display-flex;
+  @include justify-content(center);
+  margin-bottom: 30px;
+
+  .btn ~ .btn {
+    margin-left: 15px;
+  }
+}
+
+/*overwrite css scroll bar top*/
+.ps__rail-x {
+  top: 0;
+  bottom: auto;
+}
+.ps__rail-x,
+.ps__rail-y {
+  opacity: 0.6;
+}
+
+
+.page-admin-top {
+  padding-bottom: 10px;
+  h2 {
+    .btn {
+      @include  font($size: 11px,$weight: 700);
+      padding: 4px 18px;
+      margin-left: 10px;
+    }
+  }
+}
+
+.hide{
+  display: none;
+}
+
+.admin-lock-wrapper{
+    position: relative;
+}
+
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+
+.btn-radius {
+  @include border-radius(50px);
+  background-color: transparent;
+  padding: 0 8px 0 8px;
+  margin-right: 5px;
+  font-size: 11px;
+}
+
+.link-ticket-btn {
+  padding: 0 10px 0 10px;
+  border: 1px solid #ff8382;
+  color: #ff8382;
+}
+
+a.link-ticket-btn {
+  color: #ff8382 !important;
+}
+
+.link-ticket-btn,a.link-ticket-btn{
+  text-decoration: none;
+}
+
+.create-ticket-btn {
+  padding: 0 10px 0 10px;
+  border: 1px solid $warning-color;
+  color: $warning-color !important;
+}
+
+a .create-ticket-btn {
+  color: $warning-color;
+}
+
+.create-ticket-btn,a.create-ticket-btn{
+  text-decoration: none;
+}
+
+
+.archive-btn {
+  padding: 0 10px 0 10px;
+  border: 1px solid #36b37e;
+  color: #36b37e;
+}
+
+a.archive-btn {
+  color: #36b37e !important;
+}
+
+.archive-btn,a.archive-btn{
+  text-decoration: none;
+}
+
+
+.unlink-btn {
+  padding: 0 10px 0 10px;
+  border: 1px solid $warning-color;
+  color: $warning-color !important;
+}
+.unlink-btn:hover {
+  text-decoration: none;
+}
+
+.date-picker{
+    position: relative;
+
+    .date-icon-append{
+      @include absolute($top: 3px, $right: 10px) ;
+    }
+}
+
+.date-picker-iconappend:before{
+  @include absolute($top: 3px, $right: 10px) ;
+  content: "\f073";
+  color: $black;
+  font-size: 15px;
+  font-family: FontAwesome;
+  z-index: 4;
+}
+
+
+
+
+
+
+
+

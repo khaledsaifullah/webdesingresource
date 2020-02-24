@@ -1,0 +1,58 @@
+.data-view-panel {
+  @include display-flex;
+  @include flex-direction(column);
+
+  .data-title {
+    @include display-flex;
+    @include flex(none);
+    margin-bottom: 30px;
+
+    .title-text {
+      @include flex(auto);
+      color: $header-color;
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    .title-action {
+      @include flex(none);
+      color: #9c9c9c;
+      cursor: pointer;
+      font-size: 18px;
+    }
+  }
+
+  .data-view {
+    @include flex(auto);
+  }
+}
+
+.data-line {
+  border-bottom: 1px solid #f5f5f5;
+  padding-bottom: 15px;
+
+  + .data-line {
+    margin-top: 15px;
+  }
+
+  label, .label {
+    color: #9c9c9c;
+    font-size: 12px;
+    display: block;
+  }
+
+  .value {
+    display: block;
+    color: #5b6169;
+    font-size: 15px;
+  }
+}
+.items-data-line {
+  max-height: 545px;
+
+  .data-line {
+    border-bottom: 1px solid #f5f5f5;
+    padding-bottom: 15px;
+    font-size: 15px;
+  }
+  }

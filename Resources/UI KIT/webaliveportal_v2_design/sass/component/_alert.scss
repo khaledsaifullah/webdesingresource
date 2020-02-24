@@ -1,0 +1,93 @@
+/*** Start Bootstrap Overwritten ***/
+
+.alert {
+  padding: 7px 15px;
+  font-size: 14px;
+
+  .alert-link {
+    color: inherit;
+    font-weight: 400;
+    text-decoration: underline;
+    position: relative;
+  }
+
+  .close {
+    @include absolute(50%, 15px);
+    transform: translateY(-50%);
+    cursor: pointer;
+    padding: 0;
+    font-size: 14px;
+  }
+}
+
+/* Alert Info */
+.alert-info {
+  color: #4a90e2;
+  background-color: #d8e6f7;
+  border-color: #d8e6f7;
+
+  .fi-close:before{
+    color: #4a90e2;
+  }
+
+}
+
+/* Alert Warning */
+.alert-warning {
+  color: #f69119;
+  background-color: #fbebdc;
+  border-color: #fbebdc;
+
+  .fi-close:before{
+    color: #f69119;
+  }
+
+}
+
+/* Alert Danger */
+.alert-danger {
+  color: #de350b;
+  background-color: #fdede9;
+  border-color: #fdede9;
+
+  .fi-close:before{
+    color: #de350b;
+  }
+
+}
+
+/* Alert Success */
+.alert-success {
+  color: #36b37e;
+  background-color: #e3f7ef;
+  border-color: #e3f7ef;
+
+  .fi-close:before{
+    color: #36b37e;
+  }
+
+}
+
+
+
+/* Alert Success */
+.alert-success-check {
+  color: #000000;
+  background-color: #f4f9f3;
+  border-color: #7fc275;
+  border-radius: 0;
+
+  .fa{
+    margin-right: 10px;
+  }
+
+  .fa:before{
+    color: #7fc275;
+  }
+
+}
+
+
+
+
+/*** End Bootstrap Overwritten ***/

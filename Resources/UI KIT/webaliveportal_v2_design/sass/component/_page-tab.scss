@@ -1,0 +1,102 @@
+.page-tab-heading {
+
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      padding: 3px 38px 3px 0;
+
+      a {
+        color: $black;
+        font-size: 12px;
+        font-weight: 600;
+        text-decoration: none;
+        border-radius: 0;
+        padding: 0;
+
+        &:hover{
+          color: $primary-color;
+        }
+        &.nav-link.active {
+          border-bottom: 1px solid $primary-color;
+          color: $primary-color;
+          background-color: transparent;
+          border-radius: 0;
+        }
+      }
+
+    }
+  }
+
+
+
+}
+
+.analytics-report-tab-content{
+  .page-tab-heading{
+     ul{
+       justify-content: center;
+       li{
+         a{
+           font-size: 15px;
+           &.nav-link.active {
+             border-bottom: 2px solid $primary-color;
+             padding-bottom: 6px;
+           }
+         }
+       }
+     }
+
+    &.page-tab-heading-analytics-top{
+      ul{
+        li{
+          a{
+            font-size: 17px;
+          }
+        }
+      }
+    }
+  }
+
+  .page-tab-heading-analytics-top ul{
+    justify-content: left;
+  }
+
+  .page-table-title-analytics {
+    margin: 0;
+    padding: 20px 0 20px 0;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  .table-analytic-date-keyword{
+      td:first-child,th:first-child{
+        width: 200px;
+      }
+      td:last-child,th:last-child{
+        width: 200px;
+      }
+  }
+
+  .table-analytic-rank-keyword{
+    td:nth-child(1),th:nth-child(1){
+      width: 60px;
+    }
+    td:nth-child(3),th:nth-child(3){
+      width: 200px;
+    }
+    td:nth-child(4),th:nth-child(4){
+      width: 200px;
+    }
+
+  }
+
+}
+
+
+
+
+
+

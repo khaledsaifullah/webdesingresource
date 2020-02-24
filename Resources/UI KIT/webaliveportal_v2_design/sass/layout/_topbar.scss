@@ -1,0 +1,68 @@
+.top-bar {
+  @include display-flex;
+  @include flex(none);
+  @include align-items(center);
+  @include justify-content(space-between);
+  background-color: $white;
+  border-bottom: 1px solid #e2ebee;
+  padding: 12px 40px;
+
+  .tb-title {
+    @include display-flex(inline-flex);
+    @include align-items(center);
+    min-width: 0;
+  }
+
+  .tb-action {
+    @include flex(none);
+
+    .btn {
+
+      ~ .btn {
+        margin-left: 10px;
+      }
+    }
+
+    .search-input {
+      margin-left: 10px;
+    }
+  }
+
+  .tb-action-middle {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+
+    input {
+      border: none;
+      outline: none;
+      font-size: 16px;
+    }
+
+    .pen-edit {
+      margin-left: 10px;
+    }
+  }
+
+  .tb-title-text {
+    color: $header-color;
+    font-size: 22px;
+    margin-right: 15px;
+    white-space: nowrap;
+    -ms-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+
+  .dropdown-normal {
+
+    .chosen-single {
+      color: $primary-color;
+      font-size: 20px;
+
+      div b:before {
+        color: $primary-color;
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+.progress-vertical {
+  position: relative;
+
+  &:before {
+    @include absolute($left: 8px);
+    @include size(1px, 100%);
+    background-color: #d2e2e8;
+    content: '';
+  }
+
+  .progress-item a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .progress-item {
+    color: #d0d0d0;
+    font-size: 14px;
+    display: block;
+    padding: 15px 0 15px 30px;
+    position: relative;
+
+    &:before {
+      @include absolute(15px, $left: 0);
+      @include square(16px);
+      @include border-radius(50%);
+      background-color: $white;
+      border: 1px solid #d2e2e8;
+      content: '';
+    }
+
+    &.completed {
+      color: #5b6169;
+
+      &:before {
+        background-color: #d2e2e8;
+      }
+    }
+
+    &.active {
+      color: #f68d5f;
+
+      &:before {
+        background-color: #f68d5f;
+        border-color: #f68d5f;
+      }
+    }
+
+    &.disabled {
+
+       a {
+         cursor: default;
+       }
+    }
+  }
+}

@@ -1,0 +1,158 @@
+.user-login {
+  background: #1c1f26 url('../images/login-bg-btm.png') repeat-x scroll center bottom;
+  height: 100vh;
+  position: relative;
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    background: url(../images/login-echo-logo.png) no-repeat;
+    height: 78px;
+    width: 238px;
+  }
+
+  .auth-form {
+    @include absolute(50%, 50%);
+    @include translate(50%, -50%);
+    max-width: 500px;
+    width: 100%;
+  }
+
+  .brand-part {
+    @include display-flex;
+    @include align-items(center);
+    @include justify-content(space-between);
+    @include border-top-left-radius(4px);
+    @include border-top-right-radius(4px);
+    background-color: #5b6169;
+    color: $white;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 15px 20px;
+
+    img {
+      margin-top: -5px;
+    }
+  }
+
+  .form-inner {
+    @include border-bottom-left-radius(4px);
+    @include border-bottom-right-radius(4px);
+    background-color: #f2f5fa;
+    padding: 35px 60px 60px 60px;
+    position: relative;
+
+    .header-form h1 {
+      margin: 0;
+      padding-bottom: 55px;
+    }
+
+    .form-body {
+      padding-bottom: 40px;
+
+      .form-group {
+        margin-bottom: 0;
+
+        & + .form-group {
+          margin-top: 20px;
+          margin-bottom: 0;
+        }
+      }
+    }
+
+    .icon-holder {
+      @include absolute(0);
+      @include square(45px);
+      line-height: 45px;
+      text-align: center;
+
+      &:after {
+        @include absolute(50%, 0);
+        @include size(1px, 15px);
+        @include translateY(-50%);
+        background-color: #d2e2e8;
+        content: "";
+      }
+
+      .fi {
+        color: #899999;
+        font-size: 15px;
+      }
+    }
+
+    .login-action {
+      @include absolute($left: 50%, $bottom: -40px);
+      @include translateX(-50%);
+    }
+
+    .forgot-pass {
+      @include transition(all 300ms ease-in);
+      margin-bottom: 20px;
+      display: inline-block;
+      color: #9c9c9c;
+      font-size: 14px;
+      text-decoration: underline;
+
+      &:hover {
+        color: #1c1f26;
+      }
+    }
+
+    .login-circle-btn {
+      @include square(80px);
+      @include border-radius(50%);
+      @include transition(all 300ms ease-in);
+      background-color: #36b37e;
+      color: $white;
+      border: none;
+      text-align: center;
+      line-height: 80px;
+      padding: 0;
+
+      &:hover {
+        background-color: #2da572;
+      }
+    }
+
+    .alert {
+      padding: 10px 12px;
+      font-size: 13px;
+      .close{
+        position: absolute;
+        @include translateY(-50%);
+        top: 50%;
+        right: 20px;
+      }
+    }
+
+    .alert-close {
+      @include translateY(-50%);
+      top: 50%;
+      right: 12px;
+      position: absolute;
+
+      .fi {
+        font-size: 14px;
+      }
+    }
+  }
+
+  .login-input {
+    @include display-flex;
+    @include align-items(center);
+
+    input {
+      height: 45px;
+      color: #5b6169;
+      font-size: 14px;
+      font-weight: 500;
+      padding-left: 60px;
+    }
+
+  }
+
+}
+

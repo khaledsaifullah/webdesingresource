@@ -1,0 +1,118 @@
+.action-group {
+  @include display-flex(inline-flex);
+
+  .action-item {
+    margin-left: 10px;
+    margin-right: 10px;
+
+    .fi {
+      color: #9c9c9c;
+      cursor: pointer;
+      font-size: 18px;
+
+      &:hover {
+        color: $primary-color;
+      }
+    }
+
+    &.show {
+
+      .fi {
+        color: $primary-color;
+      }
+    }
+  }
+
+  .customer-note {
+    position: relative;
+    display: inline-block;
+
+    &:hover {
+      .fi {
+        cursor: pointer;
+      }
+    }
+
+    &.show {
+
+      .fi {
+        color: $primary-color;
+      }
+
+      .pop-over {
+        display: block;
+      }
+    }
+
+    .pop-over {
+      @include absolute(45px, 100%, auto, auto);
+      margin-right: -40px;
+      z-index: 99;
+      display: none;
+
+      .pop-over-wrapper {
+        @include size(300px, auto);
+        @include border-radius(5px);
+        @include bordered-arrow(18px, 10px, up, $border-color: #efefef);
+        @include box-shadow(-4px 1px 11px 0 #efefef);
+        padding: 20px;
+        max-height: none;
+        text-align: left;
+        background-color: $white;
+        border: 1px solid #efefef;
+
+        .pop-over-text {
+          @include border-radius(5px);
+          padding: 14px;
+          background-color: #fcfcfc;
+          border: 1px solid $border-color;
+        }
+
+        .pop-over-footer {
+          padding: 4px;
+          margin-top: 10px;
+          text-align: center;
+          @include border-radius(5px);
+          background-color: $primary-color;
+
+          input {
+            color: $white;
+            text-decoration: none;
+            font-size: small;
+            display: block;
+            width: 100%;
+            border: medium none;
+            cursor: pointer;
+            outline: 0;
+            background-color: $primary-color;
+
+            + input {
+              margin-left: 10px;
+            }
+
+            &:hover {
+              background: $primary-color;
+              border: medium none;
+            }
+          }
+        }
+        &::before {
+          right: 20px;
+          top: -22px;
+          left: auto;
+        }
+        &::after {
+          right: 20px;
+          left: auto;
+          top: -19px;
+        }
+        img {
+          display: block;
+          margin: auto;
+          text-align: center;
+        }
+      }
+
+    }
+  }
+}

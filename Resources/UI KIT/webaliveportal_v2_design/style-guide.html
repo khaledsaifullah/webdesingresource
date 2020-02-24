@@ -1,0 +1,1729 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Style Guide</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="Shortcut Icon" type="image/x-icon" href="images/favicon.ico" />
+    <!--Ref:https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_default&stacked=h-->
+
+    <!--start:Bootstrap Library-->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <!--end:Bootstrap Library-->
+
+
+    <!--start:jquery-ui Library-->
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <!--end:jquery-ui Library-->
+
+
+
+    <script src="js/chosen.jquery.min.js" type="text/javascript"></script>
+    <script src="js/custom.js" type="text/javascript"></script>
+
+
+</head>
+
+
+<body>
+<header>
+    <div class="ui container">
+        <h2 style="padding-bottom: 6px;">WebAlive Portal</h2>
+        <h3>Style Guide</h3>
+    </div>
+</header>
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="component-side-bar-top">
+                    <p><strong>01. Grids</strong></p>
+                    <p><strong>02. Color Plette</strong></p>
+                    <p><strong>03. Typography</strong></p>
+                    <p><strong>04. Assets</strong></p>
+                    <p><strong>05. UI Compoents</strong></p>
+                </div>
+                <div class="component-side-bar">
+                    <p><a href="#typography-section">Typography</a></p>
+                    <p><a href="#select-multiselect-section">Select / Multiselect</a></p>
+                    <p><a href="#radio-buttons-section">Radio Buttons / Check Buttons</a></p>
+                    <p><a href="#textfields-section">Textfields Secetion</a></p>
+                    <p><a href="#datetime-section">Date/Time Picker</a></p>
+                    <p><a href="#fileupload-section">File Upload</a></p>
+                    <p><a href="#project-timeline-section">Project Timeline</a></p>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="ui kit">
+                    <h3 style="font-weight: 500;">01_Bootstrap Grids</h3>
+                    <div class="component-row"> <span class="grid-picture"><img src="images/grid.jpg"> </span></div>
+                    <h3 style="padding-top: 25px; padding-bottom: 10px;">02_Color Palate</h3>
+                    <div class="component-row">
+                        <div class="component">
+                            <h5 style="color: rgba(16, 16, 16, 0.5); margin-bottom: 20px">Theme Color</h5>
+                            <div class="row" style="margin-bottom: 20px;">
+                                <div class="col-md-3">
+                                    <div style="border-radius: 5px;color:#fff; padding: 10px 30px;background-color: #f68d5f; ">#f68d5f</div>
+                                    <p style="color:rgba(16, 16, 16, 0.5); margin-top: 5px">Primary Color</p>
+                                </div>
+                                <div class="col-md-3">
+                                    <div style="border-radius: 5px;color:#fff; padding: 10px 30px;background-color: #f0f0f0; ">#f0f0f0</div>
+                                    <p style="color:rgba(16, 16, 16, 0.5); margin-top: 5px">Accent Color</p>
+                                </div>
+                                <div class="col-md-3">
+                                    <div style="border-radius: 5px;color:#fff; padding: 10px 30px;background-color: #3e3f3e; ">#3e3f3e</div>
+                                    <p style="color:rgba(16, 16, 16, 0.5); margin-top: 5px">Info Color</p>
+                                </div>
+                            </div>
+
+
+                            <h5 style="color: rgba(16, 16, 16, 0.5); margin-bottom: 20px;padding-top: 10px;">Typography Color</h5>
+                            <div class="row" style="margin-bottom: 20px;">
+                                <div class="col-md-3">
+                                    <div style="border-radius: 5px;color:#fff; padding: 10px 30px;background-color: #3f3f3f; ">#3f3f3f</div>
+                                    <p style="color:rgba(16, 16, 16, 0.5); margin-top: 5px">Heading Color</p>
+                                </div>
+                                <div class="col-md-3">
+                                    <div style="border-radius: 5px;color:#fff; padding: 10px 30px;background-color: #3f3f3f; ">#3f3f3f</div>
+                                    <p style="color:rgba(16, 16, 16, 0.5); margin-top: 5px">Sub Heading Color</p>
+                                </div>
+                                <div class="col-md-3">
+                                    <div style="border-radius: 5px;color:#fff; padding: 10px 30px;background-color: #9c9c9c; ">#9c9c9c</div>
+                                    <p style="color:rgba(16, 16, 16, 0.5); margin-top: 5px">Text Color</p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div id="typography-section">
+                        <h3>03_Typography</h3>
+                        <img src="images/typography.jpg">
+                        <style>
+                            .typo .column > * {margin-bottom: 40px}
+                        </style>
+                        <div class="component-row multi-column typo">
+                            <div class="column">
+                                <h1>Heading H1<span>Gilroy 32px / 48px</span></h1>
+                                <h2>Heading H2<span>Gilroy 28px / 48px</span></h2>
+                                <h3>Heading H3<span>Gilroy 24px / 40px</span></h3>
+                                <h4>Heading H4<span>Gilroy 20px / 34px</span></h4>
+                            </div>
+                            <div class="column">
+                                <h5>Heading H5<span>Gilroy 32px / 48px</span></h5>
+                                <h6>Heading H6<span>Gilroy 18px / 48px</span></h6>
+                                <p>Button<span style="color: #9c9c9c;font-size: 15px; display: block; margin-top: 5px;">Gilroy 14px / 26px</span></p>
+                                <p>Info Text<span style="color: #9c9c9c;font-size: 15px; display: block; margin-top: 5px;">Gilroy 14px / 26px</span></p>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <h3 style="padding-top: 50px;">04_Assets</h3>
+                    <h5 style="color: rgba(16, 16, 16, 0.5); margin-bottom: 20px">Icons</h5>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <p style="width: 70px;text-align: center;position: relative;left: -18px;"><span class="icon-circle medium"><i class="fa fa-plus"></i></span></p>
+                            <p style="width: 70px;text-align: center;position: relative;left: -18px;"><span class="icon-circle mini"><i class="fa"><img src="images/icons/pencil.png" alt="pencil"></i></span></p>
+                            <p style="width: 70px;text-align: center;position: relative;left: -18px;"><span class="icon-circle small"><i class="fa fa-plus"></i></span></p>
+                        </div>
+                        <div class="col-md-1" style="position: relative;left: -70px;">
+                            <p><span class="icon-symbol success"><i class="fa"><img src="images/icons/check.png" alt="check"></i></span></p>
+                            <p><span class="icon-symbol remove"><i class="fa"><img src="images/icons/remove.png" alt="remove"></i></span></p>
+                        </div>
+                        <div class="col-md-6"  style="position: relative;left: -80px;">
+                            <p style="margin-bottom: 10px;">
+                                <i class="custom-icon dollar-custom-icon"></i>
+                                <i class="custom-icon tickmark-custom-icon"></i>
+                                <i class="custom-icon global-custom-icon"></i>&nbsp;
+                                <i class="custom-icon headphone-custom-icon"></i>
+                                <i class="custom-icon setting-custom-icon"></i>
+                            </p>
+
+                            <p style="margin-bottom: 10px;">
+                                <i class="custom-icon dollar-custom-icon disabled"></i>
+                                <i class="custom-icon tickmark-custom-icon"></i>
+                                <i class="custom-icon global-custom-icon"></i>
+                                <i class="custom-icon headphone-custom-icon"></i>&nbsp;
+                                <i class="custom-icon setting-custom-icon"></i>
+                            </p>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+                    <div id="avatar-section" style="padding-left: 2px;">
+                        <h5 style="padding-top: 50px;padding-bottom:35px;color: rgba(16, 16, 16, 0.5);">Avatars</h5>
+                        <div class="row" style="position: relative;left: 10px;">
+                            <div style="text-align: center;color: rgba(0,0,0,0.5); margin-left: 8px; margin-right: 25px;"> <span class="avatar avatar-small">AB</span>
+                                <p>44px</p>
+                            </div>
+                            <div style="text-align: center; color: rgba(0,0,0,0.5);"> <span class="avatar avatar-medium">AB</span>
+                                <p>54px</p>
+                            </div>
+                            <div style="text-align: center;color: rgba(0,0,0,0.5);margin-left: 25px;position: relative;top: -18px;"> <span class="avatar avatar-large">AB</span>
+                                <p>94px</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+
+
+                    <h3 style="padding-top: 50px;">05_UI Components</h3>
+                    <div class="component-row btn-set-two">
+                        <label style="font-size: 17px; margin-bottom: 15px;">Buttons - Primary</label>
+                        <div class="component">
+                            <button type="button" class="btn btn-primary">Normal</button>
+                            <button type="button" class="btn btn-primary hover">Hover</button>
+                            <button type="button" class="btn btn-primary pressed">Pressed</button>
+                            <button type="button" class="btn btn-primary disabled">Disabled</button>
+                        </div>
+                    </div>
+
+                    <label style="font-size: 17px;">Buttons - Icon Button</label>
+                    <div class="row" style="padding: 8px 0 0 15px">
+                        <div class="file-upload-block file-upload-custom">
+                            <div class="file-upload">
+                                <div class="btn file-upload-button">
+                                    <i class="fi fi-upload"></i> UPLOAD FILE
+                                    <input type="file">
+                                </div>
+                            </div>
+                        </div>
+                        <span style="padding: 0 6px">&nbsp;</span>
+                        <div class="file-upload-block file-upload-custom">
+                            <div class="file-upload">
+                                <div class="btn file-upload-button hover">
+                                    <i class="fi fi-upload"></i> UPLOAD FILE
+                                    <input type="file">
+                                </div>
+                            </div>
+                        </div>
+
+                        <span style="padding: 0 6px">&nbsp;</span>
+                        <div class="file-upload-block file-upload-custom">
+                            <div class="file-upload">
+                                <div class="btn file-upload-button pressed">
+                                    <i class="fi fi-upload"></i> UPLOAD FILE
+                                    <input type="file">
+                                </div>
+                            </div>
+                        </div>
+
+                        <span style="padding: 0 6px">&nbsp;</span>
+                        <div class="file-upload-block file-upload-custom">
+                            <div class="file-upload">
+                                <div class="btn file-upload-button disabled">
+                                    <i class="fi fi-upload"></i> UPLOAD FILE
+                                    <input type="file">
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+                    <div class="component-row btn-set">
+                        <label style="font-size: 17px; margin-bottom: 15px;">Buttons - Secondary Button</label>
+                        <div class="component">
+                            <button type="button" class="btn btn-secondary">NORMAL</button>
+                            <button type="button" class="btn btn-secondary hover">HOVER</button>
+                            <button type="button" class="btn btn-secondary pressed">PRESSED</button>
+                            <button type="button" class="btn btn-secondary disabled">DISABLED</button>
+                        </div>
+                    </div>
+
+
+                    <div class="component-row btn-set">
+                        <label style="font-size: 17px; margin-bottom: 15px;">Export Buttons - Secondary Button</label>
+                        <div class="component">
+                            <button type="button" class="btn btn-secondary export-button">Export</button>
+                            <button type="button" class="btn btn-secondary export-button hover">Export</button>
+                            <button type="button" class="btn btn-secondary export-button pressed">Export</button>
+                            <button type="button" class="btn btn-secondary export-button disabled">Export</button>
+                        </div>
+                    </div>
+
+                    <div class="component-row btn-set">
+                        <label style="font-size: 17px; margin-bottom: 15px;">Save Buttons - Secondary Button</label>
+                        <div class="component">
+                            <button type="button" class="btn btn-secondary">SAVE</button>
+                            <button type="button" class="btn btn-secondary hover">SAVE</button>
+                            <button type="button" class="btn btn-secondary pressed">SAVE</button>
+                            <button type="button" class="btn btn-secondary export-button disabled">SAVE</button>
+                        </div>
+                    </div>
+
+                    <div class="component-row btn-set">
+                        <label style="font-size: 17px; margin-bottom: 15px;">Save and Next Buttons - Secondary Button</label>
+                        <div class="component">
+                            <button type="button" class="btn btn-secondary">SAVE AND NEXT</button>
+                            <button type="button" class="btn btn-secondary hover">SAVE AND NEXT</button>
+                            <button type="button" class="btn btn-secondary pressed">SAVE AND NEXT</button>
+                            <button type="button" class="btn btn-secondary export-button disabled">SAVE AND NEXT</button>
+                        </div>
+                    </div>
+
+
+                    <div class="component-row btn-set">
+                        <label style="font-size: 17px; margin-bottom: 15px;">Download Buttons - Secondary Button</label>
+                        <div class="component">
+                            <button type="button" class="btn btn-secondary download-file-btn">DOWNLOAD ALL FILES</button>
+                            <button type="button" class="btn btn-secondary download-file-btn hover">DOWNLOAD ALL FILES</button>
+                            <button type="button" class="btn btn-secondary download-file-btn pressed">DOWNLOAD ALL FILES</button>
+                            <button type="button" class="btn btn-secondary download-file-btn disabled">DOWNLOAD ALL FILES</button>
+                        </div>
+                    </div>
+
+
+                    <div class="component-row btn-set">
+                        <label style="font-size: 17px; margin-bottom: 15px;">Download Buttons</label>
+                        <div class="component">
+                            <div class="download-project-files">
+                                <span class="download-file-name">ring creations.pdf<a href="#"><i class="fa fa-download" aria-hidden="true"></i></a></span>
+                                <span class="download-file-name">ring creations.pdf<a href="#"><i class="fa fa-download" aria-hidden="true"></i></a></span>
+                                <span class="download-file-name">ring creations.pdf<a href="#"><i class="fa fa-download" aria-hidden="true"></i></a></span>
+                                <span class="download-file-name">ring creations.pdf<a href="#"><i class="fa fa-download" aria-hidden="true"></i></a></span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="component-row btn-set">
+                        <label style="font-size: 17px; margin-bottom: 15px;">Next & Previous</label>
+                        <div class="component">
+                            <a href="#" class="prev-btn-style">Prev</a>
+                            <a href="#" class="next-btn-style">Next</a>
+                        </div>
+                    </div>
+
+
+
+
+                   <div class="component-row btn-set">
+                        <label style="font-size: 17px; margin-bottom: 15px;">Small Button </label>
+                        <div class="component">
+                            <a href="#" class="link-ticket-btn btn-radius">Link Ticket</a>
+                            <a href="#" class="create-ticket-btn btn-radius">Create Ticket </a>
+                            <a href="#" class="archive-btn btn-radius">Archive </a>
+
+                        </div>
+                    </div>
+
+
+
+
+
+
+                    <div id="select-multiselect-section">
+                        <h3 style="font-size: 16px;padding-top: 1px;">Select Box / Mulitselect </h3>
+                        <div class="component-row multi-column" style="width: 565px;">
+                            <div class="column">
+                                <div class="component">
+                                    <div class="form-group">
+                                        <label>Select</label>
+                                        <select class="custom-dropdown">
+                                            <option>Select Customer</option>
+                                            <option disabled>Disabled Option</option>
+                                            <option>Select Option Two</option>
+                                            <option>Select Option Three</option>
+                                            <option>Select Option Four</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Select Disabled</label>
+                                        <select class="custom-dropdown" disabled>
+                                            <option>Select Customer</option>
+                                            <option disabled>Ketchup</option>
+                                            <option>Relish</option>
+                                            <option>Relish</option>
+                                            <option>Relish</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Multiple Select</label>
+                                        <select class="custom-dropdown" multiple>
+                                            <option>Select Customer</option>
+                                            <option disabled>Disabled Option</option>
+                                            <option>Competitor - Capability</option>
+                                            <option>Competitor - Price</option>
+                                            <option>Competitor - Product</option>
+                                            <option>Moving</option>
+                                            <option>Insufficent Cashflow</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="column">
+                                <div class="component">
+                                    <div class="form-group">
+                                        <label>Select Active</label>
+                                        <select class="custom-dropdown open">
+                                            <option>Select Customer</option>
+                                            <option disabled>Disabled Option</option>
+                                            <option>Competitor - Capability</option>
+                                            <option>Competitor - Price</option>
+                                            <option>Competitor - Product</option>
+                                            <option>Moving</option>
+                                            <option>Insufficent Cashflow</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="radio-buttons-section" style="width:670px;">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="input-group-inline">
+                                    <h5 style="font-size: 16px;">Radio Buttons</h5>
+                                    <div class="input-group"> <span class="custom-radio">
+  <input type="radio" name="gender" value="male" id="male">
+  <label for="male">Male</label>
+  </span></div>
+                                    <div class="input-group"> <span class="custom-radio">
+  <input type="radio" name="gender" value="female" id="female">
+  <label for="female">Female</label>
+  </span></div>
+                                    <div class="input-group"> <span class="custom-radio">
+  <input type="radio" name="gender" value="other" id="other">
+  <label for="other">Other</label>
+  </span> </div>
+
+
+                                </div>
+                                <div class="input-group-inline">
+                                    <h5  style="font-size: 16px;">Custom new Checkboxes</h5>
+                                    <div class="input-group"> <span class="round-custom-checkbox">
+        <input type="checkbox" id="c-51">
+        <label for="c-51">Normal</label>
+        </span>  </div>
+
+                                    <div class="input-group">  <span class="round-custom-checkbox">
+        <input type="checkbox" id="c-61">
+        <label for="c-61">Normal Hover</label>
+        </span> </div>
+
+                                    <div class="input-group">  <span class="round-custom-checkbox">
+        <input type="checkbox" id="c-71">
+        <label for="c-71">Normal</label>
+        </span> </div>
+
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="input-group-inline">
+                                    <h5  style="font-size: 16px;">Checkboxes</h5>
+                                    <div class="input-group"> <span class="custom-checkbox">
+        <input type="checkbox" id="c-5">
+        <label for="c-5">Normal</label>
+        </span>  </div>
+
+                                    <div class="input-group">  <span class="custom-checkbox">
+        <input type="checkbox" id="c-6">
+        <label for="c-6">Normal Hover</label>
+        </span> </div>
+
+                                    <div class="input-group">
+                                        <span class="custom-checkbox disabled">
+        <input type="checkbox" id="c-7" disabled />
+        <label for="c-7">Disabled</label>
+        </span> </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+
+
+
+
+                    <div id="textfields-section" style="width: 560px;">
+                        <style>
+                            #textfields-section .form-column-right{
+                                padding-left: 0;
+                            }
+                        </style>
+
+                        <h5  style="font-size: 16px; padding-top: 60px;">Textfields</h5>
+                        <div style="position: relative; top: -20px;">
+                        <!--start:row form-->
+                        <div class="form-row-group-content">
+                            <h6 class="sub-title">Invoice 1</h6>
+                            <div class="form-row-content">
+                                <div class="form-column-left">
+                                    <div class="form-group title-name">
+                                        <label>Invoice Amount:</label>
+                                        <input type="text" class="form-control" placeholder="" name="InvoiceAmount:">
+                                    </div>
+                                    <div class="form-group title-name">
+                                        <label>Invoice Date:</label>
+                                        <div class="date-picker input-group">
+                                            <input type="text" class="form-control is-invalid"/>
+                                            <div class="invalid-feedback">Error message area</div>
+                                        </div>
+                                    </div>
+                                    <div class="form-group title-name">
+                                        <label>Due Date:</label>
+                                        <div class="date-picker input-group">
+                                            <input type="text" class="form-control is-invalid"/>
+                                        </div>
+                                    </div>
+
+
+
+                                </div>
+                                <div class="form-column-right">
+                                    <div class="form-group">
+                                        <label>Description:</label>
+                                        <textarea class="form-control is-invalid" rows="5"></textarea>
+                                        <div class="invalid-feedback">Error message area</div>
+                                    </div>
+                                    <p>&nbsp;</p>
+                                    <div class="input-group">
+                                        <span class="custom-checkbox">
+                                            <input type="checkbox" id="c-20">
+                                            <label for="c-20">Send email to client now</label>
+                                        </span>
+                                    </div>
+                                    <p>&nbsp;</p>
+                                    <div class="input-group">
+                                        <span class="custom-checkbox right-align-checkbox">
+                                            <input type="checkbox" id="c-23">
+                                            <label for="c-23">Send email to client now</label>
+                                        </span>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <!--end:row form-->
+                        </div>
+
+                    </div>
+
+
+                    <div id="datetime-section">
+                        <h5 style="font-size: 16px; padding-top: 30px; padding-bottom: 15px;">Date Picker</h5>
+                        <div class="row">
+                            <div class="col-md-6" style="max-width: 310px;">
+                                <div class="form-group">
+                                    <label>Date One:</label>
+                                    <div class="date-picker input-group">
+                                        <input type="text" class="form-control datepicker" value="" />
+                                    </div>
+                                </div>
+
+
+                                <div class="form-group">
+                                    <label>Start Date:</label>
+                                    <div class="date-picker input-group date-picker-iconappend">
+                                        <input type="text" class="form-control datepicker" value="" />
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>Start Date:</label>
+                                    <div class="date-picker input-group date-picker-iconappend">
+                                        <input type="text" class="form-control datepicker" value="" />
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="col-md-6">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <label>Date Range:</label>
+                                            <div class="date-picker input-group">
+                                                <input type="text" class="form-control datepicker" value="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label>Start Date:</label>
+                                            <div class="date-picker input-group">
+                                                <input type="text" class="form-control datepicker" value="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label>End Date:</label>
+                                            <div class="date-picker input-group">
+                                                <input type="text" class="form-control datepicker" value="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <h3 style="font-size: 20px; padding-top: 100px;">Alerts</h3>
+                    <div class="component-row">
+                        <div class="component">
+                            <div class="alert alert-info alert-dismissible">Info! This alert box indicates a neutral informative change or action. <span class="close" data-dismiss="alert"><i class="fi fi-close"></i></span> </div>
+                            <div class="alert alert-warning alert-dismissible">Warning! This alert box indicates a warning that might need attention. <span class="close" data-dismiss="alert"><i class="fi fi-close"></i></span> </div>
+                            <div class="alert alert-danger alert-dismissible">Danger! This alert box indicates a dangerous or potentially negative action. <span class="close" data-dismiss="alert"><i class="fi fi-close"></i></span> </div>
+                            <div class="alert alert-success alert-dismissible">Success! This alert box indicates a successful or positive action. <span class="close" data-dismiss="alert"><i class="fi fi-close"></i></span> </div>
+                        </div>
+                    </div>
+                    <h3>Table</h3>
+                    <div class="component-row">
+                        <div class="component">
+                            <table class="table table-striped">
+                                <thead>
+                                <tr>
+                                    <th>Product ID</th>
+                                    <th>Product Name</th>
+                                    <th>Supplier</th>
+                                    <th>Quantity</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td>505</td>
+                                    <td>LED Light</td>
+                                    <td>Allen Walker</td>
+                                    <td>20</td>
+                                </tr>
+                                <tr>
+                                    <td>505</td>
+                                    <td>LED Light</td>
+                                    <td>Allen Walker</td>
+                                    <td>20</td>
+                                </tr>
+                                <tr>
+                                    <td>505</td>
+                                    <td>LED Light</td>
+                                    <td>Allen Walker</td>
+                                    <td>20</td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+
+                    <div style="border-top: 1px solid #cccccc;padding: 15px 0;margin: 300px 0 0 0;">
+                        <h3>Additional Desing Components</h3>
+                    </div>
+
+
+
+
+
+                    <h3>Table With User</h3>
+                    <div class="component-row">
+                        <div class="component">
+                            <table class="table table-striped">
+                                <thead>
+                                <tr>
+                                    <th>User</th>
+                                    <th>First</th>
+                                    <th>Last</th>
+                                    <th>Handle</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td>
+                                        <div class="user-profile">
+                                            <span class="avatar">AW</span>
+                                    <span class="info">
+                                        <span class="name">Allen Walker</span>
+                                    </span>
+                                        </div>
+                                    </td>
+                                    <td>Mark</td>
+                                    <td>Otto</td>
+                                    <td>@mdo</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="user-profile">
+                                    <span class="avatar">
+                                        <img src="http://www.stanfordchildrens.org/content-public/doctor/terry-s-platchek/terry-s-platchek.jpg" alt="AW">
+                                    </span>
+                                    <span class="info">
+                                        <span class="name">Allen Walker</span>
+                                        <span class="role">Manager</span>
+                                    </span>
+                                        </div>
+                                    </td>
+                                    <td>Jacob</td>
+                                    <td>Thornton</td>
+                                    <td>@fat</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div class="user-profile">
+                                            <span class="avatar">AW</span>
+                                    <span class="info">
+                                        <span class="name">Allen Walker</span>
+                                    </span>
+                                        </div>
+                                    </td>
+                                    <td>Larry</td>
+                                    <td>the Bird</td>
+                                    <td>@twitter</td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <p style="width: 70px;text-align: center;"><span class="icon-circle large"><i class="fa fa-plus"></i></span></p>
+                        <p style="width: 70px;text-align: center;"><span class="icon-circle medium"><i class="fa fa-plus"></i></span></p>
+                        <p style="width: 70px;text-align: center;"><span class="icon-circle small"><i class="fa fa-caret-down"></i></span></p>
+                        <p style="width: 70px;text-align: center;"><span class="icon-circle small"><i class="fa fa-plus"></i></span></p>
+                        <p style="width: 70px;text-align: center;"><span class="icon-circle mini"><i class="fa fa-pencil"></i></span></p>
+                        <p style="width: 70px;text-align: center;"><span class="icon-circle miniextra"><i class="fa fa-plus"></i></span></p>
+                    </div>
+
+
+
+
+                    <h3 style="padding: 100px 0 0 0;font-weight: bold;">Project Timeline</h3>
+                    <div id="project-timeline-section">
+
+                        <div class="component-row" style="position: relative;left: 8px; width: 120%;">
+                            <div class="project-time-line">
+                                <div class="step-timeline step-timeline-project">
+                                    <div class="step panning one-week" title="Planning"><div class="panning-progress" style="width: 50%;">&nbsp;</div></div>
+                                    <div class="step concept-design three-week" title="Concept Design"><div class="panning-progress" style="width: 0;">&nbsp;</div></div>
+                                    <div class="step concept-revision five-week" title="Concept Revision"><div class="panning-progress" style="width: 0;">&nbsp;</div></div>
+                                    <div class="step development nine-week" title="Development"><div class="panning-progress" style="width:0;">&nbsp;</div></div>
+                                    <div class="step development-revision eleven-week" title="Development Revision"><div class="panning-progress" style="width: 0;">&nbsp;</div></div>
+                                    <div class="step implimentation twelve-week" title="Implimentation"><div class="panning-progress" style="width: 0;">&nbsp;</div></div>
+                                    <div class="step warranty sixteen-week" title="Warranty"><div class="panning-progress" style="width: 0;">&nbsp;</div></div>
+                                </div>
+                            </div>
+
+                            <div class="project-time-line" >
+                                <div class="step-timeline step-timeline-project">
+                                    <div class="step panning one-week" title="Planning"><div class="panning-progress" style="width: 100%;">&nbsp;</div></div>
+                                    <div class="step concept-design three-week" title="Concept Design"><div class="panning-progress" style="width: 100%;">&nbsp;</div></div>
+                                    <div class="step concept-revision five-week" title="Concept Revision"><div class="panning-progress" style="width: 100%;">&nbsp;</div></div>
+                                    <div class="step development nine-week" title="Development"><div class="panning-progress" style="width:100%;">&nbsp;</div></div>
+                                    <div class="step development-revision eleven-week" title="Development Revision"><div class="panning-progress" style="width: 100%;">&nbsp;</div></div>
+                                    <div class="step implimentation twelve-week" title="Implimentation"><div class="panning-progress" style="width: 100%;">&nbsp;</div></div>
+                                    <div class="step warranty sixteen-week" title="Warranty"><div class="panning-progress" style="width: 100%;">&nbsp;</div></div>
+                                </div>
+                            </div>
+
+
+                            <div class="project-time-line" >
+                                <div class="step-timeline step-timeline-project">
+                                    <div class="step panning one-week" title="Planning"><div class="panning-progress" style="width: 100%;">&nbsp;</div></div>
+                                    <div class="step concept-design three-week" title="Concept Design"><div class="panning-progress" style="width: 100%;">&nbsp;</div></div>
+                                </div>
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+
+                    <div class="component">
+                        <table class="table-normal table-timeline time-line-overview">
+                            <thead>
+                            <tr>
+                                <th>Milestone</th>
+                                <th>Duration</th>
+                                <th>Progress</th>
+                                <th>Time Remaining</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>Planning</td>
+                                <td>27/09/2018 - 04/10/2018</td>
+                                <td>
+                                    <div class="step-timeline">
+                                        <div class="step panning one-week" title="Panning">
+                                            <div class="panning-progress" style="width: 50%;">&nbsp;</div>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>1 Week <a href="javascript:void(0)"  class="project-timeline-popup float-right"><img src="/webaliveportal_v2/assets/images/icons/pencil-small-icon.png" alt="plus" /></a> </td>
+                            </tr>
+                            <tr>
+                                <td>Concept Design</td>
+                                <td>04/10/2018 - 18/10/2018</td>
+                                <td>
+                                    <div class="step-timeline">
+                                        <div class="step concept-design three-week" title="Concept Design">
+                                            <div class="panning-progress" style="width: 0;">&nbsp;</div>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>3 Weeks</td>
+                            </tr>
+                            <tr>
+                                <td>Concept Revision</td>
+                                <td>18/10/2018 - 25/10/2018</td>
+                                <td>
+                                    <div class="step-timeline">
+                                        <div class="step concept-revision five-week" title="Concept Revision">
+                                            <div class="panning-progress" style="width: 0;">&nbsp;</div>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>5 Weeks</td>
+                            </tr>
+                            <tr>
+                                <td>Development</td>
+                                <td>25/10/2018 - 22/11/2018</td>
+                                <td><div class="step-timeline">
+                                    <div class="step development nine-week" title="Development">
+                                        <div class="panning-progress" style="width: 0;">&nbsp;</div>
+                                    </div>
+                                </div>
+                                </td>
+                                <td>9 Week</td>
+                            </tr>
+                            <tr>
+                                <td>Development Revision</td>
+                                <td>22/11/2018 - 06/12/2018</td>
+                                <td><div class="step-timeline">
+                                    <div class="step development-revision eleven-week" title="Development Revision">
+                                        <div class="panning-progress" style="width: 0;">&nbsp;</div>
+                                    </div>
+                                </div>
+                                </td>
+                                <td>11 Weeks</td>
+                            </tr>
+                            <tr>
+                                <td>Implimentation</td>
+                                <td>06/12/2018 - 13/06/2019</td>
+                                <td><div class="step-timeline">
+                                    <div class="step implimentation twelve-week" title="Implimentation">
+                                        <div class="panning-progress" style="width: 0;">&nbsp;</div>
+                                    </div>
+                                </div>
+                                </td>
+                                <td>12 Weeks</td>
+                            </tr>
+                            <tr>
+                                <td>Warranty</td>
+                                <td>06/12/2018 - 13/06/2019</td>
+                                <td><div class="step-timeline">
+                                    <div class="step warranty sixteen-week" title="Warranty">
+                                        <div class="panning-progress" style="width: 0;">&nbsp;</div>
+                                    </div>
+                                </div>
+                                </td>
+                                <td>16 Weeks</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h3 style="padding: 100px 0 0 0;font-weight: bold;">Message Feeback</h3>
+                    <div class="message-feeback">
+                        <div class="message-feeback-picture"><img src="images/Lily-Webalive-Site.jpg" alt="" /></div>
+                        <div class="message-feeback-content">
+                            <h5>Chrys Anastasi(WebAlive)</h5>
+                            <p>A Message has been added by:Chrys Anastasi(WebAlive)</p>
+                            <p>Project:Web Design Package - cfmg.com.au</p>
+                            <div class="message-feeback-status">
+                                <span class="message-feeback-status-count active">2 Likes</span>
+                                <span class="message-feeback-status-text">Lily Keating liked this</span>
+                            </div>
+                            <div class="message-feeback-publish-date">May 20,2019 at 5:25pm</div>
+                        </div>
+                    </div>
+                    <div class="message-feeback">
+                        <div class="message-feeback-picture"><img src="images/Lily-Webalive-Site.jpg" alt="" /></div>
+                        <div class="message-feeback-content">
+                            <h5>Chrys Anastasi(WebAlive)</h5>
+                            <p>A Message has been added by:Chrys Anastasi(WebAlive)</p>
+                            <p>Project:Web Design Package - cfmg.com.au</p>
+                            <div class="message-feeback-publish-date">May 20,2019 at 5:25pm</div>
+                            <div class="message-feeback-status">
+                                <span class="message-feeback-status-count">2 Likes</span>
+                                <span class="message-feeback-status-text">Lily Keating liked this</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="message-feeback">
+                        <div class="message-feeback-picture"><img src="#" alt="" /></div>
+                        <div class="message-feeback-content">
+                            <h5>Chrys Anastasi(WebAlive)</h5>
+                            <p>A Message has been added by:Chrys Anastasi(WebAlive)</p>
+                            <p>Project:Web Design Package - cfmg.com.au</p>
+                            <div class="message-feeback-status">
+                                <span class="message-feeback-status-count active">2 Likes</span>
+                                <span class="message-feeback-status-text">Lily Keating liked this</span>
+                            </div>
+                            <div class="message-feeback-publish-date">May 20,2019 at 5:25pm</div>
+                        </div>
+                    </div>
+
+                    <div class="message-feeback">
+                        <div class="message-feeback-picture"><img src="" alt="" /></div>
+                        <div class="message-feeback-content">
+                            <h5>Chrys Anastasi(WebAlive)</h5>
+                            <p>A Message has been added by:Chrys Anastasi(WebAlive)</p>
+                            <p>Project:Web Design Package - cfmg.com.au</p>
+                            <div class="message-feeback-publish-date">May 20,2019 at 5:25pm</div>
+                            <div class="message-feeback-upload-filename"><a href="#">test-image-names.jpg</a><a href="#">test-document-name.docx</a></div>
+                        </div>
+                    </div>
+
+
+
+
+                    <h3>Tooltip</h3>
+                    <div class="component-row multi-column">
+                        <div class="column" style="font-size: 20px">
+                            <div class="component">
+                                <div class="tool-tip">
+                                    <i class="fi fi-upload"></i>
+                                    <span class="tool-tip-text">Download File</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="column" style="font-size: 20px">
+                            <div class="component">
+                                <div class="tool-tip">
+                                    <i class="fi fi-upload"></i>
+                                    <span class="tool-tip-text">This is Photoshop's version  of Lorem Ipsum.</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="column" style="font-size: 20px">
+                            <div class="component">
+                                <div class="tool-tip">
+                                    <i class="fi fi-upload"></i>
+                                    <span class="tool-tip-text">This is Photoshop's version  of Lorem Ipsum.</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
+</body>
+</html>
+<style type="text/css">
+    body{
+        background-color: #fcfcfc;
+    }
+    h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {
+        color: #9c9c9c;
+        font-size: 15px;
+        display: block;
+        margin-top: 5px;
+    }
+
+    header {
+        background-color: #f68d5f;
+        padding-top: 110px;
+        padding-bottom: 110px;
+    }
+
+    header h2,
+    header h3 {
+        color: #ffffff;
+        font-weight: 600;
+        margin: 0;
+        padding: 0;
+    }
+
+    header h2 {
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+    header h3 {
+        font-size: 20px;
+    }
+
+    section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    section h3 {
+        color: #101010;
+        font-size: 22px;
+        font-weight: normal;
+        padding: 0;
+        margin: 0 0 25px 0;
+    }
+
+    .component-row {
+        margin-top: 25px;
+        margin-bottom: 50px;
+    }
+
+    .multi-column {
+        display: flex;
+    }
+
+    .multi-column .column {
+        flex: 1;
+    }
+
+    .multi-column .column ~ .column {
+        margin-left: 40px;
+    }
+
+    .component + .component {
+        margin-top: 50px;
+    }
+
+    .badge {
+        margin-right: 15px;
+    }
+
+    .component-side-bar {
+        border-left: 3px solid #d3e2e9;
+        padding: 0 0 0 15px;
+        position: relative;
+        left: 7px;
+    }
+    .component-side-bar a {
+        color: #b1b2b6;
+    }
+    .component-side-bar-top p{
+        color: #5b6169;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .btn-set .btn {
+        margin-right: 12px;
+    }
+
+    .btn-set-two .btn{
+        margin-right: 25px;
+    }
+
+
+</style>
+<div style="padding: 0 100px; margin: 0 auto;width: 90%;">
+<div class="web-package-staff-roll">
+    <div class="web-package-name-field">
+        <span class="team-rank-value">Salesperson : </span>
+        <div class="tool-tip tooltip-with-picture">
+            <div class="user-profile">
+                                        <span class="avatar">
+                                            <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="">
+                                        </span>
+            </div>
+            <span class="tool-tip-text">Johnny</span>
+        </div>
+        <a href="javascript:void(0)"  class="web-package-edit"><img src="/webaliveportal_v2/assets/images/icons/pencil-small-icon.png" alt="plus" /></a>
+        <div class="popup-fullpage project-manager-popup">
+            <div class="popup">
+                <div class="popup-head"><h4>Add Sales Person<a href="javascript:void(0)" class="close"></a></h4></div>
+                <div class="popup-body">
+                    <form action="#" method="get">
+                        <div class="form-group">
+                            <div class="custom-search-box test">
+                                <div class="inputfield">
+                                    <input type="text" placeholder="Search employee" name="custom-search-box-inputfield" />
+                                </div>
+
+                                <!--                                                            Changed section-->
+                                <div class="inputfield-result">
+
+                                </div>
+                                <!--                                                            Changed section end-->
+                                <div class="dropdown-down-list">
+                                    <div class="custom-search-box-item" id="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-51" value="Julie">
+                                                                        <label for="c-51">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Julie</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-52" value="Sunny">
+                                                                        <label for="c-52">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Sunny</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-53" value="Lily">
+                                                                        <label for="c-53">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Lily</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-54" value="John">
+                                                                        <label for="c-54">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-55" value="John">
+                                                                        <label for="c-55">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-56" value="John">
+                                                                        <label for="c-56">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group submit-popup">
+                            <input type="submit" value="Cancel" class="btn" />
+                            <button class="btn btn-primary">Add</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="web-package-name-field">
+        <span class="team-rank-value">Project Manager Onshore : </span>
+        <div class="tool-tip tooltip-with-picture">
+            <div class="user-profile">
+                                        <span class="avatar">
+                                               <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="">
+                                        </span>
+            </div>
+            <span class="tool-tip-text">Johnny</span>
+        </div>
+        <a href="javascript:void(0)"  class="web-package-edit"><img src="/webaliveportal_v2/assets/images/icons/pencil-small-icon.png" alt="plus" /></a>
+        <div class="popup-fullpage project-manager-popup">
+            <div class="popup">
+                <div class="popup-head"><h4>Project Manager Onshore<a href="javascript:void(0)" class="close"></a></h4></div>
+                <div class="popup-body">
+                    <form action="#" method="get">
+                        <div class="form-group">
+                            <div class="custom-search-box">
+                                <div class="inputfield">
+                                    <input type="text" placeholder="Search employee" name="custom-search-box-inputfield" />
+                                </div>
+                                <div class="inputfield-result">
+                                    <span class="result-text"><span>Sunny</span> <span class="close-result-text"></span></span>
+                                </div>
+                                <div class="dropdown-down-list">
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-61" value="Julie" />
+                                                                        <label for="c-61">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Julie</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+
+                                                                        <input type="checkbox" id="c-62" value="Sunny" />
+                                                                        <label for="c-62">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Sunny</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-63" value="Lily" />
+                                                                        <label for="c-63">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Lily</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-64" value="John" />
+                                                                        <label for="c-64">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-65" value="John" />
+                                                                        <label for="c-65">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-66" value="John" />
+                                                                        <label for="c-66">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group submit-popup">
+                            <input type="submit" value="Cancel" class="btn" />
+                            <button class="btn btn-primary">Add</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="web-package-name-field">
+        <span class="team-rank-value">Project Manager Offshore : </span>
+        <div class="tool-tip tooltip-with-picture">
+            <div class="user-profile">
+                <span class="avatar">
+                   <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="">
+               </span>
+            </div>
+            <span class="tool-tip-text">Johnny</span>
+        </div>
+        <a href="javascript:void(0)"  class="web-package-edit"><img src="/webaliveportal_v2/assets/images/icons/pencil-small-icon.png" alt="plus" /></a>
+        <div class="popup-fullpage project-manager-popup">
+            <div class="popup">
+                <div class="popup-head"><h4>Project Manager Offshore<a href="javascript:void(0)" class="close"></a></h4></div>
+                <div class="popup-body">
+                    <form action="#" method="get">
+                        <div class="form-group">
+                            <div class="custom-search-box">
+                                <div class="inputfield">
+                                    <input type="text" placeholder="Search employee" name="custom-search-box-inputfield" />
+                                </div>
+                                <div class="inputfield-result">
+                                    <span class="result-text"><span>Julie</span> <span class="close-result-text"></span></span>
+                                </div>
+                                <div class="dropdown-down-list">
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-71" value="Julie" />
+                                                                        <label for="c-71">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Julie</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-72" value="Sunny" />
+                                                                        <label for="c-72">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Sunny</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-73" value="Lily" />
+                                                                        <label for="c-73">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Lily</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-74" value="John" />
+                                                                        <label for="c-74">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-75" value="John" />
+                                                                        <label for="c-75">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-76" value="John" />
+                                                                        <label for="c-76">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group submit-popup">
+                            <input type="submit" value="Cancel" class="btn" />
+                            <button class="btn btn-primary">Add</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="web-package-name-field">
+        <div class="team-group">
+            <span class="team-rank-value">Team : </span>
+            <div class="tool-tip tooltip-with-picture">
+                <div class="user-profile">
+                                    <span class="avatar">
+                                           <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="">
+                                    </span>
+                </div>
+                <span class="tool-tip-text">Johnny</span>
+            </div>
+
+            <div class="tool-tip tooltip-with-picture">
+                <div class="user-profile">
+                                    <span class="avatar">
+                                           <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="">
+                                    </span>
+                </div>
+                <span class="tool-tip-text">Lily Keating</span>
+            </div>
+
+            <div class="tool-tip tooltip-with-picture">
+                <div class="user-profile">
+                                    <span class="avatar">
+                                           <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="">
+                                    </span>
+                </div>
+                <span class="tool-tip-text">Monzur</span>
+            </div>
+
+            <div class="tool-tip tooltip-with-picture">
+                <div class="user-profile">
+                                    <span class="avatar">
+                                           <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="">
+                                    </span>
+                </div>
+                <span class="tool-tip-text">Johnny</span>
+            </div>
+
+            <a href="javascript:void(0)"  class="web-package-edit"><img src="/webaliveportal_v2/assets/images/icons/pencil-small-icon.png" alt="plus" /></a>
+            <div class="popup-fullpage project-manager-popup">
+                <div class="popup">
+                    <div class="popup-head"><h4>Team<a href="javascript:void(0)" class="close"></a></h4></div>
+                    <div class="popup-body">
+                        <form action="#" method="get">
+                            <div class="form-group">
+                                <div class="custom-search-box">
+                                    <div class="inputfield">
+                                        <input type="text" placeholder="Search employee" name="custom-search-box-inputfield" />
+                                    </div>
+                                    <div class="inputfield-result">
+                                        <span class="result-text"><span>Sunny</span> <span class="close-result-text"></span></span>
+                                    </div>
+                                    <div class="dropdown-down-list">
+                                        <div class="custom-search-box-item">
+                                                               <span class="custom-checkbox">
+                                                                    <input type="checkbox" id="c-81" value="Julie" />
+                                                                    <label for="c-81">
+                                                                        <span class="avatar">
+                                                                            <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                        </span>
+                                                                        <span class="name-field">Julie</span>
+                                                                    </label>
+                                                               </span>
+                                        </div>
+
+                                        <div class="custom-search-box-item">
+                                                               <span class="custom-checkbox">
+                                                                    <input type="checkbox" id="c-82" value="Sunny" />
+                                                                    <label for="c-82">
+                                                                        <span class="avatar">
+                                                                            <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                        </span>
+                                                                        <span class="name-field">Sunny</span>
+                                                                    </label>
+                                                               </span>
+                                        </div>
+
+                                        <div class="custom-search-box-item">
+                                                               <span class="custom-checkbox">
+                                                                    <input type="checkbox" id="c-83" value="Lily" />
+                                                                    <label for="c-83">
+                                                                        <span class="avatar">
+                                                                            <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                        </span>
+                                                                        <span class="name-field">Lily</span>
+                                                                    </label>
+                                                               </span>
+                                        </div>
+
+                                        <div class="custom-search-box-item">
+                                                               <span class="custom-checkbox">
+                                                                    <input type="checkbox" id="c-84" value="John" />
+                                                                    <label for="c-84">
+                                                                        <span class="avatar">
+                                                                            <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                        </span>
+                                                                        <span class="name-field">John</span>
+                                                                    </label>
+                                                               </span>
+                                        </div>
+                                        <div class="custom-search-box-item">
+                                                               <span class="custom-checkbox">
+                                                                    <input type="checkbox" id="c-85" value="John" />
+                                                                    <label for="c-85">
+                                                                        <span class="avatar">
+                                                                            <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                        </span>
+                                                                        <span class="name-field">John</span>
+                                                                    </label>
+                                                               </span>
+                                        </div>
+                                        <div class="custom-search-box-item">
+                                                               <span class="custom-checkbox">
+                                                                    <input type="checkbox" id="c-86" value="John" />
+                                                                    <label for="c-86">
+                                                                        <span class="avatar">
+                                                                            <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                        </span>
+                                                                        <span class="name-field">John</span>
+                                                                    </label>
+                                                               </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group submit-popup">
+                                <input type="submit" value="Cancel" class="btn" />
+                                <button class="btn btn-primary">Add</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="web-package-name-field">
+        <span class="team-rank-value">Support:</span>
+        <div class="tool-tip tooltip-with-picture">
+            <div class="user-profile">
+                                        <span class="avatar">
+                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="">
+                                        </span>
+            </div>
+            <span class="tool-tip-text">Reza</span>
+        </div>
+        <a href="javascript:void(0)"  class="web-package-edit"><img src="/webaliveportal_v2/assets/images/icons/pencil-small-icon.png" alt="plus" /></a>
+        <div class="popup-fullpage project-manager-popup">
+            <div class="popup">
+                <div class="popup-head"><h4>Support<a href="javascript:void(0)" class="close"></a></h4></div>
+                <div class="popup-body">
+                    <form action="#" method="get">
+                        <div class="form-group">
+                            <div class="custom-search-box">
+                                <div class="inputfield">
+                                    <input type="text" placeholder="Search employee" name="custom-search-box-inputfield" />
+                                </div>
+                                <div class="inputfield-result">
+                                    <span class="result-text"><span>Sunny</span> <span class="close-result-text"></span></span>
+                                </div>
+                                <div class="dropdown-down-list">
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-91" value="Julie" />
+                                                                        <label for="c-91">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Julie</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-92" value="Sunny" />
+                                                                        <label for="c-92">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Sunny</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-93" value="Lily" />
+                                                                        <label for="c-93">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">Lily</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-94" value="John" />
+                                                                        <label for="c-94">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-95" value="John" />
+                                                                        <label for="c-95">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                    <div class="custom-search-box-item">
+                                                                   <span class="custom-checkbox">
+                                                                        <input type="checkbox" id="c-96" value="John" />
+                                                                        <label for="c-96">
+                                                                            <span class="avatar">
+                                                                                <img src="/webaliveportal_v2/assets/images/Lily-Webalive-Site.jpg" alt="author"/>
+                                                                            </span>
+                                                                            <span class="name-field">John</span>
+                                                                        </label>
+                                                                   </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group submit-popup">
+                            <input type="submit" value="Cancel" class="btn" />
+                            <button class="btn btn-primary">Add</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <p style="margin: 100px 0;"></p>
+    <div class="page-listing-header">
+        <h2>Web Design Package (clubbpromotions.com.au) for Clubb Games & Promotions</h2>
+    </div>
+
+<p style="margin: 100px 0;"></p>
+    <div class="page-listing-content">
+        <table class="table table-striped table-web">
+            <thead>
+            <tr>
+                <th><a href="/webaliveportal_v2/projects?criteria=&amp;s=&amp;direction=asc&amp;sort=name">Package</a></th>
+                <th><a href="/webaliveportal_v2/projects?criteria=&amp;s=&amp;direction=asc&amp;sort=domain">Domain</a></th>
+                <th>Salesperson</th>
+                <th>PM Onshore</th>
+                <th>PM Offshore</th>
+                <th>Project Team</th>
+                <th>Support</th>
+                <th>Milestone</th>
+                <th>Status</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>SEO Monthly</td>
+                <td><a href="project-overview.php">bebef3c0218151982b1f287e0f4c14e9</a></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td> Implementation </td>
+                <td><a href="#" class="archive-btn btn-radius">Active</a></td>
+            </tr>
+            <tr>
+                <td>Website Design</td>
+                <td><a href="project-overview.php">293285c83542d71ef1dd1a3cf9f22f52</a></td>
+                <td><div class="team-group">
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""> </span> </div>
+                        <span class="tool-tip-text">Abu Bakar </span> </div>
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="/webaliveportal_v2/uploads/users/gg_1560678032.png" alt=""> </span> </div>
+                        <span class="tool-tip-text">WA Employee </span> </div>
+                </div></td>
+                <td><div class="team-group">
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""> </span> </div>
+                        <span class="tool-tip-text">test </span> </div>
+                </div></td>
+                <td><div class="team-group">
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""> </span> </div>
+                        <span class="tool-tip-text">test </span> </div>
+                </div></td>
+                <td><div class="team-group">
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""> </span> </div>
+                        <span class="tool-tip-text">Abu Bakar </span> </div>
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""> </span> </div>
+                        <span class="tool-tip-text">Jumaina Rahman Neen </span> </div>
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""> </span> </div>
+                        <span class="tool-tip-text">S M Iftakhairul </span> </div>
+                </div></td>
+                <td><div class="team-group">
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""> </span> </div>
+                        <span class="tool-tip-text">Abu Bakar </span> </div>
+                </div></td>
+                <td> Warranty </td>
+                <td><a href="#" class="archive-btn btn-radius">Active</a></td>
+            </tr>
+            <tr>
+                <td>Search Engine Optimisation PaYG</td>
+                <td><a href="project-overview.php">1bd6f2117d4cbc16a235d8eb648b92d9</a></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td> Planning </td>
+                <td><a href="#" class="archive-btn btn-radius">Active</a></td>
+            </tr>
+            <tr>
+                <td>Logo Design</td>
+                <td><a href="project-overview.php">9cd6f2117d4ddr16a235d8eb976b92d9</a></td>
+                <td><div class="team-group">
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt="" /> </span> </div>
+                        <span class="tool-tip-text">WA Employee </span> </div>
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""/> </span> </div>
+                        <span class="tool-tip-text">Abu Bakar </span> </div>
+                </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td><div class="team-group">
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""/> </span> </div>
+                        <span class="tool-tip-text">Abu Bakar </span> </div>
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""/> </span> </div>
+                        <span class="tool-tip-text">Lorem Ipsum </span> </div>
+                    <div class="tool-tip tooltip-with-picture">
+                        <div class="user-profile"> <span class="avatar"> <img src="images/default.png" alt=""/> </span> </div>
+                        <span class="tool-tip-text">S M Iftakhairul </span> </div>
+                </div></td>
+                <td><div class="team-group"> None assigned </div></td>
+                <td> Planning </td>
+                <td><a href="#" class="archive-btn btn-radius">Active</a></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <p style="margin: 100px 0;"></p>
+</div>
+
+
+

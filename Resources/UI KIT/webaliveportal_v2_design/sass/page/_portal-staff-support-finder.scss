@@ -1,0 +1,49 @@
+.staff-support-finder {
+  .form-row-group-content {
+    .border-bottom {
+      border-bottom: 1px solid $gray-color;
+      padding-bottom: 10px;
+      margin-bottom: 28px;
+    }
+  }
+  .margintop {
+    margin-top: 52px;
+  }
+  .group-btn {
+    margin-top: 30px;
+    .reloadbtn {
+      margin-right: 30px;
+    }
+  }
+  .table-normal-inactive {
+    th {
+      color:$inactive-color;
+    }
+  }
+  .inactive-color {
+    color:$inactive-color;
+  }
+  .provisioningtable {
+    th {
+      padding: 14px 0 14px 0;
+      font-size: 14px;
+    }
+  }
+  .tb-support {
+    width: 85%;
+  }
+  .table-normal-inactive {
+    td {
+      color: $inactive-color;
+    }
+  }
+  .provisioningtable {
+    td {
+      padding: 14px 0 14px 0;
+      font-size: 14px;
+    }
+  }
+
+}
+
+

@@ -1,0 +1,115 @@
+.project-manager-popup{
+  .popup{
+    padding: 40px;
+    min-width: 470px;
+    .popup-head{
+      h4{
+        font-size: 20px;
+      }
+      .close {
+        &:before {
+          @include size(20px,20px);
+          background-image: url(../images/icons/close-popup-manager.png);
+        }
+      }
+    }
+    .popup-body{
+      .custom-search-box{
+        margin-top: 25px;
+      }
+
+      .submit-popup{
+        padding-top: 10px;
+          .btn{
+            @include  font($size: 15px,$weight: 700);
+            padding: 7px 30px;
+          }
+      }
+
+    }
+  }
+
+}
+
+
+.custom-search-box{
+  background-color: $gray-color;
+  padding: 1px;
+
+  .inputfield{
+    padding: 7px 35px;
+    height: 40px;
+    background-color: $white;
+    background-image: url(../images/icons/search-icon-manger.png);
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    input[type="text"]{
+      width: 100%;
+      background-color: transparent;
+      border: none;
+      &:focus{
+        outline: none;
+      }
+    }
+  }
+
+  .inputfield-result{
+    padding: 10px;
+    padding-bottom: 5px;
+    min-height: 30px;
+    max-width: 390px;
+
+    .result-text{
+      @include border-radius(20px);
+      background-color: $white;
+      position: relative;
+      padding: 3px 40px 3px 15px;
+      margin-bottom: 6px;
+      & + .result-text{
+        margin-left: 3px;
+      }
+      .close-result-text{
+        @include absolute($top: 50%, $right: 0) ;
+        @include size(20px,20px);
+        cursor: pointer;
+        margin-top: -4px;
+        background-image: url(../images/icons/close-popup.png);
+        background-repeat: no-repeat;
+        background-position: 0 0;
+        background-size: 8px;
+        z-index: 1;
+      }
+
+    }
+
+
+  }
+
+  .dropdown-down-list{
+    overflow: auto;
+    height: 165px;
+    .custom-search-box-item{
+      width: 100%;
+      margin: 0;
+      padding: 5px 10px;
+      background-color: $white;
+      .custom-checkbox{
+        label{
+          &:before{
+            top: 2px;
+          }
+        }
+        .avatar{
+          @include square(22px);
+          margin-right: 10px;
+          border: 1px solid $border-color-radio;
+        }
+      }
+      & + .custom-search-box-item{
+        margin-top: 1px;
+      }
+    }
+
+  }
+
+}

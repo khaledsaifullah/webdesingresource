@@ -1,0 +1,77 @@
+.popup-fullpage{
+  @include square(100vw);
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.3);
+  top: 0;
+  left: 0;
+  z-index: 1;
+  display: none;
+  .popup {
+    @include absolute($top: 30%, $right: null, $bottom: null, $left: 50%);
+    transform: translate(-50%, -50%);
+    background-color: $white;
+    padding: 25px;
+    min-width: 360px;
+
+    .popup-head {
+      position: relative;
+      h4 {
+        @include font($size: 16px, $weight: 700);
+        color: $default-color;
+      }
+
+      .close {
+        @include absolute($top: 4px, $right: 0, $bottom: null, $left: null);
+        &:before {
+          @include size(14px, 14px);
+          @include absolute($top: 0, $right: 0, $bottom: null, $left: null);
+          content: '';
+          background-image: url(../images/icons/close-popup.png);
+          background-repeat: no-repeat;
+          background-position: 0 0;
+        }
+      }
+
+    }
+
+    .popup-body {
+      textarea{
+        height: 70px;
+      }
+      .submit-popup {
+        @include display-flex;
+        .btn {
+          @include font($size: 12px, $weight: 400);
+          @include border-radius(0);
+          border: none;
+          color: $default-color;
+          background-color: $gray-color;
+          text-align: center;
+          padding: 6px 20px;
+          -webkit-transition: all 0.5s ease 0s;
+          transition: all 0.5s ease 0s;
+          margin: 0;
+          &.btn-primary {
+            color: $white;
+            background-color: $primary-color;
+            margin-left: 15px;
+          }
+          &:hover {
+            color: $white;
+            background-color: $primary-color;
+          }
+          &.btn-primary:hover {
+            color: $default-color;
+            background-color: $gray-color;
+          }
+
+
+        }
+
+
+      }
+    }
+
+  }
+
+}

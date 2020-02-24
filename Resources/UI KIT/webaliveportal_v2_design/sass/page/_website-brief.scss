@@ -1,0 +1,85 @@
+.websitebrief-content {
+  .input-title {
+    border-bottom: 1px solid $primary-color;
+    padding-bottom: 10px;
+    margin: 24px 0 18px 0;
+    display: block;
+    font-size: 14px;
+    line-height: 25px;
+    &.input-title-bottomalign{
+      margin-bottom: 6px;
+      & + span{
+        font-size: 12px;
+      }
+    }
+  }
+
+  .inputmargin {
+    margin-top: 5px;
+  }
+
+  .form-group {
+
+    span {
+      font-size: 13px;
+      line-height: 22px;
+      margin-bottom: 10px;
+    }
+    .additional-text {
+      font-size: 14px;
+    }
+  }
+
+  .sub-input-title {
+    display: block;
+    margin-top: 10px;
+  }
+
+  .input-group {
+    .yes-btn {
+      padding: 0 68px 0 0;
+    }
+  }
+
+  .page-menu-wrap {
+    margin-bottom: 14px;
+  }
+
+  button {
+    margin-top: 60px;
+  }
+
+  .descripe-text {
+    margin-top: 60px;
+    font-size: 12px;
+  }
+
+  .brief-radio-btn {
+    margin-bottom: 35px;
+  }
+
+  .chosen-container-single .chosen-single span{
+    margin-bottom: 0;
+  }
+
+
+}
+
+.sub-title span{
+  margin-left:38px;
+  cursor:pointer;
+}
+
+
+.page-heading.detail {
+  padding-bottom: 30px;
+}
+
+.page-heading.detail p {
+  font-weight: bold;
+}
+
+.web-design-package .project-time-line {
+  padding: 30px 0 20px 10px;
+}
+

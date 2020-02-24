@@ -1,0 +1,203 @@
+/* Size */
+@mixin size($width: null, $height: null) {
+  width: $width;
+  height: $height;
+}
+
+/* Square Size */
+@mixin square($size) {
+  width: $size;
+  height: $size;
+}
+
+/* Position: Relative */
+@mixin relative($top: null, $right: null, $bottom: null, $left: null) {
+  position: relative;
+  top: $top;
+  right: $right;
+  bottom: $bottom;
+  left: $left;
+}
+
+/* Position: Absolute */
+@mixin absolute($top: null, $right: null, $bottom: null, $left: null) {
+  position: absolute;
+  top: $top;
+  right: $right;
+  bottom: $bottom;
+  left: $left;
+}
+
+/* Position: Fixed */
+@mixin fixed($top: null, $right: null, $bottom: null, $left: null) {
+  position: fixed;
+  top: $top;
+  right: $right;
+  bottom: $bottom;
+  left: $left;
+}
+
+/* Font */
+@mixin font($family: null, $size: null, $style: null, $variant: null, $weight: null) {
+  font-family: $family;
+  font-size: $size;
+  font-style: $style;
+  font-variant: $variant;
+  font-weight: $weight;
+}
+
+
+
+/* Triangle Arrow */
+@mixin arrow($width: 12px, $height: 6px, $direction: up, $color: $white) {
+  @include size(0, 0);
+
+  /* Up */
+  @if $direction == up {
+    border-left: $width/2 solid transparent;
+    border-right: $width/2 solid transparent;
+    border-bottom: $height solid $color;
+  }
+
+  /* Down */
+  @if $direction == down {
+    border-left: $width/2 solid transparent;
+    border-right: $width/2 solid transparent;
+    border-top: $height solid $color;
+  }
+
+  /* Left */
+  @if $direction == left {
+    border-top: $height/2 solid transparent;
+    border-bottom: $height/2 solid transparent;
+    border-right: $width solid $color;
+  }
+
+  /* Right */
+  @if $direction == right {
+    border-top: $height/2 solid transparent;
+    border-bottom: $height/2 solid transparent;
+    border-left: $width solid $color;
+  }
+}
+
+/* Triangle Arrow With Border */
+@mixin bordered-arrow($width: 12px, $height: 6px, $direction: up, $color: $white, $border-color: #d2e2e8) {
+  position: relative;
+
+  &:before,
+  &:after {
+    position: absolute;
+    content: '';
+  }
+
+  /* Up */
+  @if $direction == up {
+    &:before,
+    &:after {
+      top: - $height;
+    }
+
+    &:before {
+      border-left: ($width / 2 + 1) solid transparent;
+      border-right: ($width / 2 + 1) solid transparent;
+      border-bottom: ($height + 2) solid $border-color;
+      right: 20px;
+      top: - ($height + 2);
+    }
+
+    &:after {
+      border-left: $width/2 solid transparent;
+      border-right: $width/2 solid transparent;
+      border-bottom: $height solid $color;
+      right: 21px;
+    }
+  }
+
+  /* Down */
+  @if $direction == down {
+    &:before,
+    &:after {
+      bottom: - $height;
+    }
+
+    &:before {
+      border-left: ($width / 2 + 1) solid transparent;
+      border-right: ($width / 2 + 1) solid transparent;
+      border-top: ($height + 2) solid $border-color;
+      bottom: - ($height + 2);
+      left: 50%;
+    }
+
+    &:after {
+      border-left: $width / 2 solid transparent;
+      border-right: $width / 2 solid transparent;
+      border-top: $height solid $color;
+      left: 50%;
+    }
+  }
+
+  /* Left */
+  @if $direction == left {
+    &:before,
+    &:after {
+      left: - $width;
+    }
+
+    &:before {
+      border-top: ($height / 2 + 1) solid transparent;
+      border-bottom: ($height / 2 + 1) solid transparent;
+      border-right: ($width + 2) solid $border-color;
+      top: 20px;
+      left: - ($width + 2);
+    }
+
+    &:after {
+      border-top: $height / 2 solid transparent;
+      border-bottom: $height / 2 solid transparent;
+      border-right: $width solid $color;
+      top: 21px;
+    }
+  }
+
+  /* Right */
+  @if $direction == right {
+    &:before,
+    &:after {
+      right: - $width;
+    }
+
+    &:before {
+      border-top: ($height / 2 + 1) solid transparent;
+      border-bottom: ($height / 2 + 1) solid transparent;
+      border-left: ($width + 2) solid $border-color;
+      top: 20px;
+      right: - ($width + 2);
+    }
+
+    &:after {
+      border-top: $height / 2 solid transparent;
+      border-bottom: $height / 2 solid transparent;
+      border-left: $width solid $color;
+      top: 21px;
+    }
+  }
+}
+
+/* Font  Icon*/
+@mixin icon($unicode: null , $color: null , $size: null ) {
+  content: $unicode;
+  color: $color;
+  font-size: $size;
+  font-family: 'Flaticon';
+}
+
+
+@mixin rotate($degree){
+  -webkit-transform: rotate($degree);
+  -moz-transform: rotate($degree);
+  -ms-transform: rotate($degree);
+  transform: rotate($degree);
+}
+
+

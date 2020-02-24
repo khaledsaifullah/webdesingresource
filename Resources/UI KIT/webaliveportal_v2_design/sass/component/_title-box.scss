@@ -1,0 +1,22 @@
+.title-box {
+  @include display-flex;
+  @include align-items(center);
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d4e3e9;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+  .content-box ~ & {
+    margin-top: 50px;
+  }
+
+  .title {
+    @include flex(auto);
+    color: $header-color;
+    font-size: 26px;
+  }
+
+  .action {
+    @include flex(none);
+  }
+}

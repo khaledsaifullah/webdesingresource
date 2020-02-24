@@ -1,0 +1,240 @@
+.time-line-date {
+  position: relative;
+  z-index: 0;
+
+  .date {
+    @include border-radius(5px);
+    @include box-shadow(0 0 10px 0 rgba($black, 0.10));
+    background-color: $white;
+    margin-bottom: 40px;
+    display: inline-block;
+    border: 1px solid #d2e2e8;
+    padding: 15px;
+    text-align: center;
+    width: 65px;
+  }
+
+  &:before {
+    @include absolute($left: 31px, $bottom: -50px);
+    @include size(1px, 100%);
+    border-left: 1px dashed #d2e2e8;
+    content: '';
+    z-index: -1;
+  }
+}
+
+.time-line-item {
+  @include display-flex;
+  margin-bottom: 40px;
+  margin-left: 12px;
+  position: relative;
+
+  &:before {
+    @include absolute(50px, $left: 20px);
+    @include size(1px, 100%);
+    background-color: #d2e2e8;
+    content: '';
+
+  }
+
+  &:last-child:before {
+    display: none;
+  }
+
+  &.active {
+
+    .time-line-icon {
+      background-color: $primary-color;
+      border-color: $primary-color;
+      color: $white;
+    }
+
+    .time-line-message {
+      border-color: $primary-color;
+
+      &:before {
+        border-right-color: $primary-color;
+      }
+    }
+  }
+
+  .time-line-icon {
+    @include border-radius(50%);
+    @include square(40px);
+    @include flex(none);
+    background-color: $white;
+    border: 1px solid #d2e2e8;
+    line-height: 40px;
+    margin-top: 10px;
+    text-align: center;
+
+    & + .time-line-message {
+      margin-left: 20px;
+    }
+  }
+
+  .time-line-message {
+    @include border-radius(5px);
+    @include box-shadow(0 0 10px 0 rgba($black, 0.10));
+    @include flex(auto);
+    @include bordered-arrow(11px, 22px, left);
+    background-color: $white;
+    border: 1px solid #d2e2e8;
+    padding: 20px;
+  }
+
+  .message-head {
+    @include display-flex;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #f5f5f5;
+
+    .head-info {
+      @include flex(auto);
+
+      .title {
+        font-size: 15px;
+        font-weight: 600;
+        margin-bottom: 5px;
+
+        strong {
+          color: #4a90e2;
+        }
+      }
+
+      .info {
+        font-size: 13px;
+        color: #9c9c9c;
+      }
+
+      .date {
+        margin-left: 10px;
+      }
+    }
+
+    .head-action {
+      @include flex(none);
+
+      .fi {
+        font-size: 20px;
+        color: #9c9c9c;
+      }
+    }
+  }
+
+  .message-body {
+
+    p {
+      color: #5b6169;
+      font-size: 13px;
+      line-height: 20px;
+      margin-bottom: 5px;
+    }
+  }
+
+  .message-footer {
+    //margin-top: 20px;
+
+    .message-flag {
+      float: right;
+    }
+  }
+
+}
+
+.email-to-wrap {
+  position: relative;
+
+  .cc-bcc-wrap {
+    @include absolute(13px, $right: 0);
+    background-color: $white;
+  }
+
+}
+
+.sidebar-content {
+  .email-form {
+    .email-input {
+      .dropdown-normal {
+        max-width: 100%;
+      }
+    }
+  }
+  .signature-panel {
+    position: relative;
+
+    .signature-group-wrap {
+      @include absolute(4px, $right: 20px);
+    }
+  }
+
+  .add-signature-btn {
+    padding: 9px 20px;
+    height: 100%;
+    font-size: 14px;
+    color: $white;
+    background-color: $primary-color;
+    border-color: $primary-color;
+
+    &:hover {
+      background-color: #bc1643;
+      border-color: #bc1643;
+    }
+
+  }
+
+}
+
+/*custom icons*/
+.timeline {
+  .time-line-item {
+    .time-line-icon {
+      .fi {
+        display: block;
+        height: 40px;
+        width: 40px;
+        transform: scale(.85);
+
+        &.default-icon {
+          background: url(../images/icons/defualt_icon.png) no-repeat;
+        }
+
+        &.stage-changed {
+          background: url(../images/icons/stage.png) no-repeat;
+        }
+
+        &.note-icon {
+          background: url(../images/icons/note.png) no-repeat;
+        }
+
+        &.email {
+          background: url(../images/icons/email_sent.png) no-repeat;
+        }
+
+        &.email-recevied {
+          background: url(../images/icons/email_recv.png) no-repeat;
+        }
+
+        &.file-uploaded {
+          background: url(../images/icons/file_upload.png) no-repeat;
+        }
+
+        &.contact-created {
+          background: url(../images/icons/contact_create.png) no-repeat;
+        }
+
+        &.task {
+          background: url(../images/icons/task.png) no-repeat;
+        }
+
+        &.job-woned {
+          background: url(../images/icons/job_won.png) no-repeat;
+        }
+
+        &.customer-closed {
+          background: url(../images/icons/customer_close.png) no-repeat;
+        }
+      }
+    }
+  }
+}

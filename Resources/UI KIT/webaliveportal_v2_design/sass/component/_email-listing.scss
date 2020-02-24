@@ -1,0 +1,69 @@
+.right-search-box {
+  min-width: 295px;
+
+  .searchinput {
+    width: 194px;
+    height: 23px;
+    display: inline-block;
+    margin-right: 10px;
+  }
+  .searchsubmit {
+    height: 25px;
+  }
+}
+
+
+.email-tab-heading {
+  position: relative;
+  ul li {
+    display: inline-block;
+    padding: 0 0 0 0;
+    background-color: #f1f1f1;
+    margin-right: 1px;
+    a {
+      padding: 8px 30px 8px 30px;
+      color: #000000;
+      &.nav-link.active {
+        border-bottom: 0px solid $primary-color;
+        color: $white;
+        background-color: transparent;
+        border-radius: 0;
+        background-color: $border-color-radio;
+      }
+    }
+  }
+  .right-search-box {
+    @include absolute($top: -5px, $right: 0)
+  }
+}
+
+.message-email-detail-heading{
+  margin-bottom:15px;
+  .left-arrow {
+    margin-right: 30px;
+  }
+}
+
+
+.email-table {
+  th, td {
+    font-size: 14px;
+  }
+  th:nth-child(3) {
+    min-width: 257px;
+  }
+  a {
+    text-decoration: none;
+  }
+  .custom-checkbox label:before {
+    top: 1px;
+    width: 13px;
+    height: 13px;
+  }
+  .custom-checkbox input:checked + label:before {
+    font-size: 8px;
+    line-height: 12px;
+  }
+
+}
+

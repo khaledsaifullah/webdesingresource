@@ -1,0 +1,186 @@
+.step-timeline {
+  .step {
+    @include size(130px, 10px);
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    margin-left: -8px;
+    margin-right: 4px;
+  }
+
+  .panning-progress {
+    height: 10px;
+  }
+
+  .panning {
+    background-color: #b2f4e0;
+  }
+
+  .panning.one-week {
+    &:before {
+      @include size(50%, 100%);
+    }
+    .panning-progress {
+      background-color: #01dc97;
+    }
+  }
+
+  .concept-design {
+    background-color: #b2e7fa;
+  }
+
+  .concept-design.three-week {
+    &:before {
+      @include size(50%, 100%);
+    }
+    .panning-progress {
+      background-color: #00aeef;
+    }
+  }
+
+  .concept-revision {
+    background-color: #e2ffff;
+  }
+
+  .concept-revision.five-week {
+    &:before {
+      @include size(50%, 100%);
+    }
+    .panning-progress {
+      background-color: #9effff;
+    }
+  }
+
+  .development {
+    background-color: #fbdadf;
+  }
+
+  .development.nine-week {
+    &:before {
+      @include size(50%, 100%);
+    }
+    .panning-progress {
+      background-color: #f38395;
+    }
+  }
+
+  .development-revision {
+    background-color: #fef3f3;
+  }
+
+  .development-revision.eleven-week {
+    &:before {
+      @include size(50%, 100%);
+    }
+    .panning-progress {
+      background-color: #fcd6d8;
+    }
+  }
+
+  .implimentation {
+    background-color: #edddec;
+  }
+
+  .implimentation.twelve-week {
+    &:before {
+      @include size(50%, 100%);
+    }
+    .panning-progress {
+      background-color: #c48dbf;
+    }
+  }
+
+  .warranty {
+    background-color: #fffcd1;
+  }
+
+  .warranty.sixteen-week {
+    &:before {
+      @include size(50%, 100%);
+    }
+    .panning-progress {
+      background-color: #fff568;
+    }
+  }
+
+}
+
+
+
+.step-timeline-project {
+  padding-left: 7px;
+  .step {
+    .panning-progress {
+      margin-left: -1px;
+    }
+    &.three-week {
+      width: 105px;
+    }
+    &.five-week {
+      width: 105px;
+    }
+    &.nine-week {
+      width: 200px;
+    }
+    &.eleven-week {
+      width: 105px;
+    }
+    &.twelve-week {
+      width: 56px;
+    }
+    &.sixteen-week {
+      width: 200px;
+    }
+  }
+}
+
+.step-timeline {
+  padding-top: 15px;
+}
+
+.project-milestone-table {
+  max-width: 1000px;
+  padding-top: 40px;
+}
+
+.project-time-line .step-timeline {
+  padding-left: 10px;
+}
+
+.staff-project-overview.brief-sitemap h4 {
+  margin: 0;
+  padding: 0 0 12px 0;
+}
+
+
+.table-timeline {
+  .step-timeline{
+      .step{
+        width: 160px;
+        @include border-radius(20px);
+        .panning-progress{
+          @include border-radius(20px);
+
+        }
+      }
+  }
+}
+
+.project-time-line .step:first-of-type{
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  .panning-progress{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+}
+
+.project-time-line .step:last-of-type{
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  .panning-progress{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+}
+

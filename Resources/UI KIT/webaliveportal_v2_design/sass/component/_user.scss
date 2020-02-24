@@ -1,0 +1,82 @@
+.user-profile {
+  @include display-flex;
+  @include align-items(center);
+
+  .avatar {
+    background-color: #57d9a3;
+    color: $white;
+  }
+
+  .name {
+    color: #101010;
+    font-weight: 600;
+    line-height: 1;
+  }
+
+  .role,
+  .location {
+    color: #999999;
+    display: block;
+    font-size: 12px;
+    line-height: 1;
+  }
+}
+
+.user-contact {
+  padding: 30px;
+  background-color: $white;
+  border: 1px solid #ddd;
+
+  .info {
+    @include display-flex;
+    @include align-items(center);
+  }
+
+  .avatar {
+    @include flex(none);
+    background-color: #8c88ff;
+    color: $white;
+
+    + .name-location {
+      margin-left: 20px;
+    }
+  }
+
+  .name {
+    color: $header-color;
+    font-size: 26px;
+    line-height: 1.2;
+
+    + .location {
+      margin-top: 10px;
+    }
+  }
+
+  .location {
+    color: #5b6169;
+    font-size: 15px;
+  }
+
+  .contact {
+
+    .contact-item {
+      border-bottom: 1px solid #f5f5f5;
+      padding-bottom: 15px;
+
+      + .contact-item {
+        margin-top: 15px;
+      }
+    }
+
+    .contact-label {
+      color: #9c9c9c;
+      font-size: 12px;
+    }
+
+    .contact-value {
+      display: block;
+      color: #5b6169;
+      font-size: 15px;
+    }
+  }
+}

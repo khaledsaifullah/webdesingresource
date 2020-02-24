@@ -1,0 +1,557 @@
+.ticket-search-filter {
+  padding: 0 0 25px 0;
+
+  .title {
+    font-size: 12px;
+    padding: 0 0 10px 0;
+    margin: 0;
+  }
+
+}
+
+.ticket-search-filter-body {
+  @include display-flex;
+  position: relative;
+
+  .form-group {
+    width: 190px;
+
+    + .form-group {
+      margin-left: 15px;
+    }
+  }
+
+  .submit-filter {
+    @include display-flex;
+    @include absolute($top: 0, $right: 0);
+    width: 305px;
+
+    .form-control {
+      width: 180px;
+      margin-right: 15px;
+    }
+
+  }
+
+}
+
+.star-ticket {
+
+  .fa {
+    margin-right: 3px;
+  }
+
+  .fa-star-o {
+    color: #C4C4C4;
+  }
+
+  .fa-star {
+    color: $primary-color;
+  }
+
+}
+
+.ticket-footer {
+  border-top: 1px solid $gray-color;
+  padding-top: 10px;
+  margin-top: 10px;
+  .ticket-count-number {
+    margin: 1px 0 0 0;
+    font-size: 14px;
+    font-weight: normal;
+    background-color: transparent;
+    text-align: right;
+    padding: 0;
+  }
+  .ticket-next-previous {
+    margin-left: 15px;
+  }
+  .ticket-next-previous {
+    @include display-flex;
+    .page-link {
+      border: none;
+      background-color: $white;
+      padding: 0 3px;
+      .fa {
+        color: #A8A8A8;
+        font-size: 20px;
+      }
+      & + .page-link {
+        margin-left: 5px;
+      }
+      &:focus {
+        box-shadow: none;
+      }
+    }
+  }
+}
+
+.email-ticket {
+  th, td {
+    font-size: 13px;
+  }
+  a {
+    text-decoration: none;
+    &.archive-btn,
+    &.link-ticket-btn,
+    &.create-ticket-btn {
+      font-weight: bold;
+    }
+  }
+  .custom-checkbox label:before {
+    top: 1px;
+    width: 13px;
+    height: 13px;
+  }
+  .custom-checkbox input:checked + label:before {
+    font-size: 8px;
+    line-height: 12px;
+  }
+
+}
+
+
+.message-ticket-headercontent {
+  @include display-flex;
+  @include justify-content(space-between);
+  margin: 0 0 50px 0;
+
+  .left-part {
+
+    h6 {
+      color: $default-color;
+      font-size: 16px;
+      margin: 0;
+      padding: 0 0 20px 0;
+    }
+
+    .link-forward {
+      a {
+        @include border-radius(2px);
+        @include font($size: 11px, $weight: 500);
+        color: $black;
+        background-color: $gray-color;
+        text-align: center;
+        line-height: 16px;
+        padding: 6px 15px;
+        -webkit-transition: all 0.5s ease 0s;
+        transition: all 0.5s ease 0s;
+
+        & + a {
+          margin-left: 8px;
+        }
+
+        .fa {
+          margin-right: 4px;
+          font-size: 11px;
+        }
+
+        &:hover {
+          color: $white;
+          background-color: $primary-color;
+          text-decoration: none;
+        }
+
+      }
+    }
+
+  }
+
+  .right-part {
+    p {
+      margin: 0;
+      padding: 0;
+      font-size: 12px;
+      & + p {
+        margin-top: 5px;
+      }
+
+      .name, .name-value {
+        display: inline-block;
+        vertical-align: top;
+      }
+      .name {
+        min-width: 90px;
+        font-weight: 500;
+      }
+      .archive-btn {
+        color: $white;
+        background-color: $green-color;
+        line-height: 15px;
+        padding: 1px 10px 0 10px;
+      }
+
+    }
+  }
+}
+
+
+.email-page-content-wrapper {
+  padding: 100px 0 0 0;
+}
+
+
+.reply-content-block {
+  padding-top: 30px;
+  display: none;
+
+  .replay-content-wrapper {
+    background-color: $gray-color;
+    padding: 15px;
+
+    .reply-header {
+      .reply-header-top {
+        @include display-flex;
+        .reply-picture {
+          @include square(23px);
+          @include border-radius(50%);
+          background-color: $gray-color;
+          overflow: hidden;
+          img {
+            @include square(100%);
+            object-fit: cover;
+          }
+        }
+        .reply-icon {
+          margin: 0 8px;
+          color: rgba(0, 0, 0, 0.3);
+          font-size: 10px;
+          line-height: 28px;
+        }
+
+      }
+      .reply-emailid {
+        font-size: 13px;
+      }
+    }
+
+    .reply-texteditor {
+      margin: 10px 0 0 0;
+      padding: 15px;
+      background-color: $white;
+    }
+
+    .reply-message-notification{
+        position: relative;
+        padding: 0 15px 15px 15px;
+        background-color: $white;
+        .alert-success-check{
+            color: $default-color;
+            display: inline-block;
+            font-weight: bold;
+            padding: 5px 15px;
+            margin: 0;
+        }
+    }
+
+    .reply-attachmentp-link{
+      padding: 0 15px 15px 15px;
+      background-color: $white;
+      .file-upload-custom{
+        margin-left: -6px;
+        top: -5px;
+        margin-right: 15px;
+      }
+      a{
+        display: inline-block;
+        margin-right: 10px;
+      }
+    }
+  }
+
+  .reply-footer {
+    padding: 20px 0 0 0;
+    .btn {
+      & + .btn {
+        margin: 0 0 0 20px;
+      }
+
+      &.cancel-btn-reply {
+        color: $default-color;
+        background-color: $gray-color;
+        border-color: $gray-color;
+        &:hover {
+          color: $white;
+          background-color: $primary-color;
+          border-color: $primary-color;
+        }
+      }
+
+    }
+
+  }
+
+  & + .reply-content-block {
+    margin-top: 40px;
+  }
+
+
+
+}
+
+.message-ticket-item {
+  & + .message-ticket-item {
+    margin: 50px 0 0 0;
+  }
+  .message-feeback {
+    border-top: none;
+    border-bottom: none;
+    padding: 0;
+    h5 {
+      @include font($size: 12px, $weight: 700);
+      color: $default-color;
+      margin: 0;
+      padding: 0 0 2px 0;
+    }
+    p {
+      @include font($size: 14px, $weight: 400);
+      color: $default-color;
+      line-height: 20px;
+      margin: 0;
+      padding: 0;
+    }
+    .message-email-from {
+      .message-email-cc-content {
+        p {
+          color: $white;
+          font-size: 11px;
+          text-align: center;
+        }
+      }
+    }
+  }
+  .message-feeback-picture {
+    top: 0;
+  }
+  .message-feeback-publish-date {
+    top: 0;
+  }
+  .message-email-attach-file {
+    h5 {
+      margin: 0 0 10px 0;
+      padding: 0 0 3px 0;
+    }
+  }
+  .message-ticket-subject {
+    position: relative;
+    margin-bottom: 15px;
+    p {
+      margin: 0;
+      padding: 0;
+    }
+    .unlink-btn {
+      @include absolute($top: 0, $right: 0);
+      font-weight: bold;
+      -webkit-transition: all 0.5s ease 0s;
+      transition: all 0.5s ease 0s;
+      &:hover {
+        color: $white !important;
+        background-color: $warning-color !important;
+        text-decoration: none;
+      }
+    }
+
+  }
+  &.paymentfailed-for-ticket {
+    background-color: #fdffe8;
+    position: relative;
+    padding: 25px 30px;
+
+    .status-msg-ticket {
+      @include  font($size: 12px,$weight: 700);
+      color: $primary-color;
+      padding-left: 5px;
+    }
+    .message-feeback-publish-date {
+      top: 0;
+    }
+  }
+  &.addednote-for-ticket {
+    padding: 20px 15px;
+    background-color: #fdffe8;
+    position: relative;
+
+    .message-feeback {
+      .message-feeback-content {
+        padding-left: 45px;
+      }
+      p {
+        font-size: 12px;
+      }
+    }
+
+    .message-feeback-picture {
+      @include square(28px);
+    }
+    .message-ticket-subject {
+      margin-bottom: 5px;
+    }
+  }
+
+}
+
+.page-ticket-content,
+.email-detail-content-body {
+  .page-listing-header {
+    padding-bottom: 30px;
+    h2 {
+      margin: 0;
+      padding: 0;
+      .btn {
+        padding: 4px 20px;
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+.resolution-date-block {
+  border-bottom: 1px solid $gray-color;
+  padding: 0 0 20px 0;
+  margin: 0 0 30px 0;
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  .date-text-element {
+    .text {
+      @include font($size: 16px, $weight: 700);
+    }
+    .resolution-date-edit-link {
+      margin: 0 0 0 3px;
+    }
+
+  }
+  .date-number-box {
+    @include display-flex;
+    padding-top: 20px;
+    .date-number-item {
+      text-align: center;
+      h6 {
+        @include font($size: 30px, $weight: 500);
+        margin: 0;
+        padding: 0 3px 0;
+        text-align: center;
+      }
+      p {
+        text-align: center;
+      }
+
+      & + .date-number-item {
+        margin-left: 30px;
+      }
+      &.days {
+        h6 {
+          color: $pink-color;
+        }
+      }
+      &.hours {
+        h6 {
+          color: $green;
+        }
+      }
+      &.minutes {
+        h6 {
+          color: $success-color;
+        }
+      }
+
+    }
+  }
+
+}
+
+.sidebar-message-ticket-filter {
+  padding-bottom: 50px;
+  .form-group {
+    .btn {
+      padding: 4px 20px;
+      font-weight: 600;
+    }
+
+    &.submit-filter {
+      margin-top: 30px;
+    }
+
+  }
+
+}
+
+.date-text-element{
+  .date-edit-box{
+    display: none;
+  }
+}
+
+
+.ticket-service{
+  max-width: 460px;
+  margin: 0 auto;
+
+  .ticket-service-title{
+    text-align: center;
+  }
+
+  .ticket-service-emoticon{
+    text-align: center;
+    margin: 30px 0 30px 0;
+
+    .emoticon-ticket{
+        @include size(210px,135px);
+        background-color: $white;
+        border: 1px solid $gray-color;
+        display: inline-block;
+        padding: 20px 0;
+        &:focus{
+          outline: none;
+        }
+        .emoticon-ticket-icon{
+          @include size(50px,50px);
+          margin: 0 auto;
+        }
+
+        p{
+          color: $default-color;
+          margin: 0;
+          padding: 0;
+          &:first-of-type{
+            margin-top: 10px;
+          }
+        }
+
+        & + .emoticon-ticket{
+          margin-left: 35px;
+        }
+
+        &:hover{
+          text-decoration: none;
+        }
+    }
+
+  }
+
+  .ticket-service-textarea{
+
+    textarea{
+      @include size(100%,100px);
+      @include  font($size: 12px,$weight: 400);
+      background-color: $gray-color;
+      color: $default-color;
+      line-height: 18px;
+      padding: 10px;
+      border: none;
+      &:focus{
+        outline: none;
+      }
+    }
+
+  }
+
+  .ticket-service-submit{
+    text-align: center;
+    padding: 20px 0 0 0;
+  }
+
+}
+

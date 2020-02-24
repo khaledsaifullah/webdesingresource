@@ -1,0 +1,27 @@
+/*
+@include keyframe('check'){
+  .custom-radio .radio:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: inherit;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: .20;
+    transform: scale(2.2);
+    transition: .2s;
+    z-index: -1;
+  }
+}
+*/
+
+@keyframes radio {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(2.2);
+  }
+}

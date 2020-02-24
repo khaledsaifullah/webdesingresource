@@ -1,0 +1,69 @@
+.email-template {
+  @include display-flex;
+  @include flex-direction(column);
+  @include border-radius(3px);
+  background-color: $white;
+  border: 1px solid #d2e2e8;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 780px;
+  max-height: 100%;
+  overflow: inherit;
+
+  .template-header {
+    @include display-flex;
+    @include align-items(center);
+    @include justify-content(space-between);
+    @include flex(none);
+    background-color: #fafafa;
+    border-bottom: 1px solid #d2e2e8;
+    padding: 20px 35px;
+
+    .template-name {
+      @include display-flex;
+      @include align-items(center);
+
+      input {
+        background-color: transparent;
+        color: $header-color;
+        font-size: 18px;
+        font-weight: 600;
+        border: none;
+        outline: none;
+        width: 300px;
+        max-width: 320px;
+
+        &.form-control:focus {
+          border-bottom: 1px solid #d2e2e8;
+          border-radius: 0;
+        }
+      }
+
+      .edit-name {
+        color: #9c9c9c;
+        font-size: 15px;
+        cursor: pointer;
+
+        &:hover {
+          color: $header-color;
+        }
+      }
+    }
+  }
+
+  .template-action {
+
+    .btn {
+      background-color: #4a90e2;
+      border-color: #2e78cf;
+    }
+  }
+
+  .template-body {
+    padding: 35px;
+  }
+
+  .template-content {
+    margin-top: 45px;
+  }
+}

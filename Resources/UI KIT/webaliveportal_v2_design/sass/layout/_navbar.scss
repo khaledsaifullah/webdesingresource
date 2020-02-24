@@ -1,0 +1,19 @@
+.navbar-dark {
+
+  .navbar-nav {
+
+    .nav-link {
+      @include border-radius(5px);
+      color: $white;
+      font-size: 16px;
+      padding: 10px 20px;
+    }
+
+    .active {
+
+      > .nav-link {
+        background-color: rgba($black, 0.1);
+      }
+    }
+  }
+}

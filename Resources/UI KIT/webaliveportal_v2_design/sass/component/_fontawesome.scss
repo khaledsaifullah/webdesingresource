@@ -1,0 +1,13 @@
+@import "../css/font-awesome.min.css";
+
+@font-face {
+  font-family: '../fonts/FontAwesome';
+  src: url('../fonts/FontAwesome.eot');
+  src: url('../fonts/FontAwesome.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/FontAwesome.woff2') format('woff2'),
+  url('../fonts/FontAwesome.woff') format('woff'),
+  url('../fonts/FontAwesome.ttf') format('truetype'),
+  url('../fonts/FontAwesome.svg#FontAwesome') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,327 @@
+.top-header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  @include size(100%, 100px);
+  background-color: $primary-color;
+  top: 0;
+  z-index: 1024;
+  position: fixed;
+  padding: 0 20px;
+}
+
+.user-dropdown {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  display: block;
+}
+
+.head-right .notification {
+  margin-right: 20px;
+  vertical-align: middle;
+}
+
+.head-right {
+  margin-left: auto;
+  @include display-flex;
+
+  .user-author-picture {
+    @include size(33px, 33px);
+    @include border-radius(50%);
+    background-color: $gray-color;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    img {
+      @include size(33px, 33px);
+      @include border-radius(50%);
+      font-size: 0;
+    }
+    .file-upload-camera{
+      @include absolute($top: -25px, $right: - 13px, $bottom: null, $left: null) ;
+      .fa{
+        @include size(25px,25px);
+        @include border-radius(50%);
+        border: 2px solid $white;
+        color: $white;
+        background-color: $gray-color-deep;
+        text-align: center;
+        line-height: 22px;
+        font-size: 10px;
+      }
+      .file-upload{
+        background-color: transparent;
+      }
+
+    }
+
+  }
+
+  .toplink {
+    a {
+      color: $white;
+      font-weight: bold;
+      font-size: 18px;
+      padding: 0 0 0 10px;
+      -webkit-transition: all 0.5s ease 0s;
+      transition: all 0.5s ease 0s;
+
+      & + a {
+        margin-left: 20px;
+      }
+      &:hover {
+        color: $black;
+        text-decoration: none;
+      }
+      &:after {
+        @include size(2px, 15px);
+        content: "";
+        background-color: $white;
+        position: absolute;
+        margin: 10px 5px 0px 12px;
+      }
+      &:last-of-type:after {
+        display: none;
+      }
+
+    }
+  }
+
+}
+
+.header-wrapper {
+  .header-logo {
+    @include flex(0 0 160px);
+  }
+
+  .header-menu {
+    @include flex(auto);
+    @include breakpoint($tab) {
+      .navbar-dark {
+        .navbar-toggler {
+          border-color: rgba(255, 255, 255, .4);
+          border-width: 2px;
+          position: absolute;
+          right: 0;
+
+          &:focus {
+            outline: none;
+          }
+        }
+
+        .navbar-collapse {
+          .navbar-nav {
+            position: fixed;
+            background: $white;
+            width: calc(100% - 40px);
+            z-index: 99;
+            top: 90px;
+            left: 20px;
+            right: 20px;
+            padding: 25px;
+            margin-right: 40px;
+            box-shadow: 0 -1px 16px -4px rgba(0, 0, 0, .5);
+
+            .nav-item + .nav-item {
+              margin-top: 5px;
+
+              &:hover {
+                .nav-link {
+                  color: $white;
+                  background-color: rgb(153, 30, 63);
+                }
+              }
+            }
+
+            .nav-link {
+              color: #101010;
+              background: rgba(0, 0, 0, .05);
+            }
+            .active > .nav-link {
+              color: $white;
+              background-color: rgb(153, 30, 63);
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .header-action {
+    @include display-flex;
+    @include align-items(center);
+    @include flex(none);
+
+    > * {
+      margin-left: 35px;
+    }
+
+    .fi {
+      color: $white;
+      font-size: 18px;
+    }
+
+    .avatar {
+      background-color: $white;
+    }
+
+    .header-notification {
+
+      .has-notification.show {
+
+        .notification-icon {
+
+          &:after {
+            @include absolute(41px, 15px, auto, auto);
+            @include arrow(20px, 10px);
+            content: '';
+            z-index: 9999;
+          }
+        }
+      }
+
+    }
+  }
+
+  .header-search {
+    position: relative;
+
+    .search-box {
+      @include absolute(-22px, 0);
+    }
+
+  }
+
+  .search-box {
+    position: relative;
+
+    .search-icon-click {
+      @include absolute(8px, 0);
+    }
+
+  }
+
+  .search-block {
+    @include border-radius(3px);
+    @include absolute(0, 0);
+    @include size(312px, 42px);
+    background-color: $white;
+    padding: 7px 45px;
+    display: none;
+
+    &:before {
+      @include absolute(7px, $left: 15px);
+      @include icon('\f131', $primary-color, 18px);
+    }
+
+    input[type="text"] {
+      @include size(100%, 30px);
+      border: none;
+      background-color: transparent;
+      padding: 0;
+      line-height: 30px;
+      vertical-align: middle;
+      margin: 0;
+      color: #9c9c9c;
+      font-size: 12px;
+      text-align: left;
+
+      &:focus {
+        outline: none;
+      }
+    }
+    .search-close {
+      @include absolute(10px, 15px);
+
+      .fi {
+        color: #9c9c9c !important;
+        font-size: 12px !important;
+      }
+
+    }
+
+    ::placeholder {
+      color: #9c9c9c;
+      opacity: 1;
+    }
+    :-ms-input-placeholder {
+      color: #9c9c9c;
+    }
+    ::-ms-input-placeholder {
+      color: #9c9c9c;
+    }
+
+  }
+
+  .profile-section {
+
+    .profile-info-link {
+      cursor: pointer;
+
+      &:hover {
+        text-decoration: none;
+      }
+
+    }
+
+    .profile-info {
+      position: relative;
+      display: none;
+
+      .profile-info-details {
+        @include border-radius(5px);
+        @include absolute(15px, 0);
+        min-width: 180px;
+        min-height: 40px;
+        background-color: #fff;
+        border: 1px solid #d2e2e8;
+        padding: 20px;
+        z-index: 99;
+
+        &:after {
+          @include absolute(-10px, 15px);
+          @include arrow(20px, 10px);
+          content: '';
+          z-index: 9999;
+        }
+
+        ul {
+          padding: 0;
+          margin: 0;
+
+          li {
+            list-style-type: none;
+
+            a {
+              color: #5b6169;
+              font-size: 13px;
+              display: block;
+
+              &:hover {
+                color: $primary-color;
+                text-decoration: none;
+              }
+
+            }
+
+            + li {
+              padding-top: 10px;
+            }
+
+          }
+
+        }
+
+      }
+
+    }
+
+  }
+}
+
+
+

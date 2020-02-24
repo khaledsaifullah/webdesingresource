@@ -1,0 +1,32 @@
+.page-menu-wrap {
+  margin-bottom: 40px;
+
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      padding: 3px 38px 3px 0;
+
+      a {
+        color: $black;
+        font-size: 12px;
+        font-weight: 600;
+        text-decoration: none;
+
+        &:hover{
+          color: $primary-color;
+        }
+
+      }
+
+    }
+  }
+
+  .active {
+    border-bottom: 1px solid $primary-color;
+    color: $primary-color;
+  }
+
+}

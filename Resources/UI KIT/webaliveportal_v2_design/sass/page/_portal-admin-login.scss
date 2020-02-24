@@ -1,0 +1,170 @@
+.admin-login-panel {
+  @include display-flex;
+  height: 100vh;
+
+  .admin-login-leftpart {
+    @include display-flex;
+    @include align-items(center);
+    @include justify-content(center);
+    background-color: $primary-color;
+    background-image: url(../images/admin-login-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    flex-basis: 48%;
+
+    .admin-login-leftpart-content {
+      text-align: center;
+      p {
+        @include font($size: 26px, $weight: 500);
+        color: $white;
+        line-height: 20px;
+        text-align: center;
+        margin: 0;
+        padding: 28px 0 0 0;
+      }
+
+    }
+
+  }
+
+  .admin-login-rightpart {
+    background-color: $white;
+    height: 100%;
+    flex-basis: 52%;
+    @include display-flex;
+    @include align-items(center);
+    @include justify-content(center);
+
+    .admin-login-box {
+      min-width: 385px;
+      h4 {
+        @include font($size: 30px, $weight: 500);
+        color: $default-color;
+        line-height: 20px;
+        text-align: center;
+        margin: 0;
+        padding: 0 0 50px 0;
+      }
+
+    }
+
+  }
+
+}
+
+.row-admin-login {
+  position: relative;
+
+  & + .row-admin-login {
+    margin-top: 20px;
+  }
+
+  label {
+    @include font($size: 14px, $weight: 400);
+    color: $default-color;
+    line-height: 20px;
+    text-align: left;
+    margin: 0;
+    padding: 0 0 5px 0;
+    display: block;
+  }
+
+  .admin-login-input-field {
+    display: block;
+    position: relative;
+  }
+
+  .chosen-container {
+    .chosen-single {
+      height: 40px;
+      line-height: 28px;
+    }
+  }
+
+  input[type="text"],
+  input[type="password"] {
+    @include size(100%, 40px);
+    @include font($size: 14px, $weight: 400);
+    background-color: $gray-color;
+    color: $black;
+    line-height: 20px;
+    text-align: left;
+    margin: 0;
+    padding: 0 10px;
+    outline: none;
+    border: none;
+  }
+
+  input[type="submit"] {
+    @include size(185px, 38px);
+    @include font($size: 16px, $weight: 700);
+    background-color: $primary-color;
+    color: $white;
+    line-height: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    -webkit-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+
+    &:hover {
+      background-color: $info-color;
+    }
+
+    &:focus {
+      background-color: $info-color;
+    }
+
+  }
+
+  &.admin-login-submit-btn {
+    text-align: center;
+    padding-top: 20px;
+  }
+
+  &.forget-password {
+    text-align: center;
+    padding-top: 20px;
+
+    a {
+      @include font($size: 17px, $weight: 400);
+      color: $black;
+      position: relative;
+      padding: 0 0 4px 0;
+      -webkit-transition: all 0.5s ease 0s;
+      transition: all 0.5s ease 0s;
+
+      &:after {
+        @include absolute($bottom: 0, $left: 0);
+        @include size(100%, 1px);
+        background-color: $black;
+        content: '';
+      }
+
+      &:hover {
+        color: $primary-color;
+        text-decoration: none;
+
+        &:after {
+          background-color: $primary-color;
+        }
+      }
+
+      &:focus {
+        color: $primary-color;
+        text-decoration: none;
+        &:after {
+          background-color: $primary-color;
+        }
+      }
+
+    }
+
+  }
+
+
+}
+

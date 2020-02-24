@@ -1,0 +1,39 @@
+/*** Start Bootstrap Overwritten ***/
+.pagination {
+
+  .page-item {
+
+    a {
+      @include border-radius(4px);
+      color: #9c9c9c;
+      font-size: 13px;
+      border: 1px solid transparent;
+      margin: 0 5px;
+      padding: 11px 15px;
+      position: relative;
+      display: block;
+      line-height: 1.25;
+
+      &:hover {
+        color: #5b6169;
+      }
+    }
+
+    &.active {
+
+      a {
+        color: $white;
+        border-color: $primary-color;
+        background-color: $primary-color;
+      }
+    }
+  }
+
+  &[arial-label="prev"],
+  &[arial-label="Next"] {
+    color: #9c9c9c;
+    font-size: 13px;
+  }
+}
+
+/*** End Bootstrap Overwritten ***/

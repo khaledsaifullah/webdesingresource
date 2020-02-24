@@ -1,0 +1,148 @@
+.fa[class *="fa-"] {
+    font-size: 13px;
+}
+
+.icon-symbol{
+    @include border-radius(50%);
+    background-color: $primary-color;
+    @include size(18px,18px);
+    line-height: 18px;
+    display: inline-block;
+    text-align: center;
+    .fa{
+        color: $white;
+        font-size: 11px;
+    }
+}
+.icon-symbol.success{
+    background-color: $green-color;
+}
+.icon-symbol.remove{
+    background-color: $remove-color;
+}
+
+/*start:whole site icon*/
+.icon-circle{
+    @include border-radius(50%);
+    background-color: $primary-color;
+    display: inline-block;
+    text-align: center;
+    .fa{
+        color: $white;
+        font-size: 11px;
+    }
+}
+.icon-circle.miniextra{
+    @include size(16px,16px);
+    line-height: 13px;
+    .fa{
+       font-size: 9px;
+    }
+}
+.icon-circle.mini{
+    @include size(22px,22px);
+    line-height: 19px;
+}
+.icon-circle.small{
+    @include size(24px,24px);
+    line-height: 24px;
+}
+.icon-circle.mediumsmall{
+    @include size(33px,33px);
+    line-height: 33px;
+}
+.icon-circle.medium{
+    @include size(36px,36px);
+    line-height: 36px;
+}
+.icon-circle.large{
+    @include size(67px,67px);
+    line-height: 83px;
+    .fa{
+        font-size: 30px;
+    }
+}
+
+.icon-circle.active{
+    background-color: $pink-color;
+}
+
+.icon-circle .fa-caret-down {
+    font-size: 19px;
+    position: relative;
+    top: 4px;
+}
+
+
+/*start:custom icon*/
+.custom-icon{
+    background-image: url(../images/icons/custom-icon-sprite.png);
+    background-repeat: no-repeat;
+    background-position:  0 0;
+    display: inline-block;
+
+    &.disabled {
+        opacity: 0.3;
+    }
+
+}
+
+
+.dollar-custom-icon{
+    @include size(17px,17px);
+}
+
+.tickmark-custom-icon{
+    @include size(17px,17px);
+    background-position-x: -22px;
+}
+
+.global-custom-icon{
+    @include size(17px,17px);
+    background-position-x: -38px;
+}
+
+.headphone-custom-icon{
+    @include size(17px,17px);
+    background-position-x: -58px;
+}
+
+.setting-custom-icon{
+    @include size(17px,17px);
+    background-position-x: -77px;
+}
+/*end:custom icon*/
+
+
+.fa-download{
+    position: relative;
+    &:before {
+        opacity:0;
+    }
+    &:after {
+        @include size(13px,13px);
+        background-image: url(../images/icons/fa-download-icon.png);
+        background-repeat: no-repeat;
+        background-position:  0 0;
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+}
+
+.fa-paperclip-custom {
+    &:before{
+        font-size: 15px;
+        visibility: hidden;
+    }
+    &:after{
+        @include absolute($top: 0,$left: 0);
+        @include size(23px,30px);
+        content: '';
+        background-image: url(../images/icons/icon-paperclip.png);
+        background-repeat: no-repeat;
+        display: inline-block;
+        vertical-align: middle;
+    }
+}

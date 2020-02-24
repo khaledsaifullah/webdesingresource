@@ -1,0 +1,254 @@
+/*** Start Bootstrap Overwritten ***/
+
+.nav-tabs {
+  @include flex-wrap(nowrap);
+}
+
+.tab-border,
+.tab-arrow,
+.tab-vertical,
+.note-tabs {
+
+  .nav-item {
+    margin-bottom: 0;
+  }
+
+  .nav-link {
+    border: none;
+    color: #5b6169;
+    font-size: 13px;
+    font-weight: 600;
+    position: relative;
+    padding: 20px 30px;
+
+    &:hover,
+    &.active {
+      background: none;
+      color: $primary-color;
+    }
+
+    .fi {
+      margin-right: 3px;
+    }
+  }
+}
+
+.note-tabs {
+  margin-bottom: 15px;
+  border: none;
+
+  .nav-link {
+    padding: 10px 18px;
+
+    &:hover,
+    &.active {
+      background: none;
+      color: $primary-color;
+      background: rgba($primary-color, .05);
+    }
+  }
+}
+
+/* Border Tab */
+.tab-border {
+
+  .nav-tabs {
+    margin-bottom: 20px;
+  }
+
+  .nav-link {
+
+    &.active {
+
+      &:before {
+        @include absolute($left: 0, $bottom: 0);
+        @include size(100%, 3px);
+        background-color: $primary-color;
+        content: '';
+      }
+    }
+  }
+}
+
+/* Arrow Tab */
+.tab-arrow {
+
+  .nav-tabs {
+    background-color: #fafafa;
+    border: 1px solid #d2e2e8;
+  }
+
+  .nav-link {
+
+    &.active {
+      @include bordered-arrow(18px, 9px, down, #fafafa, #d2e2e8);
+
+      &:before,
+      &:after {
+        left: 50%;
+        @include translateX(-50%);
+      }
+    }
+  }
+
+  .tab-content {
+    background-color: $white;
+    border-left: 1px solid #d2e2e8;
+    border-right: 1px solid #d2e2e8;
+    border-bottom: 1px solid #d2e2e8;
+    padding: 20px;
+  }
+
+  /* Arrow Form */
+  &.tab-form {
+
+    .tab-button-line {
+      background-color: #fafafa;
+      border: 1px solid #d2e2e8;
+      padding: 20px;
+
+      .btn + .btn {
+        margin-left: 10px;
+      }
+    }
+  }
+}
+
+/* Tab Vertical */
+.tab-vertical {
+  @include display-flex;
+  background-color: $white;
+
+  .nav-tabs {
+    @include display-flex;
+    @include flex-direction(column);
+    @include flex(0 0 300px);
+    border: 1px solid #e7ebf6;
+    padding: 15px;
+  }
+
+  .nav-item {
+    margin-bottom: 0;
+  }
+
+  .nav-link {
+    @include border-radius(3px);
+    border: none;
+    color: #5b6169;
+    font-size: 14px;
+    padding: 12px 20px 12px 15px;
+    position: relative;
+
+    &:after {
+      @include absolute(12px, 15px);
+      @include icon('\f152', #d2e2e8, 12px);
+    }
+
+    &.active {
+      background-color: #faf4f5;
+      border: none;
+
+      &:after {
+        color: inherit;
+      }
+    }
+  }
+
+  .tab-content {
+    @include flex(auto);
+    border-top: 1px solid #e7ebf6;
+    border-right: 1px solid #e7ebf6;
+    border-bottom: 1px solid #e7ebf6;
+    padding: 35px;
+  }
+}
+
+/* Tab Content */
+.tab-content {
+
+  .tab-no-content {
+    color: #9c9c9c;
+  }
+}
+
+/*** End Bootstrap Overwritten ***/
+
+/*Tree menu*/
+.tab-vertical {
+  .product-type-menu {
+    @include size(100%);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    .nav-item {
+      @include size(100%);
+
+      &.on {
+
+        > .tree-toggle {
+
+          &.nav-link {
+            color: $primary-color;
+
+            &:after {
+              color: $primary-color;
+              transform: rotate(-90deg);
+            }
+          }
+        }
+      }
+
+      .tree-toggle {
+
+        &.nav-link {
+          cursor: pointer;
+          color: $label-color;
+
+          &:after {
+            color: $label-color;
+            display: block;
+          }
+        }
+      }
+
+      .tree {
+        background-color: #f2f2f2;
+      }
+
+      .nav-link {
+
+        &:after {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+/*tab overwrite style stage page*/
+#communication_form {
+  .tab-arrow {
+    .nav-link {
+      padding: 20px 15px;
+
+      @include breakpoint($desktop) {
+        padding: 20px 25px;
+        font-size: 0;
+
+        .fi {
+          font-size: 22px;
+        }
+      }
+
+      @include breakpoint($laptop) {
+        padding: 20px 25px;
+        font-size: 0;
+
+        .fi {
+          font-size: 22px;
+        }
+      }
+    }
+  }
+}

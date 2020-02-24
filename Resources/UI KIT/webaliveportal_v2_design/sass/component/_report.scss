@@ -1,0 +1,92 @@
+/*start: report */
+.report-grid-view {
+  @include display-flex;
+  @include flex-wrap(wrap);
+
+  .report-box {
+    @include size(25%, 250px);
+    padding: 10px;
+
+    .report-box-inner {
+      @include display-flex;
+      @include justify-content(center);
+      @include align-items(center);
+      @include flex-direction(column);
+      @include square(100%);
+      @include border-top-left-radius(6px);
+      @include border-top-right-radius(6px);
+      background-color: $white;
+      text-align: center;
+      border: 1px solid transparent;
+      text-decoration: none;
+
+      .fi {
+        @include display-flex;
+        @include justify-content(center);
+        @include align-items(center);
+        @include square(82px);
+        @include border-radius(50%);
+        background-color: #fbfbfb;
+        color: rgba(0, 0, 0, 0.7);
+        font-size: 35px;
+        margin-bottom: 25px;
+      }
+
+      img {
+        -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+        filter: grayscale(100%);
+      }
+
+      h4 {
+        @include font($size: 18px, $weight: 700);
+        color: #101010;
+        text-align: center;
+        line-height: 20px;
+        margin: 0;
+        padding: 0;
+      }
+
+      &:hover {
+        border-color: $primary-color;
+
+        img {
+          -webkit-filter: none; /* Safari 6.0 - 9.0 */
+          filter: none;
+        }
+
+        .fi {
+          color: $primary-color;
+          background-color: #faf4f5;
+        }
+
+        h4 {
+          color: $primary-color;
+        }
+
+      }
+
+    }
+
+  }
+
+}
+
+.report-content-head {
+  margin-bottom: 20px;
+
+  .dropdown-action {
+    float: right;
+    .action-button {
+      font-size: 20px;
+      &::after{
+        top: 9px;
+      }
+    }
+  }
+
+}
+
+.report-content-body {
+  padding: 20px;
+  background-color: $white;
+}

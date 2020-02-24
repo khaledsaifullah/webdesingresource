@@ -1,0 +1,356 @@
+.comment-form-body {
+  position: relative;
+  border-bottom: 1px solid $off-white;
+  padding-bottom: 58px;
+}
+
+.comment-feeback-picture-large {
+  @include absolute($top: 0, $left: 0);
+  @include size(67px, 67px);
+  @include border-radius(50%);
+  background-color: $gray-color;
+  overflow: hidden;
+  img {
+    @include size(100%, 100%);
+    object-fit: cover;
+  }
+}
+
+.comment-picture-medium {
+  @include square(37px);
+  @include border-radius(50%);
+  background-color: $gray-color;
+  overflow: hidden;
+  img {
+    @include square(100%);
+    object-fit: cover;
+  }
+}
+
+.comment-picture-large {
+  @include absolute($top: 0, $left: 0);
+  @include size(67px, 67px);
+  @include border-radius(50%);
+  background-color: $gray-color;
+  overflow: hidden;
+  img {
+    @include size(100%, 100%);
+    object-fit: cover;
+  }
+}
+
+.project-message-box {
+  padding-left: 100px;
+  width: 100%;
+
+  textarea {
+    @include font($size: 12px, $weight: 400);
+    color: $default-color;
+    height: 140px;
+    line-height: 18px;
+    padding: 10px;
+  }
+
+}
+
+.comment-description {
+  margin-top: 50px;
+  position: relative;
+
+  .title-description {
+    font-size: 12px;
+    padding-bottom: 8px;
+    font-weight: bold;
+
+    &.border-bottom {
+      margin-bottom: 20px;
+    }
+
+  }
+
+  .left-title-text {
+    float: left;
+  }
+
+  .right-title-text {
+    float: right;
+    font-size: 10px;
+  }
+
+  p {
+    font-size: 12px;
+  }
+
+  .comment-text-content {
+    font-size: 12px;
+    p {
+      font-size: 12px;
+      margin: 0;
+      padding: 0;
+      & + p {
+        margin-top: 10px;
+      }
+
+    }
+
+  }
+
+  .comment-feeback-picture {
+    @include absolute($top: 0, $left: 0);
+    @include size(38px, 38px);
+    @include border-radius(50%);
+    background-color: $gray-color;
+    overflow: hidden;
+    img {
+      @include size(100%, 100%);
+      object-fit: cover;
+    }
+  }
+
+}
+
+.comment-add {
+  margin-top: 25px;
+
+  label {
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  textarea {
+    @include font($size: 12px, $weight: 400);
+    color: $default-color;
+    height: 60px;
+    line-height: 18px;
+    padding: 10px;
+  }
+
+  .form-group {
+    margin-bottom: 30px;
+  }
+
+}
+
+.comment-form-heading {
+  padding: 0 0 20px 0;
+}
+
+.comment-form .button-wrap span.icon-symbol.large {
+  width: 33px;
+  height: 33px;
+  line-height: 33px;
+  position: relative;
+  top: 3px;
+}
+
+.comment-form-heading {
+
+  h2 {
+    color: $default-color;
+    font-weight: bold;
+  }
+
+  p {
+    font-weight: bold;
+  }
+
+}
+
+.comment-group-btn {
+  padding: 50px 0 0 0;
+  @include display-flex;
+  @include justify-content(space-between);
+}
+
+.comment-left-part {
+  padding-right: 23px;
+  width: 60px;
+  @include absolute($top: 0, $right: null, $bottom: null, $left: 0);
+  .icon-circle.medium {
+    img {
+      @include square(37px);
+      @include border-radius(50%);
+    }
+  }
+}
+
+.comment-right-part {
+  position: relative;
+  padding-left: 60px;
+}
+
+.project-messages-section .comment-form-heading {
+  padding-bottom: 55px;
+}
+
+.project-messages-section .button-wrap {
+  padding-top: 7px;
+}
+
+.project-messages-section .btn-icon-symbol {
+  padding: 5px 33px;
+  margin-right: 18px;
+}
+
+.comment-upload-picture a + a {
+  margin-left: 30px;
+}
+
+.project-messages-section .comment-box .form-group {
+  padding-bottom: 0;
+}
+
+.project-detail-single textarea {
+  height: 257px;
+}
+
+.project-detail-single .comment-form-body {
+  border-bottom: 0px solid #d0d0d0;
+  padding-bottom: 58px;
+}
+
+.project-file-section {
+  @include display-flex;
+  position: relative;
+  .project-file-add-section {
+    width: 100%;
+    padding-left: 100px;
+  }
+
+}
+
+.comment-form {
+  max-width: 1100px;
+}
+
+.comment-description.project-wrap {
+  padding-top: 0px !important;
+}
+
+.project-detail-editor {
+  background-color: $white;
+  border: 10px solid $gray-color;
+  padding: 10px;
+  max-width: 1040px;
+}
+
+.project-select-user {
+  @include display-flex;
+  padding-bottom: 25px;
+
+  ul {
+    display: inherit;
+    margin: 0;
+    padding: 0;
+
+    li {
+      list-style: none;
+      & + li {
+        margin-left: 20px;
+      }
+      &.select-user-text {
+        font-size: 13px;
+      }
+    }
+
+  }
+
+}
+
+.project-messages-section .comment-form-body {
+  margin-bottom: 25px;
+}
+
+.project-file-message-feeback {
+  .message-feeback {
+    border-top: none;
+  }
+}
+
+.add-project-comment-wrapper {
+  padding-top: 100px;
+}
+
+.add-project-comment-wrapper .comment-form-body {
+  display: none;
+}
+
+.add-project-comment-wrapper .project-detail-message-content {
+  display: none;
+}
+
+
+.project-file-detail-section {
+  .comment-left-part {
+    @include square(67px);
+  }
+  .comment-right-part {
+    form {
+      height: 180px;
+    }
+  }
+}
+
+.comment-form-body-content {
+  @include display-flex;
+  position: relative;
+  .comment-file-add-section {
+    width: 100%;
+    padding-left: 100px;
+  }
+
+  .comment-add-block {
+    padding-top: 15px;
+    label {
+      font-size: 12px;
+      font-weight: bold;
+    }
+    .comment-texteditor {
+      height: 100px;
+      padding-bottom: 40px;
+      margin-bottom: 30px;
+    }
+  }
+
+}
+
+
+.comment-description {
+  margin-top: 50px;
+  position: relative;
+  border-bottom: 1px solid #f2f2f2;
+  padding-bottom: 45px;
+  &:last-of-type {
+    border-bottom: none;
+  }
+  .comment-picture-medium {
+    @include absolute($top: 0, $left: 0);
+  }
+
+}
+
+
+.project-texteditor {
+  height: 160px;
+  padding-bottom: 40px;
+}
+
+.project-detail-texteditor {
+  height: 200px;
+  padding-bottom: 40px;
+}
+
+.reply-texteditor {
+  height: 100px;
+  padding-bottom: 40px;
+  margin-top: 20px;
+}
+
+.project-file-content-description .comment-upload-picture a {
+  display: inline-block;
+  margin: 0 0 15px 0;
+}
+
+.comment-file-add-section .btn {
+  margin-top: 15px;
+}

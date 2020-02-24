@@ -1,0 +1,123 @@
+/* List View Table */
+.list-view-table {
+  @include display-flex;
+  @include flex-direction(column);
+  height: 100%;
+
+  .list-view-table-body {
+    @include flex(auto);
+    min-height: 0;
+    max-height: 850px;
+    overflow: auto;
+  }
+
+
+  .table {
+
+    th {
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    th,
+    td {
+      padding: 20px;
+    }
+
+    .text-amount,
+    .text-btn {
+      text-align: center;
+      display: block;
+    }
+
+    .text-btn {
+
+      &:hover {
+        text-decoration: none;
+
+        .fi-add {
+          background-color: $primary-color;
+        }
+      }
+    }
+
+    .fi-add {
+      @include size(12px, 12px);
+      @include border-radius(12px);
+      color: $white;
+      text-align: center;
+      line-height: 12px;
+      font-size: 6px;
+      background-color: #9c9c9c;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    .fi-set-alarm {
+      color: #9c9c9c;
+      font-size: 26px;
+
+      &:hover {
+        color: $primary-color;
+      }
+    }
+
+    .selected {
+      background-color: #f0eaec;
+    }
+
+  }
+
+  tbody {
+
+    tr {
+      &:nth-child(2n) {
+        background-color: #fbfbfb;
+      }
+    }
+  }
+
+  .color-full-heading {
+    color: $white;
+  }
+
+  .function-feature-icon {
+    span {
+      cursor: pointer;
+      font-size: 16px;
+      font-weight: bold;
+
+      &.tick-mark{
+        color: $black;
+      }
+
+      &.cross-mark {
+        color: $red;
+      }
+
+    }
+
+  }
+
+}
+
+/* List View Pagination */
+.list-view-pagination {
+  @include display-flex;
+  @include align-items(center);
+  @include flex(none);
+  margin-top: 15px;
+
+  .left {
+    @include flex(none);
+  }
+
+  .right {
+    @include flex(auto);
+  }
+
+  .pagination {
+    @include justify-content(flex-end);
+    margin-bottom: 0;
+  }
+}

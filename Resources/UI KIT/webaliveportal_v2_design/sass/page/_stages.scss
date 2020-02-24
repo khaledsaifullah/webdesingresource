@@ -1,0 +1,101 @@
+.stages-panel {
+  @include display-flex;
+
+  .top-bar {
+    @include absolute(0, $left: 0);
+    @include size(100%, 65px);
+  }
+
+  &.content-body {
+    padding: 65px 0 0 0;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .stage-tab {
+    @include flex(0 0 310px);
+    background-color: $white;
+    border-right: 1px solid #d2e2e8;
+    padding-left: 40px;
+    padding-right: 40px;
+    overflow: auto;
+
+    @include breakpoint($laptop) {
+      @include flex(0 0 260px);
+    }
+  }
+
+  .stage-body {
+    @include flex(auto);
+
+    form,
+    .stage-form-content {
+      height: 100%;
+    }
+
+    .stage-form-content {
+      padding: 40px;
+      overflow: auto;
+    }
+  }
+}
+
+/*make fullwide col**/
+
+@include breakpoint($laptop) {
+  .stages-panel {
+    .stage-body {
+      .stage-form-content {
+        .row [class*="col"] {
+          display: block;
+          width: 100% !important;
+          max-width: 100%;
+          flex: unset;
+        }
+      }
+    }
+  }
+  .dropdown-sm {
+    max-width: calc(50% - 14px);
+  }
+
+  .dropdown-normal .chosen-container-single .chosen-single span {
+    font-size: 12px;
+  }
+}
+
+@include breakpoint($desktop) {
+  .stages-panel {
+    .stage-body {
+      .stage-form-content {
+        .row [class*="col"] {
+          display: block;
+          width: 100% !important;
+          max-width: 100%;
+          flex: unset;
+        }
+      }
+    }
+  }
+  .dropdown-normal .chosen-container-single .chosen-single span {
+    font-size: 12px;
+  }
+  .dropdown-sm {
+     max-width: calc(50% - 14px);
+   }
+}
+
+@include breakpoint($tab) {
+  .stages-panel {
+    .stage-body {
+      .stage-form-content {
+        .row [class*="col"] {
+          display: block;
+          width: 100% !important;
+          max-width: 100%;
+          flex: unset;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+.avatar {
+  @include display-flex(inline-flex);
+  @include flex(none);
+  @include align-items(center);
+  @include justify-content(center);
+  @include square(30px);
+  @include border-radius(50%);
+  background-color: #ebebeb;
+  font-size: 13px;
+  font-weight: 400;
+  color: #9fa6b0;
+  text-align: center;
+
+  &.avatar-small {
+    @include square(44px);
+    font-size: 14px;
+  }
+
+  &.avatar-medium {
+    @include square(54px);
+    font-size: 18px;
+  }
+
+  &.avatar-large {
+    @include square(94px);
+    font-size: 24px;
+  }
+
+  img {
+    @include border-radius(50%);
+    position: relative;
+
+    &[alt]:after {
+      @include absolute(0, $left: 0);
+      @include border-radius(inherit);
+      @include square(100%);
+      @include display-flex;
+      @include align-items(center);
+      @include justify-content(center);
+      background-color: #8c88ff;
+      display: block;
+      line-height: 2;
+      text-align: center;
+      content: attr(alt);
+    }
+  }
+
+  & ~ .info {
+    margin-left: 10px;
+  }
+
+
+}

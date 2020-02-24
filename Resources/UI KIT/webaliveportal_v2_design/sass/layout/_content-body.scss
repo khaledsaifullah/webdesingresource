@@ -1,0 +1,95 @@
+.main-container {
+  width: calc(100% - 340px);
+  margin-left: 340px;
+}
+
+.main-page-content {
+  padding: 188px 80px 130px 120px;
+}
+
+.content-wrapper {
+  width: calc(100% - 425px);
+  margin-left: 425px;
+}
+
+.page-content {
+  padding: 188px 40px 130px 120px;
+}
+
+
+.intro-section {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+  padding-left: 92px;
+}
+
+.intro-section h2 {
+  font-size: 26px;
+  font-weight: 300;
+  color: #8d8b8e;
+  margin: 0;
+  padding: 0;
+}
+
+.intro-section h2 span {
+  color: #000;
+  font-weight: 600;
+}
+
+.menu-expander img {
+  margin-top: 10px;
+}
+
+/*Navigation*/
+.contact-title {
+  margin-top: 114px;
+  margin-bottom: 30px;
+}
+
+.tb-info {
+  width: 95%;
+}
+
+.marginicon {
+  margin-left: 35px;
+}
+
+.search-filterwidth {
+  max-width: 1000px;
+}
+
+.businessbtn {
+  margin-left: 20px;
+}
+
+.head-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btnfont {
+  text-transform: uppercase;
+}
+
+.main-page-content h2 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.sub-title {
+  font-weight: bold;
+}
+
+.project-file-detail-section {
+  max-width: 1070px;
+}
+
+.createinvoicebtn {
+  padding: 4px 29px;
+}
+
+.staff-support-finder-wrap {
+  max-width: 1100px;
+}
+

@@ -1,0 +1,182 @@
+.partner-dashboard {
+  .tab-vertical {
+    @include flex-direction(column);
+    max-width: 320px;
+    background-color: transparent;
+
+    .nav-item {
+      margin: 0 0 4px 0;
+      background-color: #f5f5f5;
+
+      .nav-link {
+        padding: 12px 30px;
+        background: #fff;
+
+        .icon {
+          margin-right: 10px;
+        }
+      }
+    }
+  }
+  .list-view-table {
+    max-width: 1024px;
+    margin: auto;
+  }
+}
+
+.box {
+  border-radius: 2px;
+  padding: 18px 25px 17px 29px;
+  background-color: #e3e8ea;
+
+  label {
+    font-size: 20px;
+    color: #000;
+    display: inline-block;
+    margin-top: 7px;
+  }
+}
+
+.list-info {
+  background: #fff;
+  padding: 25px;
+
+  .info {
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    margin: 0 0 14px;
+    color: #5b6169;
+    border: 1px solid #e1e1e1;
+    background-color: #fff;
+
+    .topbar.pink {
+      border-top: 3px solid #cf8cb7;
+    }
+
+    .info-header {
+      padding: 13px 17px 9px;
+
+      .name-date {
+        h3 {
+          color: #383c42;
+          font-size: 14px;
+          line-height: 15px;
+          margin: 0;
+        }
+
+        span {
+          font-size: 11px;
+          line-height: 14px;
+          color: #8d939b;
+        }
+      }
+
+      .thumb {
+        float: left;
+
+        .fi {
+          font-size: 30px;
+          margin-right: 10px;
+          line-height: 1.2;
+        }
+      }
+
+      .mail-letter {
+        position: relative;
+        min-height: 34px;
+        float: right;
+
+        img {
+          position: relative;
+          top: -30px;
+        }
+      }
+    }
+    .info-body {
+      background: #f6f7fb;
+      padding: 7px 17px 6px;
+
+      p {
+        font-size: 12px;
+        line-height: 18px;
+        color: #696969;
+        margin-top: 11px;
+      }
+
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        padding-bottom: 7px;
+        border-bottom: 1px solid #d4dae2;
+
+        li {
+          font-size: 13px;
+          line-height: 18px;
+          width: 100%;
+          display: inline-block;
+          margin: 0 14px 0 0;
+          color: #505050;
+
+          label {
+            font-size: 13px;
+            line-height: 18px;
+            display: inline-block;
+            color: #ababab;
+            font-weight: 400;
+          }
+        }
+
+      }
+    }
+  }
+}
+
+/*table data style*/
+.customers_partner_customer_list,
+.jobs_partner_job_list,
+.reports_partner_index {
+
+  .list-view-table .table th,
+  .list-view-table .table td {
+    padding: 10px 14px;
+    font-size: 12px;
+  }
+}
+
+/*customer details*/
+.customer-details {
+  padding: 40px;
+  background: #f5f5f5;
+
+  h2 {
+    margin: 20px 0;
+  }
+
+  ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+
+    li {
+      margin-bottom: 15px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+
+      > span {
+        display: block;
+        font-size: 15px;
+        padding-bottom: 3px;
+        font-weight: 600;
+      }
+    }
+  }
+}
+.customer-details-header h4 {
+  font-size:  25px;
+}
+
+.box3 span.tel, span.email {
+  display:  block;
+}

@@ -1,0 +1,572 @@
+.dashboard-content {
+
+  .row {
+
+    [class *=col] {
+      padding-top: 15px;
+      padding-bottom: 15px;
+    }
+  }
+}
+
+/* Start Dashboard Sales Team */
+.task-list-cell {
+
+  .dashboard-header {
+    border-color: #ced4da;
+    margin: 0;
+    padding: 15px 30px;
+
+    &:before {
+      left: 0;
+    }
+
+    .search-input input {
+      height: 40px;
+    }
+  }
+
+  .dashboard-body {
+    padding-right: 0;
+    padding-bottom: 0;
+  }
+}
+
+.task-list-panel {
+  @include display-flex;
+}
+
+.task-filter {
+  @include flex(0 0 300px);
+  margin-right: 30px;
+
+  .bordered-title {
+    margin-bottom: 20px;
+  }
+
+  .filter-item {
+    @include border-radius(4px);
+    color: $label-color;
+    cursor: pointer;
+    line-height: 1;
+    padding: 15px 8px;
+
+    & + .filter-item {
+      margin-top: 5px;
+    }
+
+    &:hover {
+      color: $info-color;
+    }
+
+    &.active {
+      background-color: rgba($info-color, .1);
+      color: $info-color;
+    }
+  }
+}
+
+.task-body {
+  @include display-flex;
+  @include flex(auto);
+}
+
+.task-item-cell {
+  @include flex(1);
+  border-left: 1px solid #d2e2e8;
+  border-right: 1px solid #d2e2e8;
+  margin-left: -1px;
+  min-width: 0;
+
+  &.not-started {
+
+    .cell-heading {
+      background-color: rgba($info-color, .15);
+    }
+
+    .item-count {
+      background-color: $info-color;
+    }
+  }
+
+  &.in-progress {
+
+    .cell-heading {
+      background-color: rgba($success-color, .15);
+    }
+
+    .item-count,
+    .task-item:before {
+      background-color: $success-color;
+    }
+
+    .task-item .status {
+      color: $success-color;
+    }
+  }
+
+  &.completed {
+
+    .cell-heading {
+      background-color: rgba(#8c88ff, .15);
+    }
+
+    .item-count,
+    .task-item:before {
+      background-color: #8c88ff;
+    }
+
+    .task-item .status {
+      color: #8c88ff;
+    }
+  }
+
+  .cell-heading {
+    @include display-flex;
+    @include align-items(center);
+    background-color: #fafafa;
+    padding: 20px;
+
+    .caption {
+      @include flex(auto);
+      color: $header-color;
+      font-size: 20px;
+      padding-right: 10px;
+      -ms-text-overflow: ellipsis;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+
+    .item-count {
+      @include border-radius(15px);
+      @include flex(none);
+      color: $white;
+      padding: 6px 18px;
+      line-height: 1;
+    }
+  }
+}
+
+.task-items {
+  padding: 25px;
+  position: relative;
+  min-height: 550px;
+  max-height: 700px;
+  overflow: auto;
+}
+
+.task-item .input-group-inline .input-group > * {
+  margin: 0 15px;
+}
+
+.task-item {
+  @include border-radius(4px);
+  background-color: $white;
+  border: 1px solid #d2e2e8;
+  padding: 15px 25px;
+  position: relative;
+
+  &.due {
+
+    &:before {
+      background-color: #ff991f;
+    }
+
+    .status {
+      color: #ff991f;
+    }
+  }
+
+  &.over-due {
+
+    &:before {
+      background-color: #de350b;
+    }
+
+    .status {
+      color: #de350b;
+    }
+  }
+
+  &:before {
+    @include absolute(0, $left: -2.5px);
+    @include border-radius(5px);
+    @include size(5px, 100%);
+    background-color: #f1f1f1;
+    content: '';
+  }
+
+  .title {
+    @include display-flex;
+    margin-bottom: 0;
+
+    .title-text {
+      @include flex(auto);
+      font-size: 18px;
+      color: $header-color;
+      padding-right: 5px;
+
+      a {
+        color: $header-color;
+      }
+
+    }
+
+    .action {
+      @include flex(none);
+
+      .action-item {
+        font-size: 16px;
+        color: #4a90e2;
+        cursor: pointer;
+      }
+    }
+  }
+
+  .content {
+    color: #5b6169;
+    font-size: 13px;
+
+    strong {
+      color: $header-color;
+      display: block;
+      font-weight: 600;
+    }
+    .form-group,
+    .input-group-inline {
+      margin-bottom: 0;
+    }
+  }
+
+  .status {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  & + .task-item {
+    margin-top: 15px;
+  }
+  .form-control {
+    width: 100%;
+    max-height: 60px;
+  }
+
+  &.ui-draggable-dragging {
+    position: fixed !important;
+    z-index: 99;
+  }
+
+  .bootstrap-datetimepicker-widget {
+
+    &.dropdown-menu {
+      top: 45px;
+      bottom: auto;
+      left: 0;
+      right: auto;
+
+      &:before {
+        border-top: none;
+        border-bottom: 7px solid #ccc;
+        bottom: auto;
+        top: -7px;
+      }
+
+      &:after {
+        border-top: none;
+        border-bottom: 6px solid $white;
+        bottom: auto;
+        top: -6px;
+      }
+    }
+  }
+
+}
+
+/* End Dashboard Sales Team */
+
+/* Start Task Calendar */
+.schedule-list {
+  max-height: 888px;
+  overflow: auto;
+}
+
+.schedule-item {
+  border-bottom: 1px solid #f5f5f5;
+  padding: 15px 30px;
+
+  h5 {
+    color: $header-color;
+    font-size: 16px;
+  }
+
+  .schedule-range {
+    color: #9c9c9c;
+
+    .fi {
+      color: #d2e2e8;
+      font-size: 16px;
+      margin-right: 5px;
+    }
+  }
+}
+
+.month-switcher {
+
+  button {
+    @include border-radius(4px);
+    background-color: #e4eefa;
+    color: #498fe4;
+    cursor: pointer;
+    border: none;
+    line-height: 1;
+    font-size: 9px;
+    padding: 8px 12px;
+  }
+
+  .current-month {
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 18px;
+    vertical-align: middle;
+  }
+}
+
+/* End Task Calendar */
+
+/* Start Conversion List */
+.conversion-rate {
+  max-height: 550px;
+  overflow: auto;
+}
+
+/* End Conversion List */
+
+/* Start Productivity */
+.productivity-stat {
+  text-align: center;
+
+  .stat-items {
+    @include display-flex;
+    @include align-items(center);
+  }
+
+  .stat-item {
+    @include flex(1);
+    padding-left: 50px;
+    padding-right: 50px;
+
+    & + .stat-item {
+      border-left: 1px solid #d2e4e8;
+    }
+  }
+
+  .stat-title {
+    font-size: 18px;
+    color: #9c9c9c;
+    text-transform: uppercase;
+  }
+
+  .stat-value {
+    font-size: 36px;
+  }
+
+  .stat-graph {
+    @include display-flex(inline-flex);
+    @include align-items(center);
+    @include justify-content(center);
+    @include flex-direction(column);
+    @include square(180px);
+    font-size: 36px;
+    line-height: 1;
+    position: relative;
+    margin-top: 50px;
+
+    &:before {
+      @include absolute(0, 0);
+      @include icon('\f15e', #02b8c6, 180px);
+      line-height: 1;
+    }
+
+    span {
+      font-size: 18px;
+      color: #9c9c9c;
+      margin-bottom: 30px;
+    }
+  }
+}
+
+/* End Productivity */
+
+/*start:*/
+.job-chart-block {
+  position: relative;
+
+  .won-and-lost-status {
+    @include absolute(0);
+    @include display-flex;
+    @include flex-direction(column);
+    @include justify-content(space-around);
+    @include flex-wrap(wrap);
+    height: 100%;
+  }
+
+  .won-lost-left {
+    left: -10%;
+  }
+
+  .won-lost-right {
+    right: -10%;
+  }
+
+}
+
+.view-state {
+  font-size: 16px;
+  position: relative;
+  padding-left: 20px;
+
+  @include breakpoint($laptop) {
+    display: block;
+    width: 100%;
+  }
+  @include breakpoint($desktop) {
+    display: block;
+    width: 100%;
+
+  }
+  @include breakpoint($laptop) {
+    + .view-state {
+      margin-top: 20px;
+    }
+  }
+  @include breakpoint($desktop) {
+    + .view-state {
+      margin-top: 20px;
+    }
+  }
+
+  &:before {
+    @include absolute(0, $left: 0);
+    @include size(10px, 100%);
+    content: '';
+    background-color: #5c6069;
+  }
+
+  &.view-state-won:before {
+    background-color: #991e3f;
+  }
+
+  &.view-state-lost:before {
+    background-color: #4b8fe2;
+  }
+
+  strong {
+    display: block;
+    line-height: 1;
+    margin-bottom: 5px;
+
+    span {
+      padding-left: 5px;
+    }
+
+  }
+}
+
+.won-lost-break-down {
+  @include display-flex;
+  @include justify-content(space-around);
+  @include flex-wrap(wrap);
+  @include align-items(flex-start);
+
+  .view-state.view-state-lost {
+    margin-bottom: 20px;
+  }
+}
+
+.job-chart-left {
+  margin-left: 25%;
+
+  &:before {
+    @include absolute(15%, 0);
+    @include size(1px, 255px);
+    content: '';
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+
+}
+
+.job-chart-right {
+  margin-right: 25%;
+}
+
+.graph-status {
+  text-align: center;
+
+  .graph-status-name {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+
+    .graph-status-value {
+      @include square(65px);
+      background: url(../images/angle-icon.png) no-repeat -65px 0 / 130px;
+      color: $black;
+      font-size: 10px;
+      font-weight: bold;
+      line-height: 65px;
+
+      &:hover {
+        background-position: 0 0;
+      }
+
+    }
+
+    p {
+      margin: 0;
+      padding: 10px 0 0 0;
+      color: rgba(0, 0, 0, 0.8);
+      font-size: 14px;
+    }
+
+  }
+
+}
+
+.graph-status-verticale {
+  max-height: 400px;
+  overflow: auto;
+
+  .graph-status-name {
+    margin-left: 0;
+    display: block;
+
+    + .graph-status-name {
+      padding-top: 10px;
+    }
+    .graph-status-value {
+      display: inline-block;
+    }
+
+  }
+
+}
+
+.quotation-progress-chart {
+  @include size(100%, 370px);
+}
+
+/*end:*/
+@include breakpoint($desktop) {
+  .won-lost-break-down .view-state.view-state-lost {
+    margin-bottom: 20px;
+  }
+}
+
+@include breakpoint($laptop) {
+  .won-lost-break-down .view-state.view-state-lost {
+    margin-bottom: 0;
+  }
+}
+
+

@@ -1,0 +1,372 @@
+.file-upload-block {
+
+  &.single-option {
+
+    .file-upload {
+      min-height: 0;
+      padding: 15px;
+    }
+  }
+
+  > label {
+    color: #5b6169;
+    font-size: 14px;
+  }
+
+  .btn {
+    background-color: #f4f4f4;
+    border: none;
+    color: #9c9c9c;
+    font-size: 14px;
+    padding: 10px 25px;
+  }
+
+  .dropdown-item {
+    cursor: default;
+    position: relative;
+
+    &:hover {
+      background-color: $white;
+      color: #4a90e2;
+    }
+  }
+
+  .file-upload {
+    @include border-radius(3px);
+    background-color: #fbfbfb;
+    border: 2px dashed #d2e2e8;
+    position: relative;
+    text-align: center;
+    line-height: 25px;
+    color: #9c9c9c;
+    padding: 45px 15px;
+    min-height: 165px;
+
+    input[type="file"] {
+      @include absolute(0, 0);
+      @include square(100%);
+      @include opacity(0);
+    }
+
+    .progress-wrap {
+      padding: 15px 100px 0 60px;
+    }
+
+    .progress-content {
+      position: relative;
+      border: 2px solid #4a90e2;
+      @include border-radius(10px);
+      background-color: $white;
+      padding: 6px;
+
+      .progress {
+        height: 5px;
+        background-color: $white;
+
+        .progress-bar {
+          background-color: #4a90e2;
+        }
+      }
+
+      .progress-close {
+        @include absolute(-6px, -40px);
+        @include border-radius(50%);
+        @include size(25px, 25px);
+        @include font($size: 10px);
+        border: 2px solid #9d9d9d;
+        color: #9d9d9d;
+        line-height: 10px;
+        padding: 6px;
+        display: inline-block;
+        vertical-align: middle;
+      }
+    }
+
+    &:hover {
+      .file-upload-text {
+        span {
+          color: #4a90e2;
+        }
+      }
+    }
+
+  }
+
+  .file-upload-button {
+    display: inline-block;
+    margin-top: 10px;
+    position: relative;
+
+    .fi {
+      font-size: 20px;
+      line-height: 1;
+      margin-right: 5px;
+      vertical-align: text-bottom;
+    }
+
+    &.show {
+
+      .btn {
+        background-color: #4a90e2;
+        color: $white;
+      }
+    }
+
+  }
+
+  .file-upload-text {
+    @include font($size: 15px);
+    color: #5b6169;
+
+    span {
+      @include border-radius(4px);
+      display: block;
+      color: #9c9c9c;
+      text-align: center;
+      font-weight: bold;
+      margin: 10px auto;
+      max-width: 160px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      text-transform: uppercase;
+
+      .fi {
+        font-size: 20px;
+        margin-right: 5px;
+      }
+
+    }
+
+  }
+  &:hover {
+    .btn {
+      background-color: $primary-color;
+      color: $white;
+    }
+  }
+}
+
+.file-message-box {
+
+  .fi {
+    border: 3px solid #6addad;
+    color: #6addad;
+    border-radius: 50%;
+    @include size(35px, 35px);
+    line-height: 18px;
+    padding: 6px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
+.upload-error {
+
+  .file-upload {
+    border: 2px dashed #facdc2;
+    background-color: #fdede9;
+
+    .fi {
+      border: 3px solid #de350b;
+      color: #de350b;
+    }
+
+  }
+}
+
+.upload-success {
+
+  .file-upload {
+    border: 2px dashed #a2ebcd;
+    background-color: #e3f7ef;
+
+    .fi {
+      border: 3px solid #6addad;
+      color: #6addad;
+    }
+  }
+}
+
+/* Uploaded Files */
+.uploaded-file {
+  margin-top: 15px;
+
+  .custom-checkbox,
+  .custom-radio {
+    @include relative(3px);
+
+    label {
+      padding-left: 20px;
+    }
+  }
+
+  table {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  tr {
+    background-color: #ecf0f4;
+    border-bottom: 4px solid $white;
+  }
+
+  th,
+  td {
+    font-size: 13px;
+    padding: 5px 10px;
+
+    &:first-child {
+      width: 40px;
+    }
+
+    &:last-child {
+      width: 70px;
+      text-align: center;
+    }
+  }
+
+  th,
+  strong {
+    color: #5b6169;
+  }
+
+  td {
+    color: #9c9c9c;
+  }
+
+  .action {
+    cursor: pointer;
+
+    & + .action {
+      margin-left: 15px;
+    }
+  }
+
+  .download {
+    font-size: 14px;
+
+    &:hover {
+      color: $black;
+    }
+  }
+
+  .remove {
+    font-size: 9px;
+
+    &:hover {
+      color: $error-color;
+    }
+  }
+}
+
+.file-upload-custom{
+     display: inline;
+     position: relative;
+
+    .file-upload{
+        padding: 0;
+        border: none;
+        min-height: auto;
+        text-align: left;
+        display: inline;
+
+      .file-upload-button{
+        margin-top: 0;
+      }
+
+    }
+  .btn{
+    @include border-radius(0);
+    background-color: $primary-color;
+    color: $white;
+    padding: 8px 26px;
+
+    &:hover {
+      background-color: $info-color;
+      border-color: $info-color;
+    }
+
+    &:focus,
+    &:not([disabled]):not(.disabled):active {
+      background-color: $secondary-color;
+      border-color: $secondary-color;
+    }
+
+    &.disabled {
+      background-color: $disabledbtn-color;
+      border-color: $disabledbtn-color;
+    }
+    &.hover {
+      background-color: $info-color;
+      border-color: $info-color;
+    }
+    &.pressed {
+      background-color: $secondary-color;
+      border-color: $secondary-color;
+    }
+
+  }
+
+}
+
+.plus-circle-upload {
+  margin: 0 0 0 20px;
+}
+
+/*start:Plus FIle Uploader*/
+.plus-file-upload{
+  .file-upload-button {
+        @include display-flex;
+        padding: 0;
+        background-color: #ebebeb;
+        height: 140px;
+        margin: 0;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+
+        &:hover {
+          background-color: $info-color;
+          border-color: $info-color;
+        }
+
+        &:focus,
+        &:not([disabled]):not(.disabled):active {
+          background-color: $secondary-color;
+          border-color: $secondary-color;
+        }
+
+        &.disabled {
+          background-color: $disabledbtn-color;
+          border-color: $disabledbtn-color;
+        }
+        &.hover {
+          background-color: $info-color;
+          border-color: $info-color;
+        }
+        &.pressed {
+          background-color: $secondary-color;
+          border-color: $secondary-color;
+        }
+        input[type="file"]{
+          cursor: pointer;
+        }
+   }
+
+  .icon-circle.large .fa-plus {
+    @include size(24px,24px);
+    position: relative;
+    cursor: pointer;
+  }
+
+  .icon-circle.large .fa-plus:before {
+    @include size(24px,24px);
+    @include absolute($top: 0,$right: 0);
+    content: '';
+    background: url(../images/add-plus-icon.png) no-repeat;
+  }
+
+}
+
+
+/*end:Plus FIle Uploader*/

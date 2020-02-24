@@ -1,0 +1,333 @@
+.admin-timeline-filter {
+  max-width: 760px;
+  .timeline-filter-headingtext {
+    border-bottom: 1px solid $primary-color;
+    padding: 0 0 8px 0;
+    margin: 0 0 15px 0;
+
+    p {
+      @include font($size: 14px, $weight: 700);
+      color: $default-color;
+      line-height: 20px;
+      text-align: left;
+      margin: 0;
+      padding: 0;
+      position: relative;
+
+      .timeline-bulet {
+        @include absolute($top: 12px, $right: 0, $bottom: null, $left: null);
+        @include size(7px, 7px);
+        transform: rotate(180deg);
+        border: none;
+        content: '';
+        cursor: pointer;
+        outline: none;
+        background: url(../images/select-arrow.png) no-repeat;
+
+        &:focus {
+          outline: none;
+        }
+        &.active {
+          transform: rotate(0);
+          top: 14px;
+        }
+      }
+
+    }
+
+  }
+  .timeline-filter-body {
+    padding-bottom: 35px;
+
+    .timeline-filter {
+      @include display-flex;
+
+      .filter-by-field-admin {
+        @include display-flex;
+
+        .form-group {
+          width: 50%;
+          & + .form-group {
+            margin-left: 15px;
+          }
+        }
+
+      }
+
+      .left-part,
+      .right-part {
+        width: 50%;
+      }
+
+      .right-part {
+        margin-left: 15px;
+      }
+
+    }
+
+    .timeline-filter-button-group {
+      @include display-flex;
+      padding-top: 10px;
+
+      .btn {
+        @include border-radius(0);
+        border: none;
+        height: 25px;
+        color: $white;
+        padding: 0 25px;
+        margin-right: 15px;
+
+        &.reset-timeline-btn {
+          color: $gray-color-deep;
+          background-color: $gray-color;
+          &:hover {
+            color: $white;
+            background-color: $primary-color;
+          }
+          &:focus {
+            color: $white;
+            background-color: $primary-color;
+          }
+        }
+
+        &.search-timeline-btn {
+          background-color: $primary-color;
+          &:hover {
+            color: $white;
+            background-color: $black;
+          }
+          &:focus {
+            color: $white;
+            background-color: $black;
+          }
+        }
+
+      }
+
+    }
+  }
+}
+
+
+
+
+
+
+
+.admin-top-right-search-filter {
+  text-align: right;
+  .form-group {
+    width: 180px;
+    display: inline-block;
+    vertical-align: top;
+    & + .form-group {
+      margin-left: 15px;
+    }
+    &.form-group-submit {
+      width: auto;
+      .btn {
+        padding: 4px 22px;
+      }
+    }
+  }
+}
+
+.admin-status-split {
+  width: 150px;
+}
+
+.admin-action-split {
+  width: 140px;
+  span {
+    display: inline-block;
+    vertical-align: top;
+    & + span {
+      margin-left: 15px;
+    }
+  }
+
+}
+
+.admin-auditlog-filter{
+  padding-top: 15px;
+  .auditlog-top-filter {
+    padding-bottom: 15px;
+    @include display-flex;
+    form {
+      display: inherit;
+    }
+
+    .title {
+      font-size: 12px;
+      padding-top: 4px;
+      margin-right: 15px;
+    }
+
+    .customer-domain,
+    .customer-domain-name {
+      width: 183px;
+      margin-right: 15px;
+    }
+
+    .search-customer-btn {
+      .btn {
+        padding: 4px 24px;
+      }
+    }
+
+  }
+  .auditlog-bottom-filter {
+    @include display-flex;
+    position: relative;
+    padding-bottom: 15px;
+    justify-content: space-between;
+    @include breakpoint($laptop){
+      flex-direction: column;
+    }
+    .auditlog-search-history {
+      @include display-flex;
+      form {
+        display: inherit;
+      }
+      .title {
+        font-size: 12px;
+        padding-top: 4px;
+        margin-right: 14px;
+      }
+
+      .customer-id-section {
+        @include display-flex;
+        .form-group {
+          width: 257px;
+          margin-right: 14px;
+        }
+      }
+
+      .date-field-section {
+        @include display-flex;
+        .form-group {
+          width: 98px;
+          display: inline-block;
+          vertical-align: top;
+          & + .form-group {
+            margin-left: 14px;
+          }
+        }
+      }
+      .search-button-group{
+        @include display-flex;
+        .btn {
+          height: 26px;
+          padding: 5px 23px;
+          margin-left: 14px;
+        }
+      }
+
+
+    }
+    .auditlog-export-filter {
+      @include display-flex;
+      margin-left: 14px;
+      @include breakpoint($laptop){
+        margin-left: 0;
+      }
+      form {
+        display: inherit;
+      }
+      .form-group {
+        width: 183px;
+        display: inline-block;
+        vertical-align: top;
+      }
+      .export-button {
+        @include  font($size: 12px,$weight: 700);
+        @include border-radius(0);
+        @include size(100px, 26px);
+        padding: 5px 0 5px 40px;
+        line-height: 17px;
+        background-image: url(../images/icons/export-small-icon.png);
+        margin-left: 15px;
+        border: none;
+        color: $white;
+        &:hover {
+          color: $white;
+          background-color: $info-color;
+        }
+        &:focus {
+          background-color: $secondary-color;
+          border-color: $secondary-color;
+        }
+      }
+
+    }
+
+  }
+}
+
+
+
+
+
+
+
+.admin-add-employee {
+  max-width: 615px;
+  .admin-officer-section {
+    border-bottom: 1px solid $off-white;
+    border-top: 1px solid $off-white;
+    padding: 30px 0;
+    margin: 30px 0;
+    .title {
+      font-size: 16px;
+      font-weight: bold;
+      padding: 0 0 10px 0;
+    }
+  }
+
+}
+
+.vertical-menu-of-base-permission {
+  ul {
+    margin: 0;
+    padding: 0;
+    li {
+      list-style: none;
+      margin: 0;
+      padding: 0 0 15px 0;
+      ul {
+        padding-left: 40px;
+        padding-top: 15px;
+      }
+    }
+
+  }
+}
+
+.person-moderator {
+  h5{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 10px 0;
+  }
+
+  .custom-radio {
+    label{
+      padding-left: 25px;
+    }
+    &.yes-btn {
+      margin-left: 50px;
+    }
+
+  }
+
+  .add-employee-submitbtn {
+    padding: 40px 0 0 0;
+    .btn{
+      padding: 8px 50px;
+      text-transform: uppercase;
+      font-size: 13px;
+      letter-spacing: 0.5px;
+    }
+  }
+
+}

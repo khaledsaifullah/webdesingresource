@@ -1,0 +1,161 @@
+/* Popup Overlay */
+.popup-overlay {
+
+  &:before {
+    @include fixed(0, $left: 0);
+    @include square(100%);
+    background-color: rgba($black, 0.2);
+    content: '';
+    z-index: 99;
+  }
+}
+
+/* Popup Common */
+.popup-container {
+  @include size(100%, 100%);
+  @include fixed(0, $left: 0);
+  @include display-flex;
+  @include align-items(center);
+  @include justify-content(center);
+  background-color: rgba(0, 0, 0, 0.65);
+  padding: 50px;
+
+  .popup-content {
+    @include display-flex;
+    @include flex-direction(column);
+    width: 650px;
+    max-width: 650px;
+    max-height: 100%;
+    margin: 0 auto;
+    position: relative;
+
+  }
+}
+
+.popup-head {
+  flex: none;
+  position: relative;
+  background-color: #f68d5f;
+  padding: 25px 20px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+
+  .popup-title {
+    color: $white;
+    font-size: 20px;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+  }
+
+  .popup-close {
+    @include absolute(50%, 22px);
+    @include translateY(-50%);
+    cursor: pointer;
+
+    &:before {
+      @include icon('\f12c', $white, 18px);
+    }
+
+    &:hover {
+      text-decoration: none;
+
+      &:before {
+        color: rgba($white, 0.9);
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.popup-body {
+  @include flex(auto);
+  min-height: 0;
+  overflow: auto;
+  background-color: $white;
+  padding: 20px;
+
+  .popup-body-inner {
+    border-radius: 3px;
+    background-color: #fafafa;
+    text-align: left;
+    padding: 15px;
+  }
+}
+
+.popup-footer {
+  flex: none;
+  border-top: 1px solid #efefef;
+  background-color: #fafafa;
+  padding: 25px 20px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  text-align: left;
+
+  .btn + .btn {
+    margin-left: 15px;
+  }
+}
+
+/*Bootstrap Modal Overwrite*/
+.modal {
+  z-index: 888;
+}
+
+.modal-backdrop {
+  z-index: 777;
+}
+
+.modal-dialog {
+
+  &.sm {
+    max-width: 650px;
+  }
+
+  &.md {
+    max-width: 750px;
+  }
+
+  &.lg {
+    max-width: 950px;
+  }
+
+  .modal-content {
+    border: none;
+
+    .modal-header {
+      padding: 25px 30px;
+      border-bottom: 1px solid #efefef;
+
+      h5 {
+        color: $header-color;
+        font-size: 20px;
+        font-weight: 600;
+      }
+    }
+
+    .modal-body {
+      padding: 25px 30px;
+
+      &.scroll {
+        max-height: 400px;
+        overflow: auto;
+      }
+
+    }
+
+    .modal-footer {
+      padding: 25px 30px;
+      background-color: #fafafa;
+      border-top: 1px solid #efefef;
+      border-bottom-left-radius: 5px;
+      border-bottom-right-radius: 5px;
+
+      .text-btn {
+        background-color: transparent;
+        border: none;
+      }
+    }
+  }
+}

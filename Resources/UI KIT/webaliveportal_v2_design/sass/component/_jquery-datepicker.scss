@@ -1,0 +1,132 @@
+.ui-datepicker.ui-widget.ui-widget-content{
+  @include box-shadow(0 0 13px 0 rgba(0, 0, 0, 0.12));
+  color: $default-color;
+  font-family: $gilroy;
+  font-style: normal;
+  width: 310px;
+  padding: 15px 10px;
+  max-height: none;
+  overflow: initial;
+  border: none;
+  margin-top: 5px;
+  .ui-widget-header {
+    @include  font($size: 14px,$weight: normal);
+    background-color: $white;
+    color: $default-color;
+    border: 1px solid transparent;
+  }
+
+  .ui-datepicker-title {
+    @include  font($size: 15px,$weight: normal);
+    color: $default-color;
+    text-transform: none;
+  }
+
+}
+
+
+
+
+.ui-datepicker .ui-widget-header .ui-datepicker-prev:before {
+  content: "\f155";
+  display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.ui-datepicker .ui-widget-header .ui-datepicker-prev:hover:before {
+  color: $primary-color
+}
+
+.ui-datepicker .ui-widget-header .ui-datepicker-prev span {
+  visibility: hidden;
+}
+
+.ui-datepicker .ui-widget-header .ui-datepicker-prev,
+.ui-datepicker .ui-widget-header .ui-datepicker-prev.ui-state-hover {
+  border: none;
+  background-color: transparent;
+  background-position: 0 0;
+  font-style: normal;
+  left: 6px;
+  top: 2px;
+  cursor: pointer;
+}
+
+.ui-datepicker table.ui-datepicker-calendar thead th {
+  @include  font($size: 11px,$weight: normal);
+  color: $heading-color;
+  padding: 10px 5px;
+  text-transform: uppercase;
+}
+
+.ui-datepicker table.ui-datepicker-calendar tbody td span,
+.ui-datepicker table.ui-datepicker-calendar tbody td a {
+  @include  font($size: 15px,$weight: normal);
+  color: $default-color;
+  background-color: $white;
+  text-align: center;
+  border: 1px solid transparent;
+  padding: 5px;
+}
+
+.ui-datepicker table.ui-datepicker-calendar td a:hover,
+.ui-datepicker table.ui-datepicker-calendar td a.ui-state-highlight,
+.ui-datepicker table.ui-datepicker-calendar td a.ui-state-active{
+  @include border-radius(50%);
+  color: $primary-color;
+  background-color: #fef3ef;
+}
+
+.ui-datepicker .ui-widget-header .ui-datepicker-next, .ui-datepicker .ui-widget-header .ui-datepicker-next.ui-state-hover,
+.ui-datepicker .ui-widget-header .ui-datepicker-prev, .ui-datepicker .ui-widget-header .ui-datepicker-prev.ui-state-hover{
+  top: 6px;
+}
+
+.ui-datepicker .ui-widget-header .ui-datepicker-next:before {
+  content: "\f152";
+  display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.ui-datepicker .ui-widget-header .ui-datepicker-next:before,
+.ui-datepicker .ui-widget-header .ui-datepicker-prev:before{
+  font-size: 10px;
+}
+
+.ui-datepicker .ui-widget-header .ui-datepicker-next:hover:before {
+  color: #f68d5f;
+}
+
+.ui-datepicker .ui-widget-header .ui-datepicker-next span {
+  visibility: hidden;
+}
+
+.ui-datepicker .ui-widget-header .ui-datepicker-next,
+.ui-datepicker .ui-widget-header .ui-datepicker-next.ui-state-hover {
+  border: none;
+  background-color: transparent;
+  background-position: 0 0;
+  font-style: normal;
+  right: 0;
+  top: 10px;
+  cursor: pointer;
+  font-size: 10px;
+}

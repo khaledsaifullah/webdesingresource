@@ -1,0 +1,345 @@
+.message-feeback {
+  position: relative;
+  border-bottom: 1px solid $off-white;
+  border-top: 1px solid $off-white;
+  padding: 45px 0;
+  h5 {
+    @include font($size: 12px, $weight: 700);
+    color: $default-color;
+    margin: 0;
+    padding: 0 0 10px 0;
+  }
+  p {
+    @include font($size: 12px, $weight: 400);
+    color: $default-color;
+    line-height: 18px;
+    margin: 0;
+    padding: 0;
+  }
+  .message-feeback-content {
+    padding-left: 60px;
+  }
+  .message-feeback-picture {
+    @include size(38px, 38px);
+    @include absolute($top: 45px, $left: 0);
+    @include border-radius(50%);
+    background-color: $gray-color;
+    overflow: hidden;
+    img {
+      @include size(100%, 100%);
+      object-fit: cover;
+    }
+  }
+
+  .message-feeback-status {
+    @include font($size: 10px, $weight: 400);
+    color: $default-color;
+    padding: 10px 0 0 0;
+    .message-feeback-status-count {
+      background: url(../images/icons/like-icon.png) no-repeat 0 2px;
+      padding: 0 6px 0 20px;
+      &.active {
+        color: $primary-color;
+        font-weight: bold;
+        background: url(../images/icons/like-active-icon.png) no-repeat 0 2px;
+      }
+    }
+  }
+  .message-feeback-publish-date {
+    @include font($size: 10px, $weight: 700);
+    @include absolute($top: 45px, $right: 0);
+    @include display-flex;
+    @include flex-direction(column);
+    color: $default-color;
+    text-align: right;
+    z-index: 1;
+  }
+  .message-feeback-upload-filename {
+    padding: 20px 0 0 0;
+    a {
+      color: #000000;
+      font-size: 11px;
+      text-decoration: underline;
+      & + a {
+        margin-left: 30px;
+      }
+    }
+  }
+  .message-feeback-publish-date-edit {
+    @include font($size: 10px, $weight: 700);
+    @include absolute($top: 0, $right: 0);
+    @include display-flex;
+    @include justify-content(center);
+    @include align-items (center);
+    justify-content: center;
+    color: $default-color;
+  }
+
+
+}
+
+.message-email-content-footer {
+  padding-top: 20px;
+}
+
+.message-feeback:last-of-type {
+  border-bottom: none;
+}
+
+.project-detail-message-content {
+
+  ul {
+    margin: 0;
+    padding: 0;
+    li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      border-bottom: 1px solid $gray-color;
+      &:first-child {
+        .message-feeback {
+          border-top: none;
+        }
+      }
+
+      ul {
+        padding-left: 8%;
+      }
+
+      &.parent {
+        border-bottom: none;
+        .message-feeback {
+          border-bottom: none;
+        }
+        ul {
+          li {
+            &:first-child {
+              .message-feeback {
+                border-top: none;
+              }
+            }
+            &:last-child {
+              border-bottom: none;
+              .message-feeback {
+                border-top: none;
+              }
+            }
+          }
+        }
+      }
+
+    }
+
+  }
+
+}
+
+.download-project-files {
+  padding-top: 15px;
+}
+
+.project-file-detail-section .download-project-files {
+  padding-top: 0;
+}
+
+.message-replay-button {
+  padding: 10px 0 0 0;
+
+  .btn {
+    @include size(28px, 28px);
+    @include border-radius(50%);
+    background-color: $gray-color;
+    line-height: 28px;
+    border: none;
+    padding: 0;
+    margin: 0;
+
+    & + .btn {
+      margin-left: 10px;
+    }
+
+    .fa[class*="fa-"] {
+      font-size: 10px;
+    }
+
+  }
+
+  .btn-reply-toggler {
+    @include size(28px, 28px);
+    @include border-radius(50%);
+    background-color: $gray-color;
+    line-height: 28px;
+    border: none;
+    padding: 0;
+    margin: 0;
+    color: #9c9c9c;
+    display: inline-block;
+    text-align: center;
+
+    &:hover {
+      color: #212529;
+    }
+
+    & + .btn-reply-toggler {
+      margin-left: 10px;
+    }
+
+    .fa[class*="fa-"] {
+      font-size: 10px;
+    }
+
+  }
+
+}
+
+.comment-form-fileupload-wrap {
+  .file-upload-custom {
+    display: inline-block;
+    position: relative;
+    .file-upload {
+      display: inline-block;
+      margin: 0 8px 6px 0;
+      vertical-align: middle;
+      .file-upload-button {
+        vertical-align: top;
+      }
+      .icon-square {
+        @include size(33px, 36px);
+        line-height: 35px;
+        position: relative;
+        vertical-align: top;
+      }
+    }
+  }
+
+}
+
+.reply-file-upload-block {
+  vertical-align: top;
+  div[class*="reply-file-upload-"] {
+    display: inline-block;
+    position: relative;
+    margin: 0 12px 6px 0;
+    vertical-align: top;
+    padding: 0;
+    border: none;
+    text-align: left;
+  }
+
+  .btn {
+    border: none;
+    vertical-align: top;
+  }
+
+  input[type="file"] {
+    @include square(100%);
+    @include absolute($top: 0, $left: 0);
+    opacity: 0;
+  }
+
+  .icon-square {
+    @include size(33px, 30px);
+    line-height: 30px;
+    position: relative;
+    vertical-align: top;
+  }
+
+  .plus-circle-upload {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    z-index: 9999;
+  }
+
+}
+.comment-detail-content-section {
+  .comment-description{
+    padding: 0;
+    border: none;
+    .title-description{
+      border-bottom: 1px solid $gray-color;
+      padding: 0 0 10px 0;
+      margin-bottom: 20px;
+    }
+    & + .comment-group-btn{
+      padding: 0;
+      margin: 0;
+    }
+    .right-title-text {
+      @include display-flex;
+      @include align-items(center);
+      @include justify-content(space-between);
+    }
+  }
+}
+
+.add-message-content-list {
+  padding: 50px 0 0 0;
+
+  .message-feeback {
+    border-top:none;
+    padding: 45px 0 0 0;
+    & + .btn {
+      margin-left: 60px;
+      & ~ .btn {
+        margin-left: 10px;
+      }
+    }
+
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+    li {
+      margin: 0;
+      padding: 0 0 30px 0;
+      list-style: none;
+      border-bottom: 1px solid $gray-color;
+      &:last-child{
+        border-bottom: none;
+      }
+    }
+  }
+
+}
+
+
+.comment-form-body-content .reply-texteditor-shape{
+  margin-top: 0;
+}
+
+
+.project-detail-content-wrapper {
+  max-width: 1100px;
+
+  .message-feeback-content {
+    position: relative;
+  }
+
+  .project-detail-message-content{
+    .message-feeback-publish-date{
+      top: 0;
+    }
+  }
+
+}
+.project-detail-content-edit-wrapper {
+  max-width: 1100px;
+}
+
+.project-messages-section-wrapper{
+  max-width: 1100px;
+}
+
+.project-file-section-wrapper{
+  max-width: 1100px;
+  .comment-form-body-content{
+    .download-file-name{
+        margin-top: 15px;
+    }
+  }
+
+}
+
+

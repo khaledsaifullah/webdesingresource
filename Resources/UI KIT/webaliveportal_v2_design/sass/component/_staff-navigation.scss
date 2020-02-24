@@ -1,0 +1,78 @@
+.staff-list-item {
+  padding-top: 15px;
+
+  span {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: inline-block;
+      vertical-align: top;
+
+      & + li {
+        margin-left: 40px;
+      }
+
+      .avatar {
+        @include square(22px);
+      }
+
+      .team-mate {
+        .avatar {
+          margin-right: -8px;
+          outline: none;
+        }
+      }
+
+    }
+  }
+
+}
+
+.web-package-staff-roll {
+  @include display-flex;
+  @include flex-wrap(wrap);
+  padding: 20px 0 0 0;
+
+  .web-package-name-field {
+    position: relative;
+    padding-right: 25px;
+    margin-right: 40px;
+
+    .web-package-edit {
+      @include absolute($top: 0, $right: 0);
+      display: none;
+    }
+
+    .team-rank-value {
+      @include font($size: 14px, $weight: 700);
+      display: inline-block;
+      vertical-align: top;
+    }
+
+    .team-group{
+      .team-rank-value {
+        margin-right: 10px;
+      }
+    }
+
+  }
+
+}
+
+.page-project-overview-wrapper{
+  .project-time-line .step-timeline{
+    padding-left: 10px;
+  }
+  .comment-right-part .edit-link {
+    margin-left: 15px;
+  }
+}

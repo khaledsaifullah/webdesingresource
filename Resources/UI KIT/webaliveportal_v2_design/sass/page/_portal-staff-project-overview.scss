@@ -1,0 +1,169 @@
+.staff-project-overview {
+  padding-top: 65px;
+  max-width: 1048px;
+  span {
+    margin-right: 16px;
+  }
+
+  h4 {
+    color: $primary-color;
+    padding-bottom: 12px;
+    font-weight: bold;
+    font-size:18px;
+    position: relative;
+  }
+
+ .inactive-color{
+   label{
+     color: $inactive-color;
+   }
+ }
+
+}
+
+.brief-sitemap {
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    line-height: 30px;
+    list-style-type: none;
+  }
+}
+
+.list-action {
+  li {
+    color: $primary-color;
+    cursor: pointer;
+    a{
+      color: $primary-color;
+    }
+  }
+}
+
+
+.time-line-overview{
+  margin-top:50px;
+}
+
+.brief-sitemap-content{
+  padding-top: 40px;
+
+  h4{
+    color: #f68d5f;
+    padding-bottom: 12px;
+    font-weight: bold;
+    font-size: 18px;
+    position: relative;
+  }
+  .table-normal{
+    width: 70%;
+    a{
+      color: $primary-color;
+    }
+  }
+
+}
+
+
+.project-milestone-table tbody tr td:last-of-type{
+  width: 110px;
+}
+
+
+.planning-milestone-checklist-wrap{
+  line-height:24px;
+}
+.planning-milestone-checklist-wrap label{
+     text-decoration:underline;
+}
+
+
+.web-sub-title{
+  margin-top: 25px;
+}
+
+
+.progress-milestone{
+    position: relative;
+    .progress-milestone-add{
+       @include absolute($top: 30px, $right: null, $bottom: null, $left: 0) ;
+       width: 300px;
+       display: none;
+      .progress-milestone-add-content{
+        @include display-flex;
+        input[type="text"]{
+          width: 270px;
+        }
+        input[type="submit"]{
+          @include  font($size: 12px,$weight: 700);
+          border: none;
+          margin-left: 8px;
+          padding: 4px 20px;
+          outline: none;
+          box-shadow: none;
+          -webkit-transition: all 0.5s ease 0s;
+          transition: all 0.5s ease 0s;
+
+          &:focus{
+            outline: none;
+            box-shadow: none;
+          }
+
+          &:hover{
+            outline: none;
+            box-shadow: none;
+          }
+
+        }
+      }
+    }
+}
+.milestone-checklist-row  {
+  .progress-icon{
+    margin: 0;
+    width: 8px;
+    position: relative;
+    top: 6px;
+  }
+
+}
+
+
+.latest-project-message{
+  padding-top: 100px;
+
+  .latest-project-heading{
+    border-bottom: 1px solid $primary-color;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+
+    & + .comment-description{
+      padding-top: 0;
+    }
+
+    h3{
+      @include  font($size: 18px,$weight: 700);
+      margin: 0;
+      padding: 0;
+    }
+
+    .view-more-link{
+      margin-left: 20px;
+    }
+
+  }
+
+
+}
+.project-title-heading{
+  & + .comment-description{
+    margin-top: 0;
+  }
+
+}
+
+.project-btn-group{
+  padding-top: 30px;
+}

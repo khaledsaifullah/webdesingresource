@@ -1,0 +1,147 @@
+/*** Start Bootstrap Overwritten ***/
+
+.dropdown-menu {
+  @include box-shadow(0 0 15px 0 rgba($black, 0.25));
+  border: 1px solid #dce2f0;
+  max-height: 265px;
+  overflow: auto;
+}
+
+.dropdown-item {
+  cursor: pointer;
+  color: #5b6169;
+  font-size: 14px;
+  padding: 7px 20px;
+
+  &:focus,
+  &:hover {
+    color: $primary-color;
+    background-color: #faf4f5;
+  }
+}
+
+.show {
+
+  .btn {
+
+    &.dropdown-toggle {
+      background-color: #871634;
+      border-color: #871634;
+
+      &:focus,
+      &:active,
+      &:not([disabled]):not(.disabled).active:focus,
+      &:not([disabled]):not(.disabled):active:focus {
+        @include box-shadow(none);
+        outline: 0;
+      }
+    }
+  }
+}
+
+.filter-group {
+  @include display-flex;
+  @include flex-wrap(wrap);
+  margin-left: -10px;
+  margin-right: -10px;
+
+  .dropdown-sm,
+  .date-time-normal,
+  .dropdown-normal {
+    margin: 10px 6px;
+
+    label {
+      color: #9c9c9c;
+    }
+  }
+}
+
+
+/* Action Dropdown */
+.dropdown-action {
+
+  .btn {
+    padding: 10px 15px;
+  }
+
+  .dropdown-toggle {
+    @include user-select(none);
+    cursor: pointer;
+
+    .fi {
+      margin: 0;
+    }
+
+    &:after {
+      display: none;
+    }
+  }
+
+  .dropdown-item {
+
+    &:focus,
+    &:hover {
+      background-color: $white;
+    }
+  }
+
+  .action-button {
+    color: #9c9c9c;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    padding-right: 30px;
+    position: relative;
+
+    &:after {
+      @include absolute(5px, 0);
+      @include square(auto);
+      @include icon('\f157', #9c9c9c, 10px);
+      font-weight: bold;
+      border: none;
+      display: inline-block;
+    }
+  }
+
+  &.show {
+
+    .action-button {
+
+      &:after {
+        content: "\f151";
+      }
+    }
+  }
+}
+
+/*** End Bootstrap Overwritten ***/
+
+/* File Attachment Dropdown */
+.attachment {
+
+  .dropdown-item {
+    cursor: pointer;
+    position: relative;
+
+    input[type="file"] {
+      @include absolute($left: 0);
+      @include opacity(0);
+      cursor: pointer;
+      text-indent: -200px;
+      width: 100%;
+    }
+  }
+
+  .attachment-icon {
+    @include border-radius(50%);
+    @include square(50px);
+    background-color: #f68d5f;
+    color: $white;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+  }
+
+}
