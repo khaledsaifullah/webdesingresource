@@ -1,0 +1,146 @@
+const WelcomeScreen =()=>
+<View>
+    <Header title="Welcome to React Native" />
+    <Text>Step One</Text>
+</View>
+
+
+<View>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+    <Text></Text>
+</View>
+
+
+<View>
+    <Blink text='I love to blink' />
+    <Blink text='Yes blinking is so great' />
+    <Blink text='Why did they ever take this out of HTML' />
+    <Blink text='Look at me look at me look at me' />
+</View>
+
+---------------------------------------------------------------
+<script type="text/javascript">
+    import React, { Component } from 'react';
+    import { StyleSheet, Text, View } from 'react-native';
+
+    const styles = StyleSheet.create({
+        bigBlue: {
+            color: 'blue',
+            fontWeight: 'bold',
+            fontSize: 30,
+        },
+        red: {
+            color: 'red',
+        },
+    });
+
+    export default class LotsOfStyles extends Component {
+        render() {
+            return (
+            <View>
+                <Text style={styles.red}>just red</Text>
+                <Text style={styles.bigBlue}>just bigBlue</Text>
+                <Text style={[styles.bigBlue, styles.red]}>bigBlue, then red</Text>
+                <Text style={[styles.red, styles.bigBlue]}>red, then bigBlue</Text>
+            </View>
+        );
+        }
+    }
+</script>
+--------------------Height and Width Fixed Dimensions------------------------------------------
+<script type="text/javascript">
+    import React, { Component } from 'react';
+    import { View } from 'react-native';
+
+    export default class FixedDimensionsBasics extends Component {
+        render() {
+            return (
+                <View>
+                    <View style={{width: 50, height: 50, backgroundColor: 'powderblue'}} />
+                    <View style={{width: 100, height: 100, backgroundColor: 'skyblue'}} />
+                    <View style={{width: 150, height: 150, backgroundColor: 'steelblue'}} />
+                </View>
+        );
+        }
+    }
+</script>
+-------------------------Layout with Flexbox-------------------------------------
+<script type="text/javascript">
+    import React, { Component } from 'react';
+    import { View } from 'react-native';
+
+    export default class FlexDirectionBasics extends Component {
+        render() {
+            return (
+            // Try setting `flexDirection` to `column`.
+            <View style={{flex: 1, flexDirection: 'row'}}>
+                <View style={{width: 50, height: 50, backgroundColor: 'powderblue'}} />
+                <View style={{width: 50, height: 50, backgroundColor: 'skyblue'}} />
+                <View style={{width: 50, height: 50, backgroundColor: 'steelblue'}} />
+            </View>
+        );
+        }
+    };
+</script>
+---------------------------Layout-----------------------------------
+<script type="text/javascript">
+    import React, { Component } from 'react';
+    import { StyleSheet, Text, View } from 'react-native';
+
+    const styles = StyleSheet.create({
+        container: {
+            flex: 1,
+            justifyContent: 'center',
+            alignItems: 'center',
+            backgroundColor: '#000000',
+            borderWidth: 1,
+            flexDirection: 'column',
+        },
+        header: {
+            flex: 1,
+            justifyContent: 'center',
+            alignItems: 'center',
+            backgroundColor: '#cccccc',
+            borderWidth: 1,
+            flexDirection: 'column',
+        },
+
+
+    });
+
+    export default class WelcomeScreen extends Component {
+        render() {
+            return (
+            <View style={styles.container}>
+                <View style={styles.header}>
+                    <Text>Header Text</Text>
+                </View>
+            </View>
+        );
+        }
+    }
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
