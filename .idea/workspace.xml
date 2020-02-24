@@ -2,350 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/RGS4_html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/RGS4_html.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/dashboard.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/dashboard/images/excel_import.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/dashboard/images/export_excel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/dashboard/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/pip_design" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/_gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/action-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/bar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/bg-login.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/bg-login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/check-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/cross-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/edit-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/filter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/footer-link.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/icons-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/log-out-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/logo-business.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/menu-active-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/notification.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/reload-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/uni-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/view-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/img/w-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/font/Flaticon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/font/Flaticon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/font/Flaticon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/font/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-SemiBold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-SemiBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-SemiBold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-SemiBold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/Lily-Webalive-Site.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/action-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/add-plus-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/admin-login-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/angle-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/arrow-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/bar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/bg-login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/check-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/cherry-sm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/cherry.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/cross-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/customers-by-stage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/customers-by-stage2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/edit-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/export-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/filter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/footer-link.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/grid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icon-asset.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icon-plus-large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icon-plus-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/HubSpot-Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/any-query-plz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/close-popup-manager.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/close-popup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/contact_create.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/custom-icon-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/customer_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/customers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/email-arrow-link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/email-temp-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/email_recv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/email_sent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/export-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/export-small-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/eye-small-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/fa-download-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/file_upload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-conversion-rate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-conversion-sales.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-emp-template.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-hubspot-temp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-job-calendar-time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-led-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-opportunities-leads.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-opportunities-stage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-paperclip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-users-stage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/icon-work-flow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/job.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/job_won.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/like-active-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/like-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/lock-small-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/mini-minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/mini-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/note.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/o365-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/pencil-small-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/prospect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/remove-small-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/remove.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/replay-comment-pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/replay-link-pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/replay-link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/report.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/search-icon-manger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/small-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/stage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/sucess-small-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/task.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/icons/workflow-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/input-error-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/job-breakdown.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/jobs-won-lost.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/jobs-won-lost2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/jonny-pic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/jonny-pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/left-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/lily-keat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/lily-keat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/lily-pic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/lily-pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/log-out-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/login-bg-btm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/login-echo-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/menu-active-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/next-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/notification.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/planning-timeline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/prev-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/project-detail-editor.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/reload-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/reply-texteditor.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/ridwilson.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/sales-pipeline.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/select-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/sidebar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/smile-emoticon-green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/smile-emoticon-redish.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/spr-sdc09ab0a71.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/spr/sprite-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/sprite-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/time-line-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/time.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/typography.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/uni-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/view-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/w-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/web-alive-pdf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/web-alive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/webalive-download.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/images/webalive-pdf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/dashboard/dashboard-layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/.idea/Gradpos-admin.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/add-business.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/customer-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/fonts/stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/js/vendor/jquery-1.11.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/js/vendor/modernizr-2.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/sls-admin/loyout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/account-information.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/addTicket.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/admin-add-employee.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/admin-auditlog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/admin-dashboard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/admin-employee.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/admin-portal-login-forgetpassword-customerid.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/admin-portal-login-forgetpassword.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/admin-portal-login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/billing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/css/page-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/email-detail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/email.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/files.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/font/Flaticon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/fonts/gilroy/Gilroy-Regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/js/bootstrap-4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/js/chosen.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/js/jquery-3.3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/js/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/js/perfect-scrollbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/js/popper-1.12.9.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/js/tempusdominus-bootstrap-4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/main-sidebar-admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/main-sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/messages.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/overview.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/portal-client-project-brief-end.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/portal-client-project-brief.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/portal-staff-add-customer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/portal-staff-create-order-1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/portal-staff-create-order-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/portal-staff-new-project.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/portal-staff-project-details-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/portal-staff-project-details.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/portal-staff-projects.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/portal-staff-support-finder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/project-details-add.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/project-details.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/project-overview.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/project.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/reports.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_accordion.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_action-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_action-popup.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_alert.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_avatar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_breadcrumb.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_button.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_chosen.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_common.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_custom-search-box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_dashboard-cell.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_data-view.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_date-time.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_email-listing-detail.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_email-listing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_fileupload.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_flaticon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_fontawesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_form.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_icon-asset.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_jquery-datepicker.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_message-feeback" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_message-feeback.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_notification.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_page-menu-wrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_page-search-filter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_page-tab.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_pie-chart-block.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_popup-addproject-timeline.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_popup.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_pre-loader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_project-timeline.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_report.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_scroll.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_staff-navigation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_tab-content.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_tab.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_table.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_ticket-content.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_timeline.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_title-box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/component/_user.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/helper/_animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/helper/_mixin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/helper/_variable.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/layout/_common.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/layout/_content-body.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/layout/_header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/layout/_list-view.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/layout/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/layout/_right-sidebar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/layout/_sidebar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/layout/_topbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_admin-login-panel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_admin-time-line.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_dashboard.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_email-template.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_login.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_partner.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_portal-admin-login.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_portal-staff-add-customer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_portal-staff-project-overview.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_portal-staff-support-finder.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_project-comments.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_stages.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_website-brief.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/page/_workflow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sass/style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/sitemap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/staff-panel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/style-guide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/subscriptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/ticket.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/ticketDetails.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/website-brief.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/UI KIT/webaliveportal_v2_design/website-design.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/UI KIT/RGS4_html" afterPath="$PROJECT_DIR$/Resources/UI KIT/RGS4_html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/git_help/helpcommand.html" afterPath="$PROJECT_DIR$/git_help/helpcommand.html" />
     </list>
     <list id="d92119aa-dbbd-4e9a-be36-167eef108891" name="Failed commit: Default" comment="ui" />
     <ignored path="webdesingresource.iws" />
@@ -371,8 +29,8 @@
       <file leaf-file-name="helpcommand.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="357">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -429,6 +87,7 @@
         <option value="$PROJECT_DIR$/design-concept/design-review.html" />
         <option value="$PROJECT_DIR$/React Tutorial/react-cheetsheet.html" />
         <option value="$PROJECT_DIR$/React Native Tutotiral/react-native-cheetsheet.html" />
+        <option value="$PROJECT_DIR$/git_help/helpcommand.html" />
       </list>
     </option>
   </component>
@@ -618,6 +277,7 @@
       <workItem from="1582522182239" duration="137000" />
       <workItem from="1582522340127" duration="58000" />
       <workItem from="1582522471737" duration="2861000" />
+      <workItem from="1582525472856" duration="15000" />
     </task>
     <task id="LOCAL-00015" summary="ui">
       <created>1579599108405</created>
@@ -966,21 +626,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43930000" />
+    <option name="totallyTimeSpent" value="43945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29744136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30063966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32552955" sideWeight="0.07782516" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32516703" sideWeight="0.08155651" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32552955" sideWeight="0.9221748" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32516703" sideWeight="0.9184435" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.9221748" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1182,13 +842,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/design/famous.html" />
-    <entry file="file://$PROJECT_DIR$/wordpress/designhelp/contactform7-custom-checkfiled.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/designhelp/contactform7-custom-checkfiled.html" />
     <entry file="file://$PROJECT_DIR$/design-concept/online-gamesite.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1261,8 +915,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
