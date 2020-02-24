@@ -2,162 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/Answer/BM - SAGS_Delower Hossain_2017-04.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/Answer/BM - SAGS_Khaled Saifullah_2017-04.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/Barirdesign.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/Farhana-madam/3b. PRM Questionnaire- DEV-1.0.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/Gallery Webcommander.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/Jira.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/Payemtnt Ticktet.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/Plane Ticket.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/baby.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/Bio/CV.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/Bio/cv_of_khaled_frontend_developer_(5 years).doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/Etoken/etoken.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/NID/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/NID/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/Passport/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/Passport/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/address.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/eTin/etin.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/how_transfer_scb_other/step_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/how_transfer_scb_other/step_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/how_transfer_scb_other/step_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/how_transfer_scb_other/step_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/how_transfer_scb_other/step_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/medetails.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/picture/ID Card.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/picture/IMG_1157.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/picture/NOC.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/picture/khaled.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/picture/khaled.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/wife/IMG_1282.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/~$details.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/logdesign_practise/combine.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/me/1Capture.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/skpytalking.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/songs/sura.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/sura.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/~$ddress.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/images/car-handle.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/images/football.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/images/seat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/mytv/tv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/slider/img/banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/slider/img/banner2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/slider/img/banner3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/slider/img/banner4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/slider/img/banner5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/fmog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/qr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/screen-shot-all.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/videoload/video-box.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/CSS-Group-Discuss.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/gridbox/box.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/gridbox/css/component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/gridbox/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/gridbox/js/grid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/gridbox/js/modernizr.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/introducing-text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/Bankaccount.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/khaleddouments/scb.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/me/URL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/me/Untitled-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/me/vip_URL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/office/accountdetailsme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/Personal/poem.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/addEventlister-secondprocess.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/addEventlister.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajax/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/mailtest/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/mailtest/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/mailtest/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/mailtest/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/pagerefresh/aboutus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/pagerefresh/contactus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/pagerefresh/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/pagerefresh/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/pagerefresh/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/pagerefresh/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/pagerefresh/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/ajaxtest/test/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/angulerJs_project/angular_1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/angulerJs_project/angular_1/pages/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/angulerJs_project/angular_1/pages/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/angulerJs_project/angular_1/pages/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/angulerJs_project/angular_1/pages/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/angulerJs_project/angular_1/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/calculator/calculator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/color - Copy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/css3-transition.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/css3/keryframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/cssgrid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/cssgrid01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/cssgrid02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/currency-calculation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/even-capture&amp;even-bubbling.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/eventFired.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/eventScroll.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/forloop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/functional-js-01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/improve-code.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/jquery/lession-01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/jquery/lession-02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/khalikvi_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/mytv/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/nodlist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/objectjs-01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/pichart/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/piramid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/prograssbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/seatplan-improve-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/seatplan.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/show-hide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/simplecalculator_01 - Copy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/simplecalculator_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/slider/slider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/stepbystep.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/stepprocess/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/stepprocess/submit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/this-attributes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/this-keyword-01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/this-keyword-02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/this-keyword-03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/this-keyword.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/colors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/demo/colorpic/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/demo/colorpic/css/mod.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/demo/colorpic/js/colors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/demo/colorpic/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/demo/colorpic/js/jqColorPicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/demo/colorpic/piccolor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/demo/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/demo/mod.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/colorPicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/colors-amd-wrapper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/compatibility.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/jqColorPicker-amd-wrapper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/development/ui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/jqColorPicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/jqColorPicker.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/jqColorPicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/tinyColorPicker-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/videoload/video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/jsparactise/yearlist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/Jira.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/Payemtnt Ticktet.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/Plane Ticket.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/desktop-Sticky Notes.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Bio/CV.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Bio/cv_of_khaled_frontend_developer_(5 years).doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Etoken/etoken.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/NID/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/NID/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/NID/NID_Pic.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/NID/NID_Pic/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/NID/NID_Pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Passport/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Passport/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/BankStatement/accountstatment.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/BankStatement/accountstatment_1.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/IMG_20181120_081313.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/IMG_20181120_081322.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/eTin/etin.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/address.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/how_transfer_scb_other/step_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/how_transfer_scb_other/step_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/how_transfer_scb_other/step_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/how_transfer_scb_other/step_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/how_transfer_scb_other/step_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/medetails.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/picture/ID Card.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/picture/NOC.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/picture/khaled.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/picture/khaled.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/~$details.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/me/1Capture.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/skpytalking.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/sura.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/introducing-text.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Bankaccount.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/New Text Document.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/scb.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/me/URL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/me/Untitled-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/me/vip_URL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/poem.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="d92119aa-dbbd-4e9a-be36-167eef108891" name="Failed commit: Default" comment="ui" />
@@ -389,14 +275,7 @@
       <workItem from="1582512263488" duration="7159000" />
       <workItem from="1582522182239" duration="137000" />
       <workItem from="1582522340127" duration="58000" />
-      <workItem from="1582522471737" duration="226000" />
-    </task>
-    <task id="LOCAL-00004" summary="ui">
-      <created>1579499642801</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1579499642801</updated>
+      <workItem from="1582522471737" duration="396000" />
     </task>
     <task id="LOCAL-00005" summary="ui">
       <created>1579499659766</created>
@@ -734,11 +613,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582522602129</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="ui">
+      <created>1582522706498</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1582522706498</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41295000" />
+    <option name="totallyTimeSpent" value="41465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
