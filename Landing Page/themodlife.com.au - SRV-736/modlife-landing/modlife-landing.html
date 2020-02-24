@@ -1,0 +1,286 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>modlife landing</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,500,700,800' rel='stylesheet' type='text/css' />
+	<style>
+		* {
+			margin: 0;
+			padding: 0;
+			box-sizing:border-box;
+		}
+		html, body {
+			height: 100%;
+		}
+		body {
+			margin: 0;
+			padding: 0;
+			font-size: 16px;
+			font-family: 'Raleway';
+			text-align: center;
+			background: url(images/bg-landing.jpg) no-repeat center top fixed;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+			background-color:#0a1c37;
+			padding-top: 195px;
+		}
+		.landing-window {
+			max-width: 100%;
+			text-align: center;
+			margin: 0 auto;
+			padding: 0 15px;
+			overflow: hidden;
+		}
+
+		.landing-logo img {
+			max-width: 100%;
+			height: auto;
+		}
+		.landing-title-one:after {
+			content: '';
+			width: 323px;
+			height: 2px;
+			background: #b47c62;
+			position: absolute;
+			left: 50%;
+			bottom: 0;
+			transform: translateX(-50%);
+		}
+		.landing-title-one {
+			line-height: 32px;
+			padding: 60px 0 33px 0;
+			margin: 0 auto;
+			color: #fff;
+			font-size: 25px;
+			text-align: center;
+			font-weight: 400;
+			text-transform: none;
+			max-width: 800px;
+			position: relative;
+			font-family: 'Raleway';
+		}
+		.landing-title-two {
+			line-height: 30px;
+			padding: 30px 0 30px 0;
+			margin: 0 auto;
+			color: #fff;
+			font-size: 20px;
+			text-align: center;
+			font-weight: 300;
+			text-transform: none;
+			max-width: 740px;
+			position: relative;
+			font-family: 'Raleway';
+		}
+		.landing-warning-text {
+			line-height: 23px;
+			padding: 30px 0 0 0;
+			margin: 0 auto;
+			color: #fff;
+			font-size: 16px;
+			text-align: center;
+			font-weight: 300;
+			text-transform: none;
+			font-family: 'Raleway';
+		}
+		.landing-ps-text {
+			line-height: 23px;
+			padding: 100px 0 125px 0;
+			margin: 0 auto;
+			color: #fff;
+			font-size: 16px;
+			text-align: center;
+			font-weight: 300;
+			text-transform: none;
+			font-family: 'Raleway';
+		}
+
+		/*start:form*/
+		.landing-mailchimp .mc-field-group {
+			width: 428px;
+			position: relative;
+			margin: 0 auto;
+			text-align: left;
+		}
+		.landing-mailchimp  #mc_embed_signup{
+			background-color: transparent;
+		}
+
+		.landing-mailchimp h2,
+		.landing-mailchimp .indicates-required,
+		.landing-mailchimp .mc-field-group label{
+			display:none;
+		}
+
+		.landing-mailchimp {
+			position: relative;
+		}
+		.landing-mailchimp #mc_embed_signup form {
+			position: absolute;
+			left: 0;
+			width: 100%;
+		}
+		.landing-mailchimp input[type="email"] {
+			width: 285px;
+			height: 40px;
+			background-color: transparent;
+			border-radius: 0;
+			box-shadow: none;
+			border: 2px solid #fff;
+			color: #fff;
+			font-size: 16px;
+			text-align: left;
+			text-transform: none;
+			font-weight: 500;
+			outline: none;
+			line-height: 37px;
+			padding: 0 15px;
+			font-family: 'Raleway';
+		}
+		.landing-mailchimp input[type="submit"] {
+			width: 145px;
+			height: 40px;
+			background-color: transparent;
+			border-radius: 0;
+			box-shadow: none;
+			border: 2px solid #fff;
+			color: #fff;
+			font-size: 15px;
+			text-align: center;
+			text-transform: none;
+			font-weight: 500;
+			outline: none;
+			line-height: 37px;
+			cursor: pointer;
+			font-family: 'Raleway';
+			position: absolute;
+			right: 0;
+			top: 0;
+			-webkit-transition: all 0.5s ease 0s;
+			transition: all 0.5s ease 0s;
+		}
+
+		.landing-mailchimp  input[type="submit"]:hover {
+			color: #000;
+			background-color: #fff;
+		}
+		div#mce-success-response {
+			background: #fff;
+			width: 100%;
+			color: #00841e;
+			position: absolute;
+			padding: 12px;
+			bottom: -80px;
+			font-family: 'Raleway';
+			border-radius: 10px;
+			font-size: 19px;
+		}
+		#mc_embed_signup input.mce_inline_error {
+			border-color: #ca1515!important;
+		}
+		#mc_embed_signup div.mce_inline_error {
+			background-color: #c31616 !important;
+			font-weight: bold;
+			z-index: 1;
+			color: #fff;
+			position: absolute;
+		}
+		div#mce-error-response {
+			background: #fff;
+			width: 100%;
+			color: #000000;
+			position: absolute;
+			padding: 12px;
+			bottom: -80px;
+			font-family: 'Raleway';
+			border-radius: 10px;
+			font-size: 16px;
+			line-height: 20px;
+		}
+
+		div#mce-error-response a {
+			display: block;
+			color: #2155b9;
+		}
+
+
+
+		@media screen and (max-width: 1200px) {
+			 body{
+				 padding-top: 65px;
+			 }
+		}
+		@media screen and (max-width: 767px) {
+			.landing-logo {
+				margin: 0 auto;
+				width: 220px;
+			}
+			
+			.landing-title-one:after{
+				width: 100%;
+			}
+			.landing-title-one{
+				font-size: 21px;
+				line-height: 32px;
+			}
+			.landing-title-two{
+				font-size: 18px;
+				line-height: 28px;
+			}
+			.landing-ps-text{
+				padding: 50px 0 45px 0;
+			}
+			.landing-mailchimp .mc-field-group {
+				width: 290px;
+			}
+			.landing-mailchimp input[type="email"]{
+				width: 182px;
+			}
+			.landing-mailchimp input[type="submit"]{
+				width: 110px;
+			}
+
+		}
+
+	</style>
+
+
+</head>
+
+<body>
+<div class="landing-window">
+	<div class="landing-logo"><img width="314" height="260"  src="images/landing-logo.png"  /></div>
+	<h2 class="landing-title-one">An online course that educates and instructs you on how to achieve your best mental and physical health while simultaneously hitting career and performance goals. </h2>
+    <h3 class="landing-title-two">We aren’t quite ready yet but we are very close to launching. Pop your email in the box and we will keep you updated on all things ModLife. </h3>
+	<div class="landing-mailchimp">
+		<link href="https://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+		<form action="//webalive.us10.list-manage.com/subscribe/post?u=3eedf62523fb63e16a809814c&amp;id=78cdb59ddb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="novalidate">
+			<div id="mc_embed_signup_scroll">
+				<div class="mc-field-group newsletter-input">
+					<div>
+						<input type="email" value="Email*" name="EMAIL" class="email" id="mce-EMAIL"   required="" aria-required="true">
+						<span class="newsletter_mail_error"></span>
+					</div>
+					<div>
+						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3eedf62523fb63e16a809814c_78cdb59ddb" tabindex="-1" value=""></div>
+						<input type="submit" value="ModLife Me" name="subscribe" id="mc-embedded-subscribe" class="button submit-newsletter btn  btn-block">
+					</div>
+				</div>
+			</div>
+		</form>
+	</div>
+	<p class="landing-warning-text">Warning: Side effects include weight loss, great health, increased energy and productivity.</p>
+
+	<p class="landing-ps-text">P.S We don’t send spam - ever, because no woman has time for that.</p>
+
+
+</div>
+
+
+</body>
+</html>
