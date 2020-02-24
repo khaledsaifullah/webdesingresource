@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design-concept/design-review.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/React Tutorial/react-cheetsheet.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="d92119aa-dbbd-4e9a-be36-167eef108891" name="Failed commit: Default" comment="ui" />
@@ -26,31 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="react-native-help.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/React Native Tutotiral/react-native-help.html">
+      <file leaf-file-name="react-cheetsheet.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/React Tutorial/react-cheetsheet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="helpcommand.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="design-review.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/design-concept/design-review.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,6 +65,7 @@
         <option value="$PROJECT_DIR$/React Native Tutotiral/reactnavtive-samplelayout01.html" />
         <option value="$PROJECT_DIR$/React Native Tutotiral/react-native-help.html" />
         <option value="$PROJECT_DIR$/design-concept/design-review.html" />
+        <option value="$PROJECT_DIR$/React Tutorial/react-cheetsheet.html" />
       </list>
     </option>
   </component>
@@ -157,7 +138,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="design-concept" />
+              <option name="myItemId" value="React Tutorial" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -259,14 +240,7 @@
       <workItem from="1582512263488" duration="7159000" />
       <workItem from="1582522182239" duration="137000" />
       <workItem from="1582522340127" duration="58000" />
-      <workItem from="1582522471737" duration="2114000" />
-    </task>
-    <task id="LOCAL-00012" summary="ui">
-      <created>1579579422956</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1579579422956</updated>
+      <workItem from="1582522471737" duration="2262000" />
     </task>
     <task id="LOCAL-00013" summary="ui">
       <created>1579595455219</created>
@@ -604,11 +578,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582524399543</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="ui">
+      <created>1582524601971</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1582524601971</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43183000" />
+    <option name="totallyTimeSpent" value="43331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -664,7 +645,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/design/TraingCourse/CourseSchedule.txt" />
     <entry file="file://$PROJECT_DIR$/design/TraingCourse/Home.jpg" />
     <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -871,7 +851,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/React Native Tutotiral/react-native-help.html">
+    <entry file="file://$PROJECT_DIR$/design-concept/design-review.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -887,10 +867,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-concept/design-review.html">
+    <entry file="file://$PROJECT_DIR$/React Native Tutotiral/react-native-help.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React Tutorial/react-cheetsheet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
