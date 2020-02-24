@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/UI KIT/RGS4_html" afterPath="$PROJECT_DIR$/Resources/UI KIT/RGS4_html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/git_help/helpcommand.html" afterPath="$PROJECT_DIR$/git_help/helpcommand.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/UI KIT/RGS4_html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="d92119aa-dbbd-4e9a-be36-167eef108891" name="Failed commit: Default" comment="ui" />
     <ignored path="webdesingresource.iws" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="helpcommand.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -277,7 +277,7 @@
       <workItem from="1582522182239" duration="137000" />
       <workItem from="1582522340127" duration="58000" />
       <workItem from="1582522471737" duration="2861000" />
-      <workItem from="1582525472856" duration="15000" />
+      <workItem from="1582525472856" duration="83000" />
     </task>
     <task id="LOCAL-00015" summary="ui">
       <created>1579599108405</created>
@@ -626,7 +626,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43945000" />
+    <option name="totallyTimeSpent" value="44013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -915,8 +915,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
