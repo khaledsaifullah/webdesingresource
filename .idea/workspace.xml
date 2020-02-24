@@ -2,48 +2,210 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/Jira.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/Payemtnt Ticktet.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/Plane Ticket.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/desktop-Sticky Notes.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Bio/CV.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Bio/cv_of_khaled_frontend_developer_(5 years).doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Etoken/etoken.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/NID/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/NID/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/NID/NID_Pic.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/NID/NID_Pic/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/NID/NID_Pic/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Passport/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Passport/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/BankStatement/accountstatment.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/BankStatement/accountstatment_1.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/IMG_20181120_081313.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/IMG_20181120_081322.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/eTin/etin.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/address.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/how_transfer_scb_other/step_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/how_transfer_scb_other/step_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/how_transfer_scb_other/step_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/how_transfer_scb_other/step_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/how_transfer_scb_other/step_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/medetails.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/picture/ID Card.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/picture/NOC.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/picture/khaled.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/picture/khaled.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/~$details.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/me/1Capture.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/skpytalking.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/sura.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/introducing-text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Bankaccount.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/Tax/New Text Document.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/khaleddouments/scb.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/me/URL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/me/Untitled-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/me/vip_URL.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Personal/New folder/New folder/poem.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/ARP/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/ARP/images/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/ARP/landing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/acanthus/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/acanthus/images/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/acanthus/landing-page.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/acanthus/landing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/fonts/gotham-bold/Gotham-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/fonts/gotham-bold/Gotham-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/fonts/gotham-bold/Gotham-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/fonts/gotham-bold/Gotham-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/fonts/gotham-bold/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/fonts/gotham-bold/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/images/bg-landing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/images/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/strengthenyoulanding/strengthenyoulanding.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/themodlife.com.au - SRV-736/modlife-confirmation.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/themodlife.com.au - SRV-736/modlife-confirmation/images/bg-confirmation.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/themodlife.com.au - SRV-736/modlife-confirmation/images/confirmation-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/themodlife.com.au - SRV-736/modlife-confirmation/modlife-confirmation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/themodlife.com.au - SRV-736/modlife-confirmation2.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/themodlife.com.au - SRV-736/modlife-landing.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/themodlife.com.au - SRV-736/modlife-landing.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/themodlife.com.au - SRV-736/modlife-landing/images/bg-landing.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/themodlife.com.au - SRV-736/modlife-landing/images/landing-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Landing Page/themodlife.com.au - SRV-736/modlife-landing/modlife-landing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/demo-schedule/images/call-us.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/demo-schedule/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/demo-schedule/images/line-shded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/demo-schedule/images/shed-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/demo-schedule/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/demo-schedule/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/email-template.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/payment/images/call-us.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/payment/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/payment/images/line-shded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/payment/images/shed-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/payment/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/payment/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/start-autobil/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/start-autobil/images/line-shded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/start-autobil/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/26-04-2016/start-autobil/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/Newsletter_100%/final.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/Newsletter_100%/mail-borerradius.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/Newsletter_100%/newsletter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter/email_new.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter/images/call-us.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter/images/line-shded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter/images/shed-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter_update/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter_update/images/line-shded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter_update/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/autobil_newsletter_update/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhood_html/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhood_html/invoice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhood_html/invoice_1058_from_Peoplesmove Pty Ltd.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhood_html/lanndingpage/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhood_html/lanndingpage/landing-page(1).psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhood_html/lanndingpage/landing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhood_html/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhood_html/paid-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/Listing Earning Statement.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/box.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-1/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-1/email.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-1/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-1/middle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-1/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-1/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-2/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-2/email.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-2/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-2/middle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-2/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-2/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-3/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-3/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-3/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-3/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-4/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-4/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-4/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-4/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble-result.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/bubble.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/buble.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/buble.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/callus_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/car.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/email - Copy (2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/email.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/fb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/fb_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/icon-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/icon-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/icon-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/linkedin_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/logo_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/mailicon_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/save-money.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/twitter_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter-new/voyage_img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter/invoice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter/invoice_1058_from_Peoplesmove Pty Ltd.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter/mail-final.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/carhoodnewsletter/paid-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter/contacts/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter/contacts/IMG_17042017_134903_0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter/contacts/billing-invoice (1).doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter/invoice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter/paid-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter_2020_12_19.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter_2020_12_19/Email-Template.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter_2020_12_19/eb-seasons-email-template.xd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter_2020_12_19/images/email-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter_2020_12_19/images/facebook-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter_2020_12_19/images/linkedin-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter_2020_12_19/images/logo-eventbooking-email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter_2020_12_19/images/twitter-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/eventbooking_newsletter_2020_12_19/newsletter-final.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/final.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/gradpack_newsletter/images/call-us.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/gradpack_newsletter/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/gradpack_newsletter/images/line-shded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/gradpack_newsletter/images/shed-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/gradpack_newsletter/index-1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/gradpack_newsletter/index-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/gradpack_newsletter/index-3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/gradpack_newsletter/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/gradpack_newsletter/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/mail-borerradius.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/metrobinhire_newsletter/final - Copy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/metrobinhire_newsletter/final.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/metrobinhire_newsletter/metrobinemial.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/nano.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/nano_newsletter/email-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/nano_newsletter/nano.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/newsletter-final.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/prestashop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/reedgraduationnewsletter/bullet.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/reedgraduationnewsletter/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/reedgraduationnewsletter/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/reedgraduationnewsletter/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/reedgraduationnewsletter/one.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinobin_newsletter11/^36A9F63500F408190BBDEF5D705288F04361972B24BFAD49BE^pimgpsh_fullsize_distr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinobin_newsletter11/mail-final-new.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinobin_newsletter11/mail-final.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinobin_newsletter11/mail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinobin_newsletter11/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinoemailtemplate/EMAIL_TEMPLATE.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinoemailtemplate/RhinoBinsHire_Sucess_Message.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinoemailtemplate/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinoemailtemplate/mail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinoemailtemplate/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/rhinoemailtemplate/order.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/sample/ref.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/sample/sample_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/sgua_newsletter/email_new.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/sgua_newsletter/images/call-us.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/sgua_newsletter/images/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/sgua_newsletter/images/line-shded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/sgua_newsletter/images/shed-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/sgua_newsletter/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/sgua_newsletter/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/themodlife_newsletter/Email Template html.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/themodlife_newsletter/Email Template html/Forgot-Password.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/themodlife_newsletter/Email Template html/Purchasing-Course-Newsletter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/themodlife_newsletter/Forgot-Password.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/themodlife_newsletter/Purchasing-Course-Newsletter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/vinloco_newsletter/company-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/vinloco_newsletter/invoice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/vinloco_newsletter/invoice_1058_from_Peoplesmove Pty Ltd.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/vinloco_newsletter/mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/vinloco_newsletter/mockup.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/vinloco_newsletter/paid-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/vinloco_newsletter/product.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/vinloco_newsletter/text-invoice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/webalive2018/backup/newsletter-final-final.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/webalive2018/backup/newsletter-final.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/webalive2018/custom-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/webalive2018/mail-borerradius.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/webalive2018/newsletter-final-final.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/webaliveNewsletter100%/newsletter-final - Copy (2).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/webaliveNewsletter100%/newsletter-final - Copy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/webaliveNewsletter100%/newsletter-final.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Newsletter &amp; Email Template/webaliveNewsletter100%/newsletter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Woocommerce/manual/add-product.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Woocommerce/manual/woocommerce-product-add.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Woocommerce/manual/woocommerce-products.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/designhelp/contactform7-custom-checkfiled.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="d92119aa-dbbd-4e9a-be36-167eef108891" name="Failed commit: Default" comment="ui" />
@@ -275,14 +437,7 @@
       <workItem from="1582512263488" duration="7159000" />
       <workItem from="1582522182239" duration="137000" />
       <workItem from="1582522340127" duration="58000" />
-      <workItem from="1582522471737" duration="396000" />
-    </task>
-    <task id="LOCAL-00005" summary="ui">
-      <created>1579499659766</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1579499659766</updated>
+      <workItem from="1582522471737" duration="589000" />
     </task>
     <task id="LOCAL-00006" summary="ui">
       <created>1579499778996</created>
@@ -620,11 +775,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582522706498</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="ui">
+      <created>1582522873861</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1582522873861</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41465000" />
+    <option name="totallyTimeSpent" value="41658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
