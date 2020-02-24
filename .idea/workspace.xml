@@ -2,17 +2,385 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/Box Desing.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/Cap.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/Home.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/Home.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/Home_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/Home_1.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/Home_new.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/arrow-icon-01.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/preview.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/team.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/videobox.psd" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/data/cert/tcpdf.fdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/data/cert/tcpdf.p12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/_blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/ausnet-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/citipower.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/company-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/customlogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/graphchart-one.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/graphchart-two.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/graphchart.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/image_demo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/image_with_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/logo_example.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/logo_example.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/logo_example.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/powercore.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/shreetshot/Quote_Report_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/shreetshot/report_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/shreetshot/ticmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/tcpdf_cell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/tcpdf_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/tcpdf_signature.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/tickmar-one.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/ticmark-three.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/ticmark.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/aealarabiya.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/aealarabiya.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/aefurat.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/aefurat.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusans.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusans.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensed.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensed.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensedb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensedb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensedbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensedbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensedi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensedi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansextralight.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansextralight.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmono.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmono.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmonob.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmonob.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmonobi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmonobi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmonoi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmonoi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserif.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserif.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensed.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensed.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensedb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensedb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensedbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensedbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensedi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensedi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemono.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemono.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemonob.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemonob.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemonobi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemonobi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemonoi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemonoi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesans.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesans.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesansb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesansb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesansbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesansbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesansi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesansi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserif.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserif.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserifb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserifb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserifbi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserifbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserifi.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserifi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfacourier.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfacourierb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfacourierbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfacourieri.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfahelvetica.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfahelveticab.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfahelveticabi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfahelveticai.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfasymbol.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfatimes.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfatimesb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfatimesbi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfatimesi.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfazapfdingbats.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/sRGB.icc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/CHANGELOG.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/LICENSE.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/config/tcpdf_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_1d_html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_1d_png.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_1d_svg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_1d_svgi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_datamatrix_html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_datamatrix_png.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_datamatrix_svg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_datamatrix_svgi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_pdf417_html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_pdf417_png.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_pdf417_svg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_pdf417_svgi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_qrcode_html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_qrcode_png.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_qrcode_svg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/example_2d_qrcode_svgi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/tcpdf_barcodes_1d_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/barcodes/tcpdf_barcodes_2d_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/config/tcpdf_config_alt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/data/cert/tcpdf.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/data/chapter_demo_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/data/chapter_demo_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/data/table_data_demo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/data/utf8test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/tcpdf_box.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/tcpdf_box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/testsvg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/images/tux.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/afr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/ara.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/aze.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/bel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/bra.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/bul.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/cat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/ces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/chi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/cym.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/dan.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/eng.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/est.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/eus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/far.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/fra.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/ger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/gle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/glg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/hat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/heb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/hrv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/hun.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/hye.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/ind.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/ita.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/jpn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/kat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/kor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/mkd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/mlt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/msa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/nld.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/nob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/pol.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/por.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/ron.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/rus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/slv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/spa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/sqi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/srp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/swa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/swe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/ukr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/urd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/yid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/lang/zho.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report10.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report11.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report12.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report13.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report14.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report16.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report17.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report18.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report19.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report20.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report21.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report7.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/report9.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/examples/tcpdf_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/ae_fonts_2.0/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/ae_fonts_2.0/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/ae_fonts_2.0/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/aealarabiya.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/aefurat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/cid0cs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/cid0ct.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/cid0jp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/cid0kr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/courier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/courierb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/courierbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/courieri.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavu-fonts-ttf-2.34/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavu-fonts-ttf-2.34/BUGS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavu-fonts-ttf-2.34/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavu-fonts-ttf-2.34/NEWS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavu-fonts-ttf-2.34/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavu-fonts-ttf-2.34/langcover.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavu-fonts-ttf-2.34/status.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavu-fonts-ttf-2.34/unicover.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusans.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensedb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensedbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusanscondensedi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansextralight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmono.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmonob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmonobi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavusansmonoi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserif.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensedb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensedbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifcondensedi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/dejavuserifi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freefont-20120503/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freefont-20120503/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freefont-20120503/CREDITS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freefont-20120503/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freefont-20120503/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freefont-20120503/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freefont-20120503/TROUBLESHOOTING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freefont-20120503/USAGE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemono.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemonob.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemonobi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freemonoi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesans.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesansb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesansbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freesansi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserif.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserifb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserifbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/freeserifi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/helvetica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/helveticab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/helveticabi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/helveticai.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/hysmyeongjostdmedium.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/kozgopromedium.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/kozminproregular.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/msungstdlight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfacourier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfacourierb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfacourierbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfacourieri.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfahelvetica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfahelveticab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfahelveticabi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfahelveticai.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfasymbol.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfatimes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfatimesb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfatimesbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfatimesi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/pdfazapfdingbats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/stsongstdlight.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/symbol.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/times.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/timesb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/timesbi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/timesi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/uni2cid_ac15.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/uni2cid_ag15.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/uni2cid_aj16.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/uni2cid_ak12.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/fonts/zapfdingbats.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/CHANGES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/COPYING.LESSER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraph3DGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphAxis.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphAxisDoubleEnded.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphAxisFixed.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphAxisFixedDoubleEnded.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphAxisLog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphBar3DGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphBarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphBoxAndWhiskerGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphBubbleGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphColours.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphCylinderGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphDonutGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphExplodedPieGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphFloatingBarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphGridGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphGroupedBar3DGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphGroupedBarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphGroupedCylinderGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphHorizontalBarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphHorizontalFloatingBarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphHorizontalGroupedBarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphHorizontalStackedBarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphJavascript.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphLineGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphMultiGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphMultiLineGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphMultiRadarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphMultiScatterGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphPattern.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphPie3DGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphPieGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphPointGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphPolarAreaGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphPopulationPyramid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphRadarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphScatterGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphStackedBar3DGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphStackedBarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphStackedCylinderGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphStackedGroupedBarGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphStackedLineGraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/SVGGraphStructuredData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/SVGGraph/svggraph.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/barcodes/datamatrix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/barcodes/pdf417.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/barcodes/qrcode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/tcpdf-charts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/tcpdf_colors.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/tcpdf_filters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/tcpdf_font_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/tcpdf_fonts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/tcpdf_images.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/include/tcpdf_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/tcpdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/tcpdf_autoconfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/tcpdf_barcodes_1d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/tcpdf_barcodes_2d.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/tcpdf_import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/tcpdf_parser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/tools/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/tools/convert_fonts_examples.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/PDF  HTML Template/nslobby_reports/tools/tcpdf_addfont.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="d92119aa-dbbd-4e9a-be36-167eef108891" name="Failed commit: Default" comment="ui" />
@@ -49,8 +417,8 @@
       <file leaf-file-name="helpcommand.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="374">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -244,14 +612,7 @@
       <workItem from="1582512263488" duration="7159000" />
       <workItem from="1582522182239" duration="137000" />
       <workItem from="1582522340127" duration="58000" />
-      <workItem from="1582522471737" duration="1626000" />
-    </task>
-    <task id="LOCAL-00010" summary="ui">
-      <created>1579579117018</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1579579117018</updated>
+      <workItem from="1582522471737" duration="1897000" />
     </task>
     <task id="LOCAL-00011" summary="ui">
       <created>1579579172944</created>
@@ -589,11 +950,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582523382118</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="ui">
+      <created>1582524104582</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1582524104582</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42695000" />
+    <option name="totallyTimeSpent" value="42966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -873,8 +1241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="374">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
