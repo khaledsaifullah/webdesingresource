@@ -1,0 +1,22 @@
+<p><strong>Currency Conversion Calculation:</strong></p>
+<table>
+	<tr><td>Fixed Per Rate : <strong>$<span id="getfixeddata"> 80 </span></strong></td></tr>
+    <tr>
+        <td>
+   		Enter Your Amount: <input  type="text" value="0"  id="quantity" /><br /><br />
+
+    	<div>Bangladeshi Taka : $<span id="loading">....</span></div>
+        </td>
+    </tr>
+</table>
+
+
+
+
+<script type="text/javascript">
+window.document.getElementById('quantity').addEventListener("keyup",function(){
+	var getData = document.getElementById('quantity').value;
+	var getFixedData = document.getElementById('getfixeddata').innerHTML;
+	document.getElementById('loading').innerHTML = getData * getFixedData;
+})
+</script>

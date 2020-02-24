@@ -1,0 +1,58 @@
+Account Details
+=============jira=============
+User Name:khaled
+Password : khal3d
+==============================
+
+
+=============confluence=============
+User Name:khaled
+Password : khal3d
+==============================
+
+
+==========Email============
+http://bleep.bitmascot.com/
+
+User Name:khaled@bitmascot.com
+Password : khaledBM
+==============================
+
+
+
+=========Passpack=========
+https://www.passpack.com/online/#0
+
+step_01:
+------------------------------
+Username : khaled
+Password : bmkhaled
+
+
+step_02:
+---------------------------
+Username : khaled
+Password : bmkhaled123
+==============================
+
+
+==========felu====================
+Go to  Run & Type 
+\\10.0.40.30
+
+Username : khaled
+Password : khal3d
+==============================
+
+
+
+
+
+
+
+
+
+
+
+
+

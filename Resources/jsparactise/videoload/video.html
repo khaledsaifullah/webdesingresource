@@ -1,0 +1,60 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.video-box {
+    width: 496px;
+    height: 296px;
+    position: relative;
+    margin: 0 auto;
+}
+.play-video-link {
+    width: 80px;
+    height: 80px;
+    border: 8px solid #ffffff;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+}
+.play-video-link:before {
+    content: "\f04b";
+    font-family: 'FontAwesome';
+    position: absolute;
+    font-size: 30px;
+    color: #ffffff;
+    margin: 18px 0 0 25px;
+}
+.video-container {
+    position: absolute;
+    top: 0;
+}
+</style>
+<div class="video-box">
+    <span class="thumb-container">
+        <a href="javascript:void(0)" class="play-video-link play-video" id="play-video"></a>
+        <img src="video-box.jpg" alt="video">
+    </span>
+    <span id="video-container" class="video-container"></span>
+</div>
+<p class="textcontent">Text</p>
+<a href="javascript:void(0)" id="clickme">click</a>
+
+<script type="text/javascript">
+    document.getElementById('play-video').addEventListener('click',loadvideo);
+    function loadvideo() {
+        document.getElementById('video-container').innerHTML ='<iframe width="496" height="296" src="https://www.youtube.com/embed/vUF7ja9ehIs?rel=0&amp;autoplay=true" frameborder="0" allowfullscreen=""></iframe>';
+        document.getElementById('video-container').style.opacity ='1';
+        document.getElementsByClassName()
+    }
+
+    document.getElementById('clickme').addEventListener('click',textAdd);
+    function  textAdd() {
+        var getText = document.getElementsByClassName('textcontent')[0];
+        for (var i = 0; i < getText.length; i++) {
+            alert(getText[i]);
+        }
+
+    }
+</script>
+

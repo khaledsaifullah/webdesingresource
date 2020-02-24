@@ -1,0 +1,42 @@
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<!--<script type="text/javascript" language="javascript">
+$(document).ready(function() {
+ 	$("#submit_button").click(function(event){
+			//var formdata=$("#testform").serialize();
+			//alert(formdata);
+			
+			
+			 $.ajax({
+			 	type:'POST',
+				url:'http://localhost/ajaxtest/test/mail.php',
+				data:$("#testform").serialize(),
+				success:function(result){
+					console.log(result);
+				}
+			 })
+			 
+			 $.ajax();
+ 			 
+				
+	});
+
+ });
+</script>-->
+
+
+
+<form    method="post"  id="testform">
+      Name:<input type="text" name="name" id="namef"><br /><br />
+      Telephone:<input type="text" name="telephone" id="telephonef"><br /><br />
+      Message:<textarea name="message"></textarea><br /><br />
+      <input type="button" name="savebtn" value="Submit" class="submit"  id="submit_button" onclick="test()"/>
+</form>
+<script type="text/javascript">
+  function test(){
+	  var namef = document.getElementById('namef').value;
+	  //alert(namef);
+	  var ajax = new XMLHttpRequest();
+	  ajax.onreadystatechange
+	  
+  }
+</script>

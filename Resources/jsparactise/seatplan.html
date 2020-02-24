@@ -1,0 +1,133 @@
+<section class="seat-plan" style="width: 1170px; margin: 0 auto">
+	<h2>Choose Your Seats</h2>
+	<div style="display: flex;">
+		<div style="border:1px solid #cccccc; width:170px;min-height:500px;padding: 10px;max-width: 300px;">
+			<table style="border: none; width: 100%;" cellpadding="0" cellspacing="0">
+				<thead>
+					<tr><th colspan="5" style="text-align: right;"><img src="images/car-handle.jpg" /></th></tr>
+					<tr><th colspan="5" height="20px">&nbsp;</th></tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><a href="#" id="a1" title="A1"><img src="images/seat.jpg"  /></a></td>
+						<td style="padding-left: 10px;"><a href="#" id="a2" title="A2"><img src="images/seat.jpg"  /></a></td>
+						<td style="width: 100px;"></td>
+						<td><a href="#" id="a3" title="A3"><img src="images/seat.jpg"  /></a></td>
+						<td style="padding-left: 10px;"><a href="#" id="a4" title="A4"><img src="images/seat.jpg"  /></a></td>
+					</tr>
+
+					<tr><th colspan="5" height="20px">&nbsp;</th></tr>
+					<tr>
+						<td><a href="#" id="b1" title="B1"><img src="images/seat.jpg"  /></a></td>
+						<td style="padding-left: 10px;"><a href="#" id="b2" title="B2"><img src="images/seat.jpg"  /></a></td>
+						<td style="width: 100px;"></td>
+						<td><a href="#" id="b3" title="B3"><img src="images/seat.jpg"  /></a></td>
+						<td style="padding-left: 10px;"><a href="#" id="b4" title="B4"><img src="images/seat.jpg"  /></a></td>
+					</tr>
+
+					<tr><th colspan="5" height="20px">&nbsp;</th></tr>
+					<tr>
+						<td><a href="#" id="c1" title="C1"><img src="images/seat.jpg"  /></a></td>
+						<td style="padding-left: 10px;"><a href="#" id="c2" title="C2"><img src="images/seat.jpg"  /></a></td>
+						<td style="width: 100px;"></td>
+						<td><a href="#" id="c3" title="C3"><img src="images/seat.jpg"  /></a></td>
+						<td style="padding-left: 10px;"><a href="#" id="c4" title="C4"><img src="images/seat.jpg"  /></a></td>
+					</tr>
+
+
+
+
+				</tbody>
+			</table>
+		</div>
+		<div style="background-color: #eeeeee; margin-left: 20px; width: 200px; padding: 10px; position: relative;">
+			<table style="border: none; width: 100%;" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="text-align: center;">Seat</td>
+					<td style="padding: 0 10px;text-align: center;">Rate</td>
+					<td style="text-align: center;">Type</td>
+				</tr>
+				<tr><th colspan="5" height="20px">&nbsp;</th></tr>
+				<tr>
+					<td style="text-align: center;"><div id="seat-name">...</div></td>
+					<td style="padding: 0 10px;text-align: center;"><div id="seat-rate">...</div></td>
+					<td style="text-align: center;"><div id="seat-type">...</div></td>
+				</tr>
+		  </table>
+		  <button id="addtocart" style="position: absolute; right: 10px; bottom: 10px;cursor: pointer;" onclick="alert('Are Sure Buy To Seat?')">Add To Cart</button>
+		</div>
+	</div>
+</section>
+<script type="text/javascript">
+	//Start A Type Seat
+	document.getElementById('a1').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'A1';
+		document.getElementById('seat-rate').innerHTML = 500;
+		document.getElementById('seat-type').innerHTML = 'Economoy A1';
+	})
+
+	document.getElementById('a2').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'A2';
+		document.getElementById('seat-rate').innerHTML = 530;
+		document.getElementById('seat-type').innerHTML = 'Economoy A2';
+	})
+	document.getElementById('a3').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'A3';
+		document.getElementById('seat-rate').innerHTML = 550;
+		document.getElementById('seat-type').innerHTML = 'Economoy A3';
+	})
+	document.getElementById('a4').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'A4';
+		document.getElementById('seat-rate').innerHTML = 560;
+		document.getElementById('seat-type').innerHTML = 'Economoy A4';
+	})
+
+
+	//Start B Type Seat
+	document.getElementById('b1').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'B1';
+		document.getElementById('seat-rate').innerHTML = 600;
+		document.getElementById('seat-type').innerHTML = 'Economoy B1';
+	})
+	document.getElementById('b2').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'B2';
+		document.getElementById('seat-rate').innerHTML = 630;
+		document.getElementById('seat-type').innerHTML = 'Economoy B2';
+	})
+	document.getElementById('b3').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'B3';
+		document.getElementById('seat-rate').innerHTML = 650;
+		document.getElementById('seat-type').innerHTML = 'Economoy B3';
+	})
+	document.getElementById('b4').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'B4';
+		document.getElementById('seat-rate').innerHTML = 660;
+		document.getElementById('seat-type').innerHTML = 'Economoy B4';
+	})
+
+
+	//Start C Type Seat
+	document.getElementById('c1').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'C1';
+		document.getElementById('seat-rate').innerHTML = 700;
+		document.getElementById('seat-type').innerHTML = 'Business C1';
+	})
+	document.getElementById('c2').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'C2';
+		document.getElementById('seat-rate').innerHTML = 730;
+		document.getElementById('seat-type').innerHTML = 'Business C2';
+	})
+	document.getElementById('c3').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'C3';
+		document.getElementById('seat-rate').innerHTML = 750;
+		document.getElementById('seat-type').innerHTML = 'Business C3';
+	})
+	document.getElementById('c4').addEventListener('click',function () {
+		document.getElementById('seat-name').innerHTML = 'C4';
+		document.getElementById('seat-rate').innerHTML = 760;
+		document.getElementById('seat-type').innerHTML = 'Business C4';
+	})
+
+
+
+</script>

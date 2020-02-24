@@ -1,0 +1,51 @@
+<style>
+	.tvbox{
+		width: 300px;
+		height: 320px;
+		background: url(tv.png) no-repeat;
+		position: relative;
+		margin: 0 auto;
+	}
+	#loading {
+		position: absolute;
+		width: 205px;
+		height: 150px;
+		left: 15px;
+		top: 133px;
+		border-radius: 15px;
+		background: #adaead; /* For browsers that do not support gradients */
+		background: -webkit-linear-gradient(#adaead, white); /* For Safari 5.1 to 6.0 */
+		background: -o-linear-gradient(#adaead, white); /* For Opera 11.1 to 12.0 */
+		background: -moz-linear-gradient(#adaead, white); /* For Firefox 3.6 to 15 */
+		background: linear-gradient(#adaead, white); /* Standard syntax */
+	}
+	#on,#of {
+		position: absolute;
+		bottom: 15px;
+		color: #fff;
+		text-decoration: none;
+		font-size: 13px;
+		text-transform: uppercase;
+		font-family: arial;
+		font-weight: bold;
+	}
+	#on {
+		left: 140px;
+	}
+	#of {
+		left: 80px;
+	}
+</style>
+<div class="tvbox">
+	<div  id="loading"></div>
+	<a href="javascript:void(0)" id="on">On</a>
+	<a href="javascript:void(0)" id="of">Off</a>
+</div>
+<script>
+	window.document.getElementById('on').addEventListener('click',function () {
+		window.document.getElementById('loading').innerHTML='<p>111111</p>'
+	})
+	window.document.getElementById('of').addEventListener('click',function () {
+		window.document.getElementById('loading').innerHTML='<p>33333333</p>'
+	})
+</script>

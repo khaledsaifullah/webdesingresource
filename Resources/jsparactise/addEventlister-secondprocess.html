@@ -1,0 +1,31 @@
+<form name="myform">
+	<table align="left" cellpadding="0" cellspacing="0" width="100%">
+		<thead>
+		<tr>
+			<th align="left" valign="top">Price</th>
+			<th align="left" valign="top">Quantity</th>
+		</tr>
+		</thead>
+
+		<tbody>
+		<tr>
+			<td align="left" valign="top">$<span id="dataone" data-name="price">12</span></td>
+			<td align="left" valign="top"><input type="text"  name="quantity" value=""  /></td>
+		</tr>
+		</tbody>
+	</table>
+
+<span class="total-amount">
+	<strong>Totla:</strong>
+	$<span id="log">0.00</span>
+</span>
+</form>
+
+
+<script type="text/javascript">
+	document.forms['myform']['quantity'].addEventListener("keyup",function(){
+		var getPrice = parseInt(document.forms['myform'].querySelector('span[data-name="price"]').innerHTML);
+		var getQuantity = parseInt(document.forms['myform']['quantity'].value);
+		document.getElementById('log').innerHTML = getPrice * getQuantity;
+	})
+</script>
