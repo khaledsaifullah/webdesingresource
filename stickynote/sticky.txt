@@ -1,0 +1,590 @@
+Pending List of  ethosmigration :
+1. Blog listing pending
+2. Fly DropMenu pending
+3. Make A Payment page pending
+4. Inner Page Content page pending
+===========
+
+Md. Sultan Mahmud
+Front-End Engineer
+Bit Mascot Pvt. Ltd.
+
+
+linear-gradient(to right, #f5c776 0%, #f5c776 100%)
+
+
+
+Beautiful Website 
+https://www.benchmarkwebsitedesign.com/
+https://dribbble.com/
+--------------------
+
+
+
+https://xd.adobe.com/view/05a30d12-2b04-4f3b-676c-e381742d4618-7392/?fullscreen
+Mocup XD 
+----------------------
+
+
+@include absolute($top: 30px, $left: 0);
+@include  font($size: 12px,$weight: 700);
+@include  border-radius(0);
+& + li {
+      margin-left: 20px;
+    }
+
+
+
+--------------
+Angular
+ng serve --open
+ng serve --open --port=4201
+-------------------------------------------
+
+alse API
+fetch('https://randomuser.me/api/?results=500', {mode: 'cors'})
+
+https://appendto.com/2017/01/3-libraries-and-3-ways-to-handle-ajax-in-react-apps/
+
+Trying..  To Clear  Finally
+ 1 .fetach ()  
+ 2. State(object)  
+3.  map(mean php foreach)
+
+
+
+fetch('https://randomuser.me/api/?results=500').then(function(e){
+   if(status=200){
+     console.log('React API Connected')
+     e.json().then(function(getData){
+         var k=0;
+         for($k=0;$k<3;$k++){
+       	    console.log(getData['results'][$k])
+         }
+     })
+   }
+   else{
+    console.log('React not API Connected')
+   }
+})
+
+
+---------Credit Card Information----------
+Enter your Credit Card details below:
+
+Name on Credit Card:  
+Rid Wilson
+Credit Card Number: 
+4444333322221111
+Expiry Date:  03/2020   
+CVV  
+321
+
+===========
+5555555555554444
+123
+==================
+
+  
+Google Bangla Translator 
+https://www.google.com/intl/bn/inputtools/try/
+
+get_template_directory_uri() instead
+
+
+--------------
+html {
+	font-family: sans-serif; /* 1 */
+	-ms-text-size-adjust: 100%; /* 2 */
+	-webkit-text-size-adjust: 100%; /* 2 */
+}
+----------Features in w3schools---------------
+CSS isolation Property
+CSS quotes Property
+CSS user-select Property
+CSS unicode-bidi Property
+CSS pointer-events Property
+-------------------------
+CSS Variables
+CSS Functions
+CSS Combinators
+CSS Specificity
+CSS Box Sizing
+CSS Website Layout
+CSS Attribute Selectors
+CSS Flexbox
+CSS Grid
+----------------
+element.style {
+    max-height: 128px;
+    max-width: 128px;
+    height: 128px;
+}
+--------------------------
+div[class*="col-"] {
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}
+----------------------------------
+https://css-tricks.com/forums/topic/flexbox-prefixes/
+display: -webkit-box; 
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex; 
+display: flex;
+-------------------------------
+-webkit-flex-wrap: wrap;
+-ms-flex-flow: row wrap;
+flex-wrap: wrap;
+
+
+.nav-sidebar-open .wrapper {
+    position: fixed;
+    -webkit-transform: translateX(320px); 
+    transform: translateX(320px); 
+}
+.wrapper {
+    transition: -webkit-transform 0.5s ease-in-out;
+    transition: transform 0.5s ease-in-out;
+    transition: transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;
+}
+
+--------------------------------
+Free HTML Snippet
+https://www.froala.com/design-blocks/webpage-builder
+
+Path segments, components, and points
+
+
+
+
+1.Profile page
+2.Product Page
+3.Product Popup 
+4.Product Detail Page
+5.Checkout (still working)
+
+data-style-type="html"
+data-style-type="text"
+data-style-type="image" data-cloneable="true" 
+data-cloneable="true" data-style-type="container"
+
+<a data-style-type="link" wrapper-link="" data-editable="true" href="#"></a>
+
+ <a href="#" data-cloneable="true" data-style-type="link" wrapper-link=""
+   data-editable="true"></a>
+
+<a data-cloneable="true" data-style-type="link" wrapper-link="" data-editable="true" target="_blank" href="#">
+
+
+<a data-style-type="link" wrapper-link="" data-editable="true" href="tel:02 6056 2822>">02 6056 2822</a>
+
+
+/template/01c26af8/pdf/abc.pdf
+
+--------------------------
+<li data-style-type="container" data-cloneable="true">
+                  <a href="https://www.data.com.au/" wrapper-link="">
+                  <img src="/template/f62709f3/images/sponsors/dca-5.png" data-style-type="image" class="responsive" /></a>           
+        		</li>
+
+<div class="four-picture-cell" data-cloneable="true" data-style-type="container">
+ <img data-style-type="image" data-cloneable="true" src="/template/34485eb5/image/cubic-metre-skip-bin.jpg" alt="4 Cubic Metre Skip Bins" /> </div>
+
+
+
+-------------------------------------------
+.cartitem-table td .wrapper::before {
+    content: attr(data-label);
+    display: inline-block;
+    font-weight: bold;
+    vertical-align: middle;
+    margin-right: 3px;
+}
+
+.compare-details table  {
+    white-space: nowrap;
+    table-layout: auto;
+}
+
+.widget-snippet .wc-exploded-veiw div[class *="col-"] {
+    border: 1px solid #f1f1f1;
+    margin-top: -1px;
+    margin-left: -1px;
+    font-family: 'Roboto', sans-serif;
+}
+
+monzurul@bitmascot.com
+123456
+---------------------------------
+PHPStrom Code Formating
+clt+alt+L
+----------------------------
+
+Picture Endocode
+http://freeonlinetools24.com/base64-image
+ 
+
+------------------------------
+SSD ( Solid State Drive ) 
+--------------------------------
+Google releases Android OS
+2013-KitKat
+2014-Lollipop
+2015-Marshmallow
+2016-Nougat
+2017- Oreo
+URL:https://developer.android.com/about/versions/oreo/android-8.0-migration.html?authuser=0&hl=bn
+----------------------
+Magento Varnish Cache Configuration
+
+
+.header-menu {
+    float: right;
+    margin-top: 60px;
+}
+.top-right-content {
+    float: right;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.yith_magnifier_zoom_magnifier {
+    border: 0 !important;
+}
+
+
+Understanding Method Chaining  of Javascript
+
+
+.featured-events-list .row div.col-md-3:nth-of-type(odd){
+		clear: left;
+	}
+	.featured-events-list .row div.col-md-3:nth-of-type(even){
+		clear: right;
+	}
+
+
+--------------------------------
+CSS regex selector
+
+*
+
++
+
+~
+^
+>
+#
+$
+,
+;
+.
+
+https://css-tricks.com/attribute-selectors/
+-------------------------------
+
+Clean Code
+https://docs.google.com/document/d/1LlR7LlDYqVi8vwZTu2MUw_Bgn5RFvxPAs-DhoEYVC6o/edit
+
+======================================
+Course Bootstarp
+https://getbootstrap.com/docs/4.0/content/tables/
+
+
+Course  Git Setup
+https://docs.google.com/document/d/1NjUJ1uygJzu0fiYuUzZaEUxH2kfwBozc3Vu6W8FJ2Vk/edit
+---------------------------
+Course SCSS
+https://docs.google.com/document/d/1KJIh6mkFy3mUJHQdEMICIBzlFiT-7M60s7qgmUIyfgo/edit?usp=sharing
+-------------------
+Web Master:
+https://docs.google.com/document/d/1RYB4yIzPYdhbA9UcLPARx6MaACk5k9FfqliCY5XJ07E/edit?usp=sharing
+===============
+Chatting:
+https://docs.google.com/document/d/1a8n-DmfOXCho21tMMpf2DvRAk0WC8PYEHQlJIHG_GUY/edit?usp=sharing
+======================
+Email Drafting:
+https://docs.google.com/document/d/1223BXrp2sJZ8I3jyPK5X3twHaFm-Dp0HoeWkq3laG3o/edit?usp=sharing
+===============
+Course Angular
+https://docs.google.com/document/d/10FdN4Nx1ZzTKhw69x8B6uCzkzIpHi6qu3W9weGfQMyY/edit
+-------------
+CSS Trics
+https://docs.google.com/document/d/1gMWBuyM9HqNkYlrWu7BR443HKXm8SqrnikzmG-23hEM/edit
+-----------------------
+React JS 
+https://docs.google.com/document/d/1H8QI_RkU8RhRQzizDFKXs01-bDrl9PH6UZz8sougRsQ/edit?usp=sharing
+
+Help URL: 
+https://react-bootstrap.github.io/getting-started/introduction
+-------------------------
+
+
+
+
+var nodeitem = document.querySelectorAll('.footer .widget > .widget-title')
+for(var x=0;x<nodeitem.length;x++){
+	nodeitem[x].style.border='1px solid #71d7f7'
+	nodeitem[x].style.position='relative'
+    nodeitem[x].insertAdjacentHTML("beforeEnd",'<a class="edit" style="position: absolute;right: 0;top: 2px;color: burlywood;font-size: 14px;font-weight: normal;background: #000;padding: 3px 12px;">Edit</a>')
+    nodeitem[x].addEventListener('click',myfunction)
+    function myfunction(){
+       this.style.color='red'
+       this.contentEditable="true"
+    }
+}   
+
+
+Note:
+1. User Action hossa  event
+2. event ka kono function deya kaj korarnor jonno ready korar name hossa js bind
+3. object er property and property name and object er method ei gullu array akara 
+4. javascript e built in features asa .
+5. javascript inheritacer er support deyaer jonno prototype varibale user hoy and custom function kaj koranaor jonno
+prototype use hoy
+   
+
+
+.test{
+    will-change: opacity,transform;
+}
+https://thenextweb.com/plugged/2018/10/29/review-the-oneplus-6t-is-now-the-easiest-phone-to-recommend-to-most-people/
+
+
+-------------------------------------
+1. 404 Page:
+http://design5.webcommander.biz/bad
+
+2.Common Page:
+http://design5.webcommander.biz/common-page
+
+3.Product Page:
+http://design5.webcommander.biz/product/breakfast-brioche-sliders
+
+4. Favicon Added and Admin Common Setting and common all
+-----------------------
+
+
+
+1. Home Page Lapto View
+2. Contact Us page
+3. Product Profile Checkout Process Broken Issues
+4. Fix up Feadback issues of Monju vi
+5. Over all find tuning regarding site..
+
+
+
+New Guide Line
+1. Snippet Editable 
+2. Layout (All section)
+3. Store Logo & Favicon
+4. Layout Fixed Width and Set As Default
+
+
+
+Guide Line for All  Website
+------------------------------------------
+In Short at a glace :
+1. Common Page Style
+2. 404 Page 
+3. Naming Convention 
+4. Favicon Add
+5. External Link 
+6. All Browser Test
+7. alt tag
+8. Picture Resized 
+9. Spelling Mistake 
+10. Phone & Email Number mailto,tel
+11. Contact Page is Heart page
+---------------End---------------------------
+
+1. Kajer Environment Setup
+2. Skpy Meeting
+3. Fixing Wrong DOM Staructure
+4. Start Fixing Issues
+5. Skpy Update Severaltimes
+6. Follow Up 
+
+predictions for the future of programming
+
+I allocated this for 2 issues of js learning 
+1. Object 
+2. Array
+
+Partially 
+- js foreach
+- loop 
+- built in js function
+- etc
+==================
+ES6 JavaScript syntax require, import
+Syntactic sugar
+=========================
+
+
+------------------------------------------
+Wordpress 5 
+*new idea
+- wordpress 5 gutenberg
+- wordpress 5 classic editor
+- wordpress Eliminitor 
+
+
+PSD Desing
+# grid calculator psd
+
+
+@media (min-width: 1921px) {
+  
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1440px) {
+
+}
+@media only screen and (min-width: 1201px) and (max-width: 1330px) {
+	 
+
+}
+
+========================================
+@media (max-width: 1199.98px) {
+
+}
+@media (max-width: 991.98px) {
+
+}
+@media (max-width: 767.98px) {
+
+}
+@media (max-width: 575.98px) {
+
+}
+@media (max-width: 400px) {
+    
+}
+------------------
+#commander common issues
+1.Back-end needs to look identical with the Front-end
+2. Snippet Editable ki na
+3. Email Templates need to be formatted
+Contact Us Form Submission
+Newsletter Subscription Notification
+Blog Emails
+------------------------
+
+
+https://cox.webmascot.com/srv-team/
+git clone git@cox.webmascot.com:srv-team/cfmg.git
+
+git clone  git@cox.webmascot.com:srv-team/webaliveportal_v2.git
+git clone git@cox.webmascot.com:srv-team/themodlife.git
+git@cox.webmascot.com:gitvcs/eventbookings-website.git
+
+
+--------------------------------
+modlife_admin
+uV99Y98N3cc(^4Jj*df$0ddf
+
+user13
+123456
+----------------------------------------
+
+cfmg_admin
+c8MxP0%F5DPVM@7DKQtOH1hS
+
+
+club_admin
+c8MxP0%F5DPVM@7DKQtOH1hS
+
+
+http://localhost/eventbookings-website/wp-admin
+eb_admin 
+JoY*T)UYMcf^QS)4$$!&VYA4
+
+
+------------------------------------------------
+http://latrobe.rgs.com
+http://latrobe.rgs.com/admin/
+southam_admin
+9Yarra123
+---------------------------------------------
+
+http://latrobe.ecommercehowto.com/admin/login
+webalive_admin / 9Yarra123
+
+
+
+=====================
+https://nsw-records.webmascot.com.au/login
+autobillsmtp@webalive.biz / waTest123
+
+
+=============
+ 
+
+http://veem.webmascot.com/webaliveportal_v1/users/account
+customer id ; admin
+pass:123456
+
+
+http://localhost/rgs-website/wp-admin
+user: rgs_admin
+pass: Nc06$fR(!4Ml2ra*Kf
+
+
+eb_admin
+JoY*T)UYMcf^QS)4$$!&VYA4
+
+
+
+ SCSS
+&:hover:before, &:focus:before {
+      height: 100%;
+    }
+
+@include display-flex;
+@include flex-wrap(wrap);
+@include absolute(-4px, 0);
+@include border-radius(2px);
+@include size(466px,100vh);
+ @include size(100%,2px);
+ @include absolute($top: -1px, $right: null, $bottom: null, $left: 0) ;
+
+
+====webportal version two====
+var getData = document.querySelectorAll('.service-graduation-content .service-graduation-item img')
+var i=0
+for(i=0;i<=getData.length;i++){
+    var getPicturePath = getData[i] 
+    console.log(getPicturePath.getAttribute('src'))
+}
+
+
+Stainless Steel  Drawing Sketch Stencil Pencil Kit 
+
+
+Host Entry
+C:\Windows\System32\drivers\etc
+
+
+------------------------------------------------------
+var targetElement = $(".widget-navigation.account .navigation-item-0 a span").text()
+if(targetElement=='Logout'){
+    alert('1111')
+}
+else{
+    alert('222')
+}
+
+=========
+Beutiful Website Google Keyword
+1. hanging light website
+2. https://colorlib.com
+3. https://www.thebestdesigns.com
+4.
+
+CSS filter color
+https://codepen.io/sosuke/details/Pjoqqp
+---------------------------------
