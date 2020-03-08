@@ -2,8 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f58d7f0-5ff4-4362-9c0f-5b482f8815f8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Resources/PSD Desing/template-images/n39.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-concept/design-review.html" afterPath="$PROJECT_DIR$/design-concept/design-review.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chat/brothermonju.html" afterPath="$PROJECT_DIR$/chat/brothermonju.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design-concept/famous.html" afterPath="$PROJECT_DIR$/design-concept/famous.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/git_help/helpcommand.html" afterPath="$PROJECT_DIR$/git_help/helpcommand.html" />
     </list>
     <list id="d92119aa-dbbd-4e9a-be36-167eef108891" name="Failed commit: Default" comment="ui" />
     <ignored path="webdesingresource.iws" />
@@ -26,31 +84,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="brothermonju.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat/brothermonju.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12920">
+              <caret line="760" column="0" selection-start-line="760" selection-start-column="0" selection-end-line="760" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="helpcommand.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="2193">
+              <caret line="129" column="52" selection-start-line="129" selection-start-column="52" selection-end-line="129" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="design-review.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="design-review.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design-concept/design-review.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            <state relative-caret-position="544">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="famous.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="famous.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/design-concept/famous.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+            <state relative-caret-position="368">
+              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,9 +153,11 @@
         <option value="$PROJECT_DIR$/React Tutorial/react-cheetsheet.html" />
         <option value="$PROJECT_DIR$/React Native Tutotiral/react-native-cheetsheet.html" />
         <option value="$PROJECT_DIR$/React Native Tutotiral/reactnavtive-samplelayout01.html" />
-        <option value="$PROJECT_DIR$/design-concept/famous.html" />
-        <option value="$PROJECT_DIR$/git_help/helpcommand.html" />
         <option value="$PROJECT_DIR$/design-concept/design-review.html" />
+        <option value="$PROJECT_DIR$/chat/emaildraft.html" />
+        <option value="$PROJECT_DIR$/chat/brothermonju.html" />
+        <option value="$PROJECT_DIR$/git_help/helpcommand.html" />
+        <option value="$PROJECT_DIR$/design-concept/famous.html" />
       </list>
     </option>
   </component>
@@ -132,7 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,12 +230,13 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="design-concept" />
+              <option name="myItemId" value="chat" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -268,63 +338,17 @@
       <workItem from="1582630053885" duration="7000" />
       <workItem from="1583146917888" duration="59000" />
       <workItem from="1583210243324" duration="770000" />
-      <workItem from="1583292618572" duration="340000" />
-    </task>
-    <task id="LOCAL-00023" summary="ui">
-      <created>1580610319514</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1580610319514</updated>
-    </task>
-    <task id="LOCAL-00024" summary="ui">
-      <created>1580788112823</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1580788112823</updated>
-    </task>
-    <task id="LOCAL-00025" summary="ui">
-      <created>1580788201469</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1580788201469</updated>
-    </task>
-    <task id="LOCAL-00026" summary="ui">
-      <created>1580793664350</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1580793664350</updated>
-    </task>
-    <task id="LOCAL-00027" summary="ui">
-      <created>1580795722309</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1580795722309</updated>
-    </task>
-    <task id="LOCAL-00028" summary="ui">
-      <created>1580795766501</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1580795766501</updated>
-    </task>
-    <task id="LOCAL-00029" summary="ui">
-      <created>1580876056248</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1580876056248</updated>
-    </task>
-    <task id="LOCAL-00030" summary="ui">
-      <created>1581314663954</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1581314663954</updated>
+      <workItem from="1583292618572" duration="743000" />
+      <workItem from="1583295473068" duration="443000" />
+      <workItem from="1583299463418" duration="218000" />
+      <workItem from="1583300274816" duration="351000" />
+      <workItem from="1583310015239" duration="640000" />
+      <workItem from="1583314062403" duration="622000" />
+      <workItem from="1583318096233" duration="820000" />
+      <workItem from="1583632361885" duration="1971000" />
+      <workItem from="1583638316265" duration="1245000" />
+      <workItem from="1583641043237" duration="1010000" />
+      <workItem from="1583645581279" duration="11000" />
     </task>
     <task id="LOCAL-00031" summary="ui">
       <created>1581315308781</created>
@@ -613,21 +637,77 @@
       <option name="project" value="LOCAL" />
       <updated>1583210413380</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="ui">
+      <created>1583292967820</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1583292967856</updated>
+    </task>
+    <task id="LOCAL-00073" summary="ui">
+      <created>1583295508543</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1583295508543</updated>
+    </task>
+    <task id="LOCAL-00074" summary="ui">
+      <created>1583299602124</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1583299602124</updated>
+    </task>
+    <task id="LOCAL-00075" summary="ui">
+      <created>1583300289151</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1583300289151</updated>
+    </task>
+    <task id="LOCAL-00076" summary="ui">
+      <created>1583310790957</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1583310790957</updated>
+    </task>
+    <task id="LOCAL-00077" summary="ui">
+      <created>1583314072906</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1583314072906</updated>
+    </task>
+    <task id="LOCAL-00078" summary="ui">
+      <created>1583633880277</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1583633880292</updated>
+    </task>
+    <task id="LOCAL-00079" summary="ui">
+      <created>1583634605887</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1583634605887</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54944000" />
+    <option name="totallyTimeSpent" value="62678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31663114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20575693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32552955" sideWeight="0.10021322" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32516703" sideWeight="0.13326226" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32552955" sideWeight="0.8997868" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32516703" sideWeight="0.8667377" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.9221748" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -673,14 +753,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design/TraingCourse/CourseSchedule.txt" />
     <entry file="file://$PROJECT_DIR$/design/TraingCourse/Home.jpg" />
     <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -883,26 +955,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/design-concept/design-review.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/emaildraft.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="333" column="0" selection-start-line="333" selection-start-column="0" selection-end-line="333" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/brothermonju.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12920">
+          <caret line="760" column="0" selection-start-line="760" selection-start-column="0" selection-end-line="760" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/git_help/helpcommand.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="2193">
+          <caret line="129" column="52" selection-start-line="129" selection-start-column="52" selection-end-line="129" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/design-concept/famous.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-concept/design-review.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="368">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding />
         </state>
       </provider>
